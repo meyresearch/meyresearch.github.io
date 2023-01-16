@@ -1,21 +1,20 @@
-- title: "What geometrically constrained protein models can tell us about real-world protein contact maps"
+- title: "Course Materials for an Introduction to Data-Driven Chemistry"
+  image: xx.png
+  description: Geometrically constrained protein models can be used to understand protein contact maps
+  authors: James Cumby, Valentina Erastova, Matteo T. Degiacomi, J. Jasmin Güven, Claire L. Hobday, Antonia S. J. S. Mey, Hannah Pollak, Rafal Szabla
+  link:
+    url: https://github.com/Edinburgh-Chemistry-Teaching/Data-driven-chemistry
+    display: submitted to JOSE
+  highlight: 0
+  news2: 
+
+
+- title: "What geometrically constrained folding models can tell us about real-world protein contact maps"
   image: xx.png
   description: Geometrically constrained protein models can be used to understand protein contact maps
   authors: Nora Molkenthin, J. Jasmin Güven, Steffen Mühle, Antonia S. J. S. Mey
   link:
     url: https://arxiv.org/abs/2205.09074
-    display: arxiv
-  highlight: 0
-  news2: 
-
-
-
-- title: "Best practices for constructing, preparing, and evaluating protein-ligand binding affinity benchmarks"
-  image: xx.png
-  description: Benchmark dataset for predicting protein ligand binding affinities 
-  authors: David F. Hahn, Christopher I. Bayly, Hannah E. Bruce Macdonald, John D. Chodera, Antonia S. J. S. Mey, David L. Mobley, Laura Perez Benito, Christina E. M. Schindler, Gary Tresadern, Gregory L. Warren
-  link:
-    url: https://arxiv.org/abs/2105.06222
     display: arxiv
   highlight: 0
   news2: 

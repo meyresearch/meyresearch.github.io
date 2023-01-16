@@ -1,3 +1,14 @@
+- title: "Best practices for constructing, preparing, and evaluating protein-ligand binding affinity benchmarks"
+  image: xx.png
+  description: Benchmark dataset for predicting protein ligand binding affinities 
+  authors: David F. Hahn, Christopher I. Bayly, Hannah E. Bruce Macdonald, John D. Chodera, Antonia S. J. S. Mey, David L. Mobley, Laura Perez Benito, Christina E. M. Schindler, Gary Tresadern, Gregory L. Warren
+  link:
+    url: https://doi.org/10.33011/livecoms.4.1.1497
+    display: Living J. Comp. Mol. Sci. 4(1), 1497. 
+  highlight: 0
+  news2: 
+
+
 - title: "Dynamic Profiling of β-Coronavirus 3CL Mpro Protease Ligand-Binding Sites"
   image: xx.png
   description: Study of binding site stability of different coronavirus main proteases
