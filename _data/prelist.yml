@@ -1,13 +1,22 @@
+- title: "Efficient Purification of Cowpea Chlorotic Mottle Virus by a Novel Peptide Aptamer"
+  image: xx.png
+  description: A new purification protocol for Cowpea Chlorotic Mottle Virus without the need for expensive centrifugation
+  authors: G. Tscheuschner, M. Ponader, C. Raab, P. S. Weider,  R. Hartfiel,  J. O. Kaufmann ,J. L. Völzke, G. Bosc-Bierne, C. Prinz, T. Schwaar, P. Andrle, H. Bäßler, K. Nguyen, Y. Zhu, A.S.J.S. Mey, A. Mostafa, I. Bald, M. G. Weller
+  link:
+    url: https://www.preprints.org/manuscript/202301.0553/v1
+    display: 10.20944/preprints202301.0553.v1
+  highlight: 0
+  news2: 
+
 - title: "Course Materials for an Introduction to Data-Driven Chemistry"
   image: xx.png
   description: Geometrically constrained protein models can be used to understand protein contact maps
   authors: James Cumby, Valentina Erastova, Matteo T. Degiacomi, J. Jasmin Güven, Claire L. Hobday, Antonia S. J. S. Mey, Hannah Pollak, Rafal Szabla
   link:
     url: https://github.com/Edinburgh-Chemistry-Teaching/Data-driven-chemistry
-    display: submitted to JOSE
+    display: under review in JOSE
   highlight: 0
   news2: 
-
 
 - title: "What geometrically constrained folding models can tell us about real-world protein contact maps"
   image: xx.png

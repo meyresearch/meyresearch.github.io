@@ -1,10 +1,20 @@
+- title: "Chapter 8: The IMAGINARY Journey to Open Mathematics Engagement: History and Current Projects"
+  image: xx.png
+  description: An overview of how IMAGINARY does mathematics communication
+  authors: E. Londaits, A. Matt, A.S.J.S. Mey, D. Ramos, C. Stussak, B. Violet
+  link:
+    url: https://www.worldscientific.com/doi/10.1142/9789811253072_0009
+    display: World Scientific Series on Science CommunicationHandbook of Mathematical Science Communication, pp. 135-163 (2023)
+  highlight: 0
+  news2:
+
 - title: "Best practices for constructing, preparing, and evaluating protein-ligand binding affinity benchmarks"
   image: xx.png
   description: Benchmark dataset for predicting protein ligand binding affinities 
-  authors: David F. Hahn, Christopher I. Bayly, Hannah E. Bruce Macdonald, John D. Chodera, Antonia S. J. S. Mey, David L. Mobley, Laura Perez Benito, Christina E. M. Schindler, Gary Tresadern, Gregory L. Warren
+  authors: D.F. Hahn, C.I. Bayly, H.E. Bruce Macdonald, J.D. Chodera, A.S.J.S. Mey, D.L. Mobley, L. Perez Benito, C.E. M. Schindler, G.Tresadern, G.L. Warren
   link:
     url: https://doi.org/10.33011/livecoms.4.1.1497
-    display: Living J. Comp. Mol. Sci. 4(1), 1497. 
+    display: Living J. Comp. Mol. Sci. 4(1), 1497. (2022) 
   highlight: 0
   news2: 
 
