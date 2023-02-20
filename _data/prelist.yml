@@ -1,7 +1,17 @@
+- title: "mRNA interactions with disordered regions control protein activity"
+  image: xx.png
+  description: Invesitation of reguatlion of MYC interaction in cytosol and TIS granuals
+  authors: Y. Luo, S. Pratihar, E. Horste, S. Mitschka, A.S.J.S. Mey, H.M. Al-Hashimi, C. Mayr
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2023.02.18.529068v1
+    display: bioRxiv 2023.02.18.529068
+  highlight: 0
+  news2: 
+
 - title: "Efficient Purification of Cowpea Chlorotic Mottle Virus by a Novel Peptide Aptamer"
   image: xx.png
   description: A new purification protocol for Cowpea Chlorotic Mottle Virus without the need for expensive centrifugation
-  authors: G. Tscheuschner, M. Ponader, C. Raab, P. S. Weider,  R. Hartfiel,  J. O. Kaufmann ,J. L. Völzke, G. Bosc-Bierne, C. Prinz, T. Schwaar, P. Andrle, H. Bäßler, K. Nguyen, Y. Zhu, A.S.J.S. Mey, A. Mostafa, I. Bald, M. G. Weller
+  authors: G. Tscheuschner, M. Ponader, C. Raab, P. S. Weider,  R. Hartfiel, J. O. Kaufmann, J. L. Völzke, G. Bosc-Bierne, C. Prinz, T. Schwaar, P. Andrle, H. Bäßler, K. Nguyen, Y. Zhu, A.S.J.S. Mey, A. Mostafa, I. Bald, M. G. Weller
   link:
     url: https://www.preprints.org/manuscript/202301.0553/v1
     display: 10.20944/preprints202301.0553.v1
@@ -11,7 +21,7 @@
 - title: "Course Materials for an Introduction to Data-Driven Chemistry"
   image: xx.png
   description: Geometrically constrained protein models can be used to understand protein contact maps
-  authors: James Cumby, Valentina Erastova, Matteo T. Degiacomi, J. Jasmin Güven, Claire L. Hobday, Antonia S. J. S. Mey, Hannah Pollak, Rafal Szabla
+  authors: J. Cumby, V. Erastova, M.T. Degiacomi, J.J. Güven, C.L. Hobday, A.S.J.S. Mey, H. Pollak, R. Szabla
   link:
     url: https://github.com/Edinburgh-Chemistry-Teaching/Data-driven-chemistry
     display: under review in JOSE
