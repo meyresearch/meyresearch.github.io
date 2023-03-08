@@ -1,10 +1,20 @@
+- title: "Efficient Purification of Cowpea Chlorotic Mottle Virus by a Novel Peptide Aptamer"
+  image: xx.png
+  description: A new purification protocol for Cowpea Chlorotic Mottle Virus without the need for expensive centrifugation
+  authors: G. Tscheuschner, M. Ponader, C. Raab, P. S. Weider,  R. Hartfiel, J. O. Kaufmann, J. L. Völzke, G. Bosc-Bierne, C. Prinz, T. Schwaar, P. Andrle, H. Bäßler, K. Nguyen, Y. Zhu, A.S.J.S. Mey, A. Mostafa, I. Bald, M. G. Weller
+  link:
+    url: https://doi.org/10.3390/v15030697
+    display: Viruses, 15(3), 697 (2023)
+  highlight: 0
+  news2:
+
 - title: "Chapter 8: The IMAGINARY Journey to Open Mathematics Engagement: History and Current Projects"
   image: xx.png
   description: An overview of how IMAGINARY does mathematics communication
   authors: E. Londaits, A. Matt, A.S.J.S. Mey, D. Ramos, C. Stussak, B. Violet
   link:
     url: https://www.worldscientific.com/doi/10.1142/9789811253072_0009
-    display: World Scientific Series on Science CommunicationHandbook of Mathematical Science Communication, pp. 135-163 (2023)
+    display: World Scientific Series on Science Communication: Handbook of Mathematical Science Communication, pp. 135-163 (2023)
   highlight: 0
   news2:
 
@@ -14,7 +24,7 @@
   authors: D.F. Hahn, C.I. Bayly, H.E. Bruce Macdonald, J.D. Chodera, A.S.J.S. Mey, D.L. Mobley, L. Perez Benito, C.E. M. Schindler, G.Tresadern, G.L. Warren
   link:
     url: https://doi.org/10.33011/livecoms.4.1.1497
-    display: Living J. Comp. Mol. Sci. 4(1), 1497. (2022) 
+    display: Living J. Comp. Mol. Sci. 4(1), 1497 (2022) 
   highlight: 0
   news2: 
 
