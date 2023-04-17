@@ -16,12 +16,11 @@
   number_educ: 1
   education1: BSc in Chemistry, University of Edinburgh
   
-- name: Esra Nur Soysal
-  photo: esra.jpg
-  info: PhD student, started Sep 2021
-  number_educ: 2
-  education1: BSc in Chemistry, Bogazici University
-  education2: MSc Chemical Research, University College London
+- name: Marco Mattia
+  photo: marco.jpg
+  info: PhD student, started April 2023
+  number_educ: 1
+  education1: MPhys Physics, University of Edinburgh
 
 - name: Katerina Karoni
   photo: Katerina_Karoni.jpg
@@ -41,4 +40,10 @@
   info: PhD student, started Sep 2022, main supervisor Claire Hobday
   number_educ: 1
   education1: MChem Chemistry, University of Edinburgh
-  
+
+- name: Esra Nur Soysal
+  photo: esra.jpg
+  info: PhD student, started Sep 2021
+  number_educ: 2
+  education1: BSc in Chemistry, Bogazici University
+  education2: MSc Chemical Research, University College London  
