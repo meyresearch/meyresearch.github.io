@@ -1,3 +1,11 @@
+- name: "Weizhi Bai"
+  photo: weizhi.jpg
+  info: Postgraduate Taught Masters (MSc)
+  email:
+  number_educ: 1
+  education1: MSc Chemistry (PGT), University of Edinburgh, expected completion August 2023
+
+
 - name: "This could be you !"
   photo: user.png
   info: See the joining the group section for more info!
