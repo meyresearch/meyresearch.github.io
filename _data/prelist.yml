@@ -1,3 +1,12 @@
+- title: "SILVR: Guided Diffusion for Molecule Generation"
+  image: SILVR.png
+  description: SILVR is a method for conditioning a pre-trained equivariant diffusion model to perform drug design tasks for X-ray fragements. 
+  authors: N.T. Runcie, A.S.J.S. Mey
+  link: 
+    url: https://arxiv.org/abs/2304.10905
+    display: arXiv:2304.10905
+  highlight: 1 
+
 - title: "mRNA interactions with disordered regions control protein activity"
   image: xx.png
   description: Invesitation of reguatlion of MYC interaction in cytosol and TIS granuals
