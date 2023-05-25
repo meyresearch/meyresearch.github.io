@@ -17,22 +17,3 @@
   highlight: 0
   news2: 
 
-- title: "Course Materials for an Introduction to Data-Driven Chemistry"
-  image: xx.png
-  description: Geometrically constrained protein models can be used to understand protein contact maps
-  authors: J. Cumby, V. Erastova, M.T. Degiacomi, J.J. Güven, C.L. Hobday, A.S.J.S. Mey, H. Pollak, R. Szabla
-  link:
-    url: https://github.com/Edinburgh-Chemistry-Teaching/Data-driven-chemistry
-    display: under review in JOSE
-  highlight: 0
-  news2: 
-
-- title: "What geometrically constrained folding models can tell us about real-world protein contact maps"
-  image: xx.png
-  description: Geometrically constrained protein models can be used to understand protein contact maps
-  authors: Nora Molkenthin, J. Jasmin Güven, Steffen Mühle, Antonia S. J. S. Mey
-  link:
-    url: https://arxiv.org/abs/2205.09074
-    display: arxiv
-  highlight: 0
-  news2: 

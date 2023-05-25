@@ -1,3 +1,23 @@
+- title: "Course Materials for an Introduction to Data-Driven Chemistry"
+  image: xx.png
+  description: Material for Data-driven chemsitry a second year UG course
+  authors: J. Cumby, V. Erastova, M.T. Degiacomi, J.J. Güven, C.L. Hobday, A.S.J.S. Mey, H. Pollak, R. Szabla
+  link:
+    url: https://jose.theoj.org/papers/10.21105/jose.00192
+    display: J. Open Source Ed. 6, 192 (2023)
+  highlight: 0
+  news2:
+
+- title: "What geometrically constrained models can tell us about real-world protein contact maps"
+  image: xx.png
+  description: Geometrically constrained protein models can be used to understand protein contact maps
+  authors: J. Jasmin Güven, Nora Molkenthin, Steffen Mühle, Antonia S. J. S. Mey
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1478-3975/acd543
+    display: Phys. Biol. (2023) accepted online
+  highlight: 0
+  news2:
+
 - title: "Efficient Purification of Cowpea Chlorotic Mottle Virus by a Novel Peptide Aptamer"
   image: xx.png
   description: A new purification protocol for Cowpea Chlorotic Mottle Virus without the need for expensive centrifugation
