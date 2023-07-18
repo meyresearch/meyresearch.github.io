@@ -30,7 +30,7 @@
 
 - name: Katerina Karoni
   photo: Katerina_Karoni.jpg
-  info: PhD student, started Sep 2020, MAG-MICS IBM funded project
+  info: PhD student, started Sep 2020, MAG-MICS IBM funded project, main supervisor Ben Leimkuhler
   number_educ: 1
   education1: MSc Computational Fluid Mechanics, National Technical University of Athens
 
@@ -46,6 +46,12 @@
   info: PhD student, started Sep 2022, main supervisor Claire Hobday
   number_educ: 1
   education1: MChem Chemistry, University of Edinburgh
+
+- name: Saabir Petker
+  photo: xxx.jpg
+  info: PhD student, started Apr 2023, main supervisor Claire Hobday
+  number_educ: 1
+  education1: MPhys Physics, Durham University
 
 - name: Esra Nur Soysal
   photo: esra.jpg
