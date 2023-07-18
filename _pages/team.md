@@ -6,8 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# The group
 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group_photo.jpg" width="50%" style="float: center" />
 
 
 ## Team Lead
@@ -29,6 +30,7 @@ permalink: /team/
 
 
 ## Team Members
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
