@@ -11,7 +11,7 @@
 - title: "A suite of tutorials for the BioSimSpace framework for interoperable biomolecular simulation"
   image: xx.png
   description: A tutorial suite for the biomolecualr software BioSimSpace
-  authors: L. O. Hedges, S. Bariami, M. Burman, F. Clark, B. P. Cossins, A. Hardie, A. M. Herz, D. Lukauskis, A. S.J.S. Mey, J. Michel, J. Scheen, M. Suruzhon, C. J. Woods, Z. Wu}
+  authors: L. O. Hedges, S. Bariami, M. Burman, F. Clark, B. P. Cossins, A. Hardie, A. M. Herz, D. Lukauskis, A. S.J.S. Mey, J. Michel, J. Scheen, M. Suruzhon, C. J. Woods, Z. Wu
   link:
     url: https://github.com/michellab/BioSimSpaceTutorials/tree/main/LIVECOMS
     display: submitted to Living Journal of Computational Molecular Science
