@@ -1,3 +1,14 @@
+
+- title: "SILVR: Guided Diffusion for Molecule Generation"
+  image: SILVR.png
+  description: SILVR is a method for conditioning a pre-trained equivariant diffusion model to generate new molecules from X-ray fragements.
+  authors: N.T. Runcie, A. S.J.S. Mey
+  link: 
+    url: https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00667
+    display: J. Chem. Inf. Model. 63, 19, 5996–6005 (2023)
+  highlight: 1 
+  news2: The paper was selected as an Editor's Choice article
+
 - title: "Course Materials for an Introduction to Data-Driven Chemistry"
   image: xx.png
   description: Material for Data-driven chemsitry a second year UG course

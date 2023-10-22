@@ -1,3 +1,13 @@
+- title: "Markove State Models: to optimize or not to optimize"
+  image: xx.png
+  description: What and how well Binding Affinity ML-based methods learn binding affinities
+  authors: R. Arbon, Y. Zhu, A. S.J.S. Mey
+  link:
+    url: https://chemrxiv.org/engage/chemrxiv/article-details/65295aa545aaa5fdbbefc830
+    display: ChemRxiv 10.26434/chemrxiv-2023-rrpkw-v2
+  highlight: 0
+  news2:
+
 - title: "From Proteins to Ligands: Decoding Deep Learning Methods for Binding Affinity Prediction"
   image: xx.png
   description: What and how well Binding Affinity ML-based methods learn binding affinities
@@ -17,15 +27,6 @@
     display: submitted to Living Journal of Computational Molecular Science
   highlight: 0
   news2:
-
-- title: "SILVR: Guided Diffusion for Molecule Generation"
-  image: SILVR.png
-  description: SILVR is a method for conditioning a pre-trained equivariant diffusion model to perform drug design tasks for X-ray fragements. 
-  authors: N.T. Runcie, A. S.J.S. Mey
-  link: 
-    url: https://arxiv.org/abs/2304.10905
-    display: arXiv:2304.10905
-  highlight: 1 
 
 - title: "mRNA interactions with disordered regions control protein activity"
   image: xx.png
