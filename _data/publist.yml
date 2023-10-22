@@ -225,7 +225,7 @@
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jpclett.5b00330
     display:  J. Phys. Chem. Lett. 6, 1076 (2015) 
-  highlight: 1
+  highlight: 0 
   news2:
 
 - title: "Dynamic Properties of Forcefields"
