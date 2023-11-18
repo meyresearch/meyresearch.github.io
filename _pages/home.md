@@ -17,7 +17,7 @@ permalink: /
   }
 </script>
 
-- <b>2023 - present</b>: We are working towards building the next generation <i>Data Stream-Centric Retrieval-augmented Generation (RAG) System</i>. Join us and change the world.
+- <b>2023 - present</b>: We are now working towards building the next generation <i>Data Stream-Centric Retrieval-augmented Generation (RAG) System</i>. Join us and change the world.
 
 - <b>2013 - 2023</b>: We have been focus on three key stream-centric research directions:
 
@@ -59,9 +59,8 @@ permalink: /
 		- [Co-Training-based Online Sentiment Analysis (EMNLP'23, <i>Main</i>)](https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf) 
 		- [Online Continual Knowledge Learning (arxiv'23<sup>b</sup>)](https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf)
 		- [Scalable Polarity Labelling (arxiv'22)](https://arxiv.org/abs/2203.12368)
-</div>
 
-<span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Ancillary topics</span>
+<span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Other ancillary topics</span>
 <div id="ancillaryTopics" style="display:none;">
   <ul>
     <li><a href="https://doi.org/10.1109/ICDE.2017.166">MQO in CEP</a> (ICDE'17)</li>
@@ -69,6 +68,8 @@ permalink: /
     <li><a href="https://www.ijcai.org/proceedings/2020/610">Parking Prediction</a> (IJCAI'20, TKDE'21, VLDBJ'22)</li>
     <li><a href="https://ieeexplore.ieee.org/document/7877153">Cloud Resource Mgmt</a> (SC'16)</li>
   </ul>
+</div>
+
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
