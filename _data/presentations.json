@@ -65,6 +65,17 @@
     "notes": "",
     "categories": ["Online Transaction Processing System", "Transaction Scheduling", "Multicore Optimization"]
   },
+  {
+    "presenter": "Haolan He",
+    "paper": "Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity (SC'20)",
+    "date": "2023-11-24",
+    "day": "Friday",
+    "time": "3PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
+    "categories": ["DNN Model Pruning", "Sparse DNN Models", "GPU Optimization"]
+  },
 {
     "presenter": "Shuhao Zhang",
     "paper": "Data Stream Clustering: An In-depth Empirical Study",
