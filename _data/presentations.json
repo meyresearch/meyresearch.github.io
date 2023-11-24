@@ -68,12 +68,12 @@
   {
     "presenter": "Haolan He",
     "paper": "Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity (SC'20)",
-    "date": "2023-11-24",
+    "date": "2023-12-01",
     "day": "Friday",
     "time": "3PM-3:30PM (Singapore Time)",
     "slides": "",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
-    "notes": "",
+    "notes": "This presentation is postponed to 2023-12-01, thanks for your understanding.",
     "categories": ["DNN Model Pruning", "Sparse DNN Models", "GPU Optimization"]
   },
 {
@@ -152,5 +152,5 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",  
     "categories": ["Machine Learning", "Retrieval Models"]
-  },    
+  }
 ]
