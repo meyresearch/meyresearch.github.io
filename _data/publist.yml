@@ -1,3 +1,23 @@
+- title: "PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation"
+  image: 
+  description: 
+  authors: Xianzhi Zeng*, Shuhao Zhang, Hongbin Zhong, Hao Zhang, Mian Lu, Zhao Zheng, Yuqiang Chen
+  link:
+    url: 
+    display: International Conference on Management of Data (SIGMOD) (2024)
+  highlight: 0
+  news2: 
+  
+- title: "Predictive and Near-Optimal Sampling for View Materialization in Video Databases"
+  image: 
+  description: 
+  authors: Yanchao Xu, Dongxiang Zhang, Shuhao Zhang, Sai Wu, Zexu Feng, Gang Chen 
+  link:
+    url: 
+    display: International Conference on Management of Data (SIGMOD) (2024)
+  highlight: 0
+  news2:   
+  
 - title: "SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
   image: SentiStream.png
   description: Online sentiment analysis has emerged as a crucial component in numerous data-driven applications, including social media monitoring, customer feedback analysis, and online reputation management. This paper presents sentistream, a novel co-training framework specifically designed for efficient sentiment analysis within dynamic data streams.
