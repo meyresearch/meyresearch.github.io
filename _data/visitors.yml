@@ -7,15 +7,37 @@
 
 - name: Zijie Lin
   photo: user.png
-  info: Visiting Student
+  info: Intern
   email: 
   number_educ: 1
   education1: Bsc. in Computer Science, Beihang University 
   
 - name: Zhuoyan Wu
   photo: user.png
-  info: Visiting Student
+  info: Intern
   email: 
   number_educ: 2
   education1: Bsc. in Computer Science, Nanjing University of Aeronautics and Astronautics
   education2: Msc. in Computer Science, National University of Singapore
+  
+- name: Songwen Hua
+  photo: user.png
+  info: Intern
+  email: 
+  number_educ: 2
+  education1: Bsc. in Computer Science, University of Technology Sydney
+  education2: Msc. in Computer Science, Nanyang Technological University
+
+- name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
+  photo: user.png
+  info: Visiting Student (Onsite & Remote)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Information Systems, Zhejiang University expected completion in 2024
+  
+- name: Siqi Xiang
+  photo: user.png
+  info: Visiting Student
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Singapore University of Technology and Design
