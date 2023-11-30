@@ -5,16 +5,23 @@
   number_educ: 1
   education1: PhD. in Computer Science, Huazhong University of Science and Technology
 
+- name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
+  photo: user.png
+  info: Visiting Student (SUTD)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Information Systems, Zhejiang University expected completion in 2024
+  
 - name: Zijie Lin
   photo: user.png
-  info: Intern
+  info: Visiting Student (NTU)
   email: 
   number_educ: 1
   education1: Bsc. in Computer Science, Beihang University 
   
 - name: Zhuoyan Wu
   photo: user.png
-  info: Intern
+  info: Intern (NTU)
   email: 
   number_educ: 2
   education1: Bsc. in Computer Science, Nanjing University of Aeronautics and Astronautics
@@ -22,22 +29,22 @@
   
 - name: Songwen Hua
   photo: user.png
-  info: Intern
+  info: Intern (NTU)
   email: 
   number_educ: 2
   education1: Bsc. in Computer Science, University of Technology Sydney
   education2: Msc. in Computer Science, Nanyang Technological University
-
-- name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
-  photo: user.png
-  info: Visiting Student (Onsite & Remote)
-  email:
-  number_educ: 1
-  education1: B.Sc. in Information Systems, Zhejiang University expected completion in 2024
   
-- name: Siqi Xiang
+- name: Mithushan Kovintharajan
   photo: user.png
-  info: Visiting Student
+  info: Intern (SUTD)
   email:
   number_educ: 1
-  education1: B.Sc. in Computer Science, Singapore University of Technology and Design
+  education1: B.Sc. in Computer Science, University of Moratuwa, Sri Moratuwa, Sri Lanka
+  
+- name: George Sheron Clarance
+  photo: user.png
+  info: Intern (SUTD)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, University of Moratuwa, Sri Moratuwa, Sri Lanka  
