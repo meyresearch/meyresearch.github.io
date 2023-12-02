@@ -1,7 +1,7 @@
 ---
-title: "Hiring"
+title: "Open Positions"
 layout: gridlay
-excerpt: "Hiring"
+excerpt: "Open Positions"
 sitemap: false
 permalink: /hiring/
 ---
