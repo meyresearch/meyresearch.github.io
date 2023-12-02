@@ -17,6 +17,7 @@ permalink: /
   }
 </script>
 
+
 - <b>2023 - present</b>: We are now working towards building the next generation <i>Data Stream-Centric Retrieval-augmented Generation (RAG) System</i>. Join us and change the world.
 
 - <b>2013 - 2023</b>: We have been focus on three key stream-centric research directions:
