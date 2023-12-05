@@ -152,5 +152,16 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",  
     "categories": ["Machine Learning", "Retrieval Models"]
+  },
+  {
+    "presenter": "Tongjun Shi",
+    "paper": "Cross-modal Ambiguity Learning for Multimodal Fake News Detection (WWW'22)",
+    "date": "2023-12-8",
+    "day": "Friday",
+    "time": "3:00PM-4PM (Singapore Time)",
+    "slides": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
+    "categories": ["Cross-modal Learning", "Fake News Detection"]
   }
 ]
