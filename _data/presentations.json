@@ -163,5 +163,16 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Cross-modal Learning", "Fake News Detection"]
+  },
+  {
+    "presenter": "Xianzhi Zeng",
+    "paper": "Ray: A Distributed Framework for Emerging AI Applications (OSDI'18)",
+    "date": "2023-12-15",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
+    "categories": ["Distributed System", "AI", "Data Analysis"]
   }
 ]
