@@ -232,39 +232,45 @@ permalink: /team/
     <!-- Items -->
 <div class="carousel-inner" markdown="0">
     <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov4.jpg" alt="Slide 1" style="height: 400px; width: 100%; object-fit: contain;" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Shuhao_huashi2023.PNG" alt="Slide 1" style="height: 400px; width: 100%; object-fit: contain;" />
         <div class="carousel-caption">
-            <p>Team BBQ at East Coast (2023 November)</p>
+            <p>Shuhao presenting at East China Normal University 2023 December</p>
         </div>
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov3.jpg" alt="Slide 2" style="height: 400px; width: 100%; object-fit: contain;" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Shuhao_tsinghua2023.JPG" alt="Slide 2" style="height: 400px; width: 100%; object-fit: contain;" />
         <div class="carousel-caption">
-            <p>Team BBQ at East Coast (2023 November)</p>
+            <p>Shuhao presenting at Tsinghua University 2023 December</p>
         </div>
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov2.jpg" alt="Slide 3" style="height: 400px; width: 100%; object-fit: contain;" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Shuhao_USTB2023.JPG" alt="Slide 3" style="height: 400px; width: 100%; object-fit: contain;" />
         <div class="carousel-caption">
-            <p>Team BBQ at East Coast (2023 November)</p>
+            <p>Shuhao presenting at University of Science and Technology Beijing 2023 December</p>
         </div>
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov1.jpg" alt="Slide 4" style="height: 400px; width: 100%; object-fit: contain;" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Shuhao_SHJT2023.JPG" alt="Slide 4" style="height: 400px; width: 100%; object-fit: contain;" />
         <div class="carousel-caption">
-            <p>Team BBQ at East Coast (2023 November)</p>
+            <p>Shuhao presenting at Shanghai Jiaotong University 2023 December</p>
         </div>
     </div>
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Xianzhi_ICDE2023.jpg" alt="Slide 5" style="height: 400px; width: 100%; object-fit: contain;" />
         <div class="carousel-caption">
-            <p>Xianzhi Zeng presenting at ICDE 2023 USA</p>
+            <p>Xianzhi Zeng presenting at ICDE USA 2023 April</p>
         </div>
     </div>
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Shuhao_RUC2023.jpg" alt="Slide 6" style="height: 400px; width: 100%; object-fit: contain;" />
         <div class="carousel-caption">
-            <p>Shuhao Zhang presenting at Renmin University of China, Sep 2023</p>
+            <p>Shuhao Zhang presenting at Renmin University of China 2023 Sep</p>
+        </div>
+    </div>	
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov4.jpg" alt="Slide 7" style="height: 400px; width: 100%; object-fit: contain;" />
+        <div class="carousel-caption">
+            <p>Team BBQ at East Coast Singapore 2023 November</p>
         </div>
     </div>		
 </div>
