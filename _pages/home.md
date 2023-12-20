@@ -22,7 +22,7 @@ permalink: /
 	- Building the next generation <i>Data Stream-Centric Retrieval-augmented Generation (RAG) System</i>. See: <a href='https://arxiv.org/pdf/2307.08225.pdf'>visionary preprint (continously updated)</a>
 	- Building the next generation <i>Data Management System for Network Function Virtualization (NFV) System</i>. See: <a href='https://arxiv.org/pdf/2307.10732.pdf'>visionary preprint 1 (continously updated)</a> and <a href='https://arxiv.org/pdf/2312.01066.pdf'>visionary preprint 2 (continously updated)</a>
 
-- <b>2013 - 2023</b>: In the past ten years, we have been focus on three key stream-centric research directions:
+- <b>2013 - 2023</b>: In the past ten years, we have been focus on the following three key stream-centric research directions.
 
 <span onclick="toggleVisibility('TenYears')" style="cursor: pointer; color: blue; text-decoration: underline;">Last Ten Years' topics</span>
 <div id="TenYears" style="display:none;">
