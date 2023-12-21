@@ -6,37 +6,20 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research
-***Stream Processing*** with 
-	**Database Management** • **Networking Systems** • **Machine Learning** • **Data Mining** 
-	
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/Vision.png" style="width: 50%" />
-</p>
+## Research[^1]
 
-> [Our recommended reading list](https://intellistream.github.io/StreamProcessing_ReadingList/)
-
-### Software
-In general all our code can be found on [github](https://github.com/intellistream/), so feel free to have a look at what is going on at the moment. All feedback is always welcome. 
-
-<b>MorphStream</b> - [MorphStream](https://github.com/intellistream/MorphStream) aims at building a scalable transactional stream processing engine on modern hardware. It allows ACID transactions to be run directly on streaming data. It shares similar project vision with Flink StreamingLedger from Data Artisans , but MorphStream emphsizes more on improving system performance leveraging modern multicore processors. 
-
-> MorphStream is built based on our previous work of Briskstream (SIGMOD'19) and TStream (ICDE'20) but with significant changes: the codebase are exclusive. The code is still under active development and more features will be introduced. 
-
-<!---[]({{ site.url }}{{ site.baseurl }}/images/research/AllianceDB_Logo.bmp){: style="width: 100px; float: left; border: 10px"}-->
-
-<b>AllianceDB</b> - AllianceDB is an open-source benchmark suite for evaluating and improving stream operation algorithms on modern hardwares.
-It is also an open source tool and all code is available on [github](https://github.com/intellistream/AllianceDB). 
-
-<b>Sesame</b> - Sesame aims at building a scalable stream mining library on modern hardware.
-It is also an open source tool and all code is available on [github](https://github.com/intellistream/sesame). 
-
-### Hardware
-Our team manages dozens of CPU and GPU servers. To access, you must be within the SUTD network. For details, please refer to this [google doc](https://docs.google.com/document/d/1RJfLIpZfG87YV8f3nkSh1OZ091oIQVM-/edit?usp=sharing&ouid=102789742341353270250&rtpof=true&sd=true).
+- 2023 - 2026 (PI. $150,000) "Parallel Data Management in Retrieval-based Language Models". Funding from NTU Start-Up Grants. 
+- 2023 - 2026 (Co-PI. ~$3,000,000) "Real-Time Federated Learning on Data Streams". Funding from DTC. 
+- 2023 - 2026 (PI. $500,000+) "IntelliStream: Towards Highly-Optimized, Ultra-Scalable, Self-adaptive Data Streaming Analytics in the Heterogeneous Multicore IoT Systems". Funding from Singapore Ministry of Education (MOE) Academic Research Fund (AcRF) Tier 2. 
+- 2022 - 2025 (PI - Transferred. ~$500,000) "A Stream Processing based NFV Platform for 5G on Modern Multicore Processors". Funding from National Research Foundation, Singapore and Infocomm Media
+Development Authority under its Future Communications Research & Development Programme. 
+- 2022 - 2025 (PI - Transferred. ~$500,000) "Energy-efficient, Scalable, and Reliable Distributed Green Streaming
+Machine Learning for Edges. Funding from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme. 
+- 2023 - 2023 (PI - Transferred. $100,000) "Towards Online Continual Pre-Trained Language Model Maintenance". Funding from TL@SUTD.
+- 2022 - 2022 (PI - Terminated. $67,000) "Online Sentiment Learning of Massive Data Streams". Funding from TL@SUTD. 
+- 2022 - 2025 (PI - Terminated. $80,000) "Revisiting the Algorithms for Clustering Evolving Trajectory Streams". Funding from SUTD-ZJU (VP). 
+- 2021 - 2024 (PI - Terminated. $100,000) "Efficient Intra-Window Join on the Multicore IoT systems". Funding from SUTD STARTUP RESEARCH GRANT (SRG). 
 
 
-
-
-
-
+[^1]: Some grants are transferred or terminated due to my move from SUTD to NTU in 2023.
 
