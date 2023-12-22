@@ -181,7 +181,7 @@
     "date": "2023-12-22",
     "day": "Friday",
     "time": "3:00PM-3:30PM (Singapore Time)",
-    "slides": "",
+    "slides": "/downloads/talks/Paper/Distributed_OLTP.pptx",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Distributed transaction System", "Transaction re-execution"]
