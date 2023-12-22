@@ -1,8 +1,27 @@
+- title: "A suite of tutorials for the BioSimSpace framework for interoperable biomolecular simulation"
+  image: xx.png
+  description: A tutorial suite for the biomolecualr software BioSimSpace
+  authors: L. O. Hedges, S. Bariami, M. Burman, F. Clark, B. P. Cossins, A. Hardie, A. M. Herz, D. Lukauskis, A. S.J.S. Mey, J. Michel, J. Scheen, M. Suruzhon, C. J. Woods, Z. Wu
+  link:
+    url: https://github.com/michellab/BioSimSpaceTutorials/tree/main/LIVECOMS
+    display: Living Journal of Computational Molecular Science 5 (1), 2375-2375
+  highlight: 0
+  news2:
+
+- title: "From Proteins to Ligands: Decoding Deep Learning Methods for Binding Affinity Prediction"
+  image: xx.png
+  description: What and how well Binding Affinity ML-based methods learn binding affinities
+  authors: Rohan Gorantla, Alzbeta Kubincova, Andrea Y. Weisse, Antonia S.J.S. Mey
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.3c01208
+    display: J. Chem. Inf. Model. (2023)
+  highlight: 0
+  news2:
 
 - title: "SILVR: Guided Diffusion for Molecule Generation"
   image: SILVR.png
   description: SILVR is a method for conditioning a pre-trained equivariant diffusion model to generate new molecules from X-ray fragements.
-  authors: N.T. Runcie, A. S.J.S. Mey
+  authors: Nichola T. Runcie, Antonia S.J.S. Mey
   link: 
     url: https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00667
     display: J. Chem. Inf. Model. 63, 19, 5996–6005 (2023)
@@ -12,7 +31,7 @@
 - title: "Course Materials for an Introduction to Data-Driven Chemistry"
   image: xx.png
   description: Material for Data-driven chemsitry a second year UG course
-  authors: J. Cumby, V. Erastova, M.T. Degiacomi, J.J. Güven, C.L. Hobday, A.S.J.S. Mey, H. Pollak, R. Szabla
+  authors: James Cumby, Valentina Erastova, Matteo T. Degiacomi, J. Jasmin Güven, Claire L. Hobday, Antonia S.J.S. Mey, Hannah Pollak, Rafal Szabla
   link:
     url: https://jose.theoj.org/papers/10.21105/jose.00192
     display: J. Open Source Ed. 6, 192 (2023)
@@ -22,10 +41,10 @@
 - title: "What geometrically constrained models can tell us about real-world protein contact maps"
   image: xx.png
   description: Geometrically constrained protein models can be used to understand protein contact maps
-  authors: J. Jasmin Güven, Nora Molkenthin, Steffen Mühle, Antonia S. J. S. Mey
+  authors: J. Jasmin Güven, Nora Molkenthin, Steffen Mühle, Antonia S.J.S. Mey
   link:
     url: https://iopscience.iop.org/article/10.1088/1478-3975/acd543
-    display: Phys. Biol. (2023) accepted online
+    display: Phys. Biol. 20 046004 (2023)
   highlight: 0
   news2:
 
