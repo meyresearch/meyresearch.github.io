@@ -22,17 +22,17 @@ We are generally interested at system resarch on Machine Learning, Database and 
 
 - <b>[System support for Retrieval Augmented Generation]</b> We are now working towards building the next generation Data Stream-Centric Retrieval-augmented Generation (RAG) System
 
-	- <span onclick="toggleVisibility('RAG')" style="cursor: pointer; color: blue; text-decoration: underline;">related publications</span>
-	<div id="RAG" style="display:none;">
-	  <ul>
-		<li><a href="">visionary preprint</a> (preparing)</li>
-	  </ul>
+	- <span onclick="toggleVisibility('RAG')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
+	<div id="RAG" style="display:none; margin-left: 20px;">
+	<ul>
+	  <li><a href="">visionary preprint</a> (preparing)</li>
+	</ul>
 	</div>
 
 - <b>[Data Stream-Centric AI]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems 
 
-	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">related publications</span>
-	<div id="DSAI" style="display:none;">
+	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
+	<div id="DSAI" style="display:none; margin-left: 20px;">
 	<ul>
 	  <li><i>Data Stream Mining</i>:
 		<ul>
@@ -53,8 +53,8 @@ We are generally interested at system resarch on Machine Learning, Database and 
 
 - <b>[Hardware-Conscious Data Stream Processing]</b> Multicore NUMA, GPU accelerated stream query processing, AMP-aware data stream compression, etc.
 
-	- <span onclick="toggleVisibility('HWSP')" style="cursor: pointer; color: blue; text-decoration: underline;">related publications</span>
-	<div id="HWSP" style="display:none;">
+	- <span onclick="toggleVisibility('HWSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
+	<div id="HWSP" style="display:none; margin-left: 20px;">
 	<ul>
 	  <li><i>Algorithms</i>:
 		<ul>
@@ -85,8 +85,8 @@ We are generally interested at system resarch on Machine Learning, Database and 
 
 - <b>[Transactional Stream Processing]</b> Transactional stream processing (TSP) frameworks and its applications in LLM, NFV etc. 
 
-	- <span onclick="toggleVisibility('TSP')" style="cursor: pointer; color: blue; text-decoration: underline;">related publications</span>
-	<div id="TSP" style="display:none;">
+	- <span onclick="toggleVisibility('TSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
+	<div id="TSP" style="display:none; margin-left: 20px;">
 	<ul>
 	  <li><i>TSP System</i>:
 		<ul>
@@ -105,8 +105,8 @@ We are generally interested at system resarch on Machine Learning, Database and 
 	</ul>
 	</div>
 
-- <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Other ancillary topics</span>
-<div id="ancillaryTopics" style="display:none;">
+- <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary topics</span>
+<div id="ancillaryTopics" style="display:none; margin-left: 20px;">
   <ul>
     <li><a href="https://doi.org/10.1109/ICDE.2017.166">MQO in CEP</a> (ICDE'17)</li>
     <li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">CompressDB</a> (ICDE'23)</li>
