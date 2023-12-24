@@ -51,6 +51,28 @@ We are generally interested at system resarch on Machine Learning, Database and 
 	</ul>
 	</div>
 
+- <b>[Transactional Stream Processing]</b> Transactional stream processing (TSP) frameworks and its applications in LLM, NFV etc. 
+
+	- <span onclick="toggleVisibility('TSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
+	<div id="TSP" style="display:none; margin-left: 20px;">
+	<ul>
+	  <li><i>TSP System</i>:
+		<ul>
+		  <li><a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">Scalable TSP on Multicores (SIGMOD'23)</a></li>
+		  <li><a href="https://rdcu.be/dncBQ">Survey on TSP (VLDBJ'23)</a></li>
+		  <li><a href="https://arxiv.org/pdf/2307.12749.pdf">More Scalable TSP on Multicores (arxiv'23<sup>c</sup>)</a></li>
+		  <li><a href="https://doi.org/10.1109/ICDE48307.2020.00136">Towards Scalable TSP on Multicores (ICDE'20)</a></li>
+		</ul>
+	  </li>
+	  <li><i>Its Applications</i>:
+		<ul>
+		  <li><a href="https://arxiv.org/pdf/2307.10732.pdf">TSP for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
+		  <li><a href="https://arxiv.org/pdf/2307.08225.pdf">TSP for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
+		</ul>
+	  </li>
+	</ul>
+	</div>
+
 - <b>[Hardware-Conscious Data Stream Processing]</b> Multicore NUMA, GPU accelerated stream query processing, AMP-aware data stream compression, etc.
 
 	- <span onclick="toggleVisibility('HWSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
@@ -82,28 +104,6 @@ We are generally interested at system resarch on Machine Learning, Database and 
 	  </li>
 	</ul>
 	</div>	
-
-- <b>[Transactional Stream Processing]</b> Transactional stream processing (TSP) frameworks and its applications in LLM, NFV etc. 
-
-	- <span onclick="toggleVisibility('TSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="TSP" style="display:none; margin-left: 20px;">
-	<ul>
-	  <li><i>TSP System</i>:
-		<ul>
-		  <li><a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">Scalable TSP on Multicores (SIGMOD'23)</a></li>
-		  <li><a href="https://rdcu.be/dncBQ">Survey on TSP (VLDBJ'23)</a></li>
-		  <li><a href="https://arxiv.org/pdf/2307.12749.pdf">More Scalable TSP on Multicores (arxiv'23<sup>c</sup>)</a></li>
-		  <li><a href="https://doi.org/10.1109/ICDE48307.2020.00136">Towards Scalable TSP on Multicores (ICDE'20)</a></li>
-		</ul>
-	  </li>
-	  <li><i>Its Applications</i>:
-		<ul>
-		  <li><a href="https://arxiv.org/pdf/2307.10732.pdf">TSP for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
-		  <li><a href="https://arxiv.org/pdf/2307.08225.pdf">TSP for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
-		</ul>
-	  </li>
-	</ul>
-	</div>
 
 - <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
