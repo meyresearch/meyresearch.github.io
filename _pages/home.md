@@ -5,7 +5,8 @@ excerpt: "IntelliStream Research Group"
 sitemap: false
 permalink: /
 ---
- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team.jpg" width="50%" style="float: center" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team.jpg" width="50%" style="float: center" />
+
 <script>
   function toggleVisibility(id) {
     var x = document.getElementById(id);
@@ -21,59 +22,87 @@ We are generally interested at system resarch on Machine Learning, Database and 
 
 - <b>[System support for Retrieval Augmented Generation]</b> We are now working towards building the next generation Data Stream-Centric Retrieval-augmented Generation (RAG) System
 
-<span onclick="toggleVisibility('RAG')" style="cursor: pointer; color: blue; text-decoration: underline;">Related Publications</span>
+<span onclick="toggleVisibility('RAG')" style="cursor: pointer; color: blue; text-decoration: underline;">related publications</span>
 <div id="RAG" style="display:none;">
-	<ul>
-		<li><a href="">visionary preprint (preparing)</a> (arxiv)</li>
-	</ul>
+  <ul>
+    <li><a href="">visionary preprint</a> (preparing)</li>
+  </ul>
 </div>
 
 - <b>[Data Stream-Centric AI]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems 
 
-<span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">Related Publications</span>
+<span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">related publications</span>
 <div id="DSAI" style="display:none;">
-	- <i>Data Stream Mining</i>: 
-		- [In-Depth Study of Data Stream Clustering (SIGMOD'23)](https://dl.acm.org/doi/abs/10.1145/3589307) 
-		- [Self-Optimizing Data Stream Clustering (arxiv'23<sup>a</sup>)](https://arxiv.org/abs/2309.04799)
-		- [Progressive Trajectory Exploration (BigMM'19)](https://dl.acm.org/doi/abs/10.5555/3489146.3489189) 
-	- <i>Online Machine Learning</i>: 
-		- [Co-Training-based Online Sentiment Analysis (EMNLP'23, <i>Main</i>)](https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf) 
-		- [Online Continual Knowledge Learning (arxiv'23<sup>b</sup>)](https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf)
-		- [Scalable Polarity Labelling (arxiv'22)](https://arxiv.org/abs/2203.12368)
+<ul>
+  <li><i>Data Stream Mining</i>:
+	<ul>
+	  <li><a href="https://dl.acm.org/doi/abs/10.1145/3589307">In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
+	  <li><a href="https://arxiv.org/abs/2309.04799">Self-Optimizing Data Stream Clustering (arxiv'23<sup>a</sup>)</a></li>
+	  <li><a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
+	</ul>
+  </li>
+  <li><i>Online Machine Learning</i>:
+	<ul>
+	  <li><a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Co-Training-based Online Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
+	  <li><a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">Online Continual Knowledge Learning (arxiv'23<sup>b</sup>)</a></li>
+	  <li><a href="https://arxiv.org/abs/2203.12368">Scalable Polarity Labelling (arxiv'22)</a></li>
+	</ul>
+  </li>
+</ul>
 </div>
 
 - <b>[Hardware-Conscious Data Stream Processing]</b> Multicore NUMA, GPU accelerated stream query processing, AMP-aware data stream compression, etc.
 
-<span onclick="toggleVisibility('HWSP')" style="cursor: pointer; color: blue; text-decoration: underline;">Related Publications</span>
+<span onclick="toggleVisibility('HWSP')" style="cursor: pointer; color: blue; text-decoration: underline;">related publications</span>
 <div id="HWSP" style="display:none;">
-	- <i>Algorithms</i>: 
-		- [Stream Compression on AMP (ICDE'23<sup>a</sup>)](https://ieeexplore.ieee.org/document/10184703)
-		- [Scalable Streaming Join on Multicores (ICDE'23<sup>b</sup>)](https://ieeexplore.ieee.org/document/10184828)
-		- [HW-Conscious Stream Compression (DEBS'23)](https://dl.acm.org/doi/abs/10.1145/3583678.3596885)
-		- [HW-Conscious Stream Compression (arxiv'23)](https://arxiv.org/pdf/2306.10228.pdf)
-		- [Empirial Study of Streaming Join on Multicores (SIGMOD'21)](https://dl.acm.org/doi/10.1145/3448016.3452793) 
-	- <i>Systems</i>: 
-		- [Stream Processing on CPU-GPU (TPDS'21)](https://doi.org/10.1109/TPDS.2021.3066407)
-		- [Survey on HW-Conscious Stream Processing (SIGMOD Rec'20)](https://dl.acm.org/doi/10.1145/3385658.3385662) 
-		- [Stream Processing on CPU-GPU (USENIX ATC'20)](https://dl.acm.org/doi/abs/10.5555/3489146.3489189)
-		- [NUMA-aware Stream Processing (SIGMOD'19)](https://dl.acm.org/doi/10.1145/3299869.3300067)
-		- [Profiling of Streaming System on Multicore (ICDE'17)](https://doi.org/10.1109/ICDE.2017.119)
-	- <i>Non-Streaming Systems</i>:
-		- <a href="https://dl.acm.org/doi/10.14778/2536274.2536319">APU Systems</a> (VLDB'13, VLDB'14, MASCOTS'15, TPDS'17)
-		- <a href="https://ieeexplore.ieee.org/document/7425227">FPGA Systems</a> (TPDS'16)
+<ul>
+  <li><i>Algorithms</i>:
+	<ul>
+	  <li><a href="https://ieeexplore.ieee.org/document/10184703">Stream Compression on AMP (ICDE'23<sup>a</sup>)</a></li>
+	  <li><a href="https://ieeexplore.ieee.org/document/10184828">Scalable Streaming Join on Multicores (ICDE'23<sup>b</sup>)</a></li>
+	  <li><a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">HW-Conscious Stream Compression (DEBS'23)</a></li>
+	  <li><a href="https://arxiv.org/pdf/2306.10228.pdf">HW-Conscious Stream Compression (arxiv'23)</a></li>
+	  <li><a href="https://dl.acm.org/doi/10.1145/3448016.3452793">Empirical Study of Streaming Join on Multicores (SIGMOD'21)</a></li>
+	</ul>
+  </li>
+  <li><i>Systems</i>:
+	<ul>
+	  <li><a href="https://doi.org/10.1109/TPDS.2021.3066407">Stream Processing on CPU-GPU (TPDS'21)</a></li>
+	  <li><a href="https://dl.acm.org/doi/10.1145/3385658.3385662">Survey on HW-Conscious Stream Processing (SIGMOD Rec'20)</a></li>
+	  <li><a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Stream Processing on CPU-GPU (USENIX ATC'20)</a></li>
+	  <li><a href="https://dl.acm.org/doi/10.1145/3299869.3300067">NUMA-aware Stream Processing (SIGMOD'19)</a></li>
+	  <li><a href="https://doi.org/10.1109/ICDE.2017.119">Profiling of Streaming System on Multicore (ICDE'17)</a></li>
+	</ul>
+  </li>
+  <li><i>Non-Streaming Systems</i>:
+	<ul>
+	  <li><a href="https://dl.acm.org/doi/10.14778/2536274.2536319">APU Systems (VLDB'13, VLDB'14, MASCOTS'15, TPDS'17)</a></li>
+	  <li><a href="https://ieeexplore.ieee.org/document/7425227">FPGA Systems (TPDS'16)</a></li>
+	</ul>
+  </li>
+</ul>
 </div>	
 
 - <b>[Transactional Stream Processing]</b> Transactional stream processing (TSP) frameworks and its applications in LLM, NFV etc. 
-<span onclick="toggleVisibility('TSP')" style="cursor: pointer; color: blue; text-decoration: underline;">Related Publications</span>
+
+<span onclick="toggleVisibility('TSP')" style="cursor: pointer; color: blue; text-decoration: underline;">related publications</span>
 <div id="TSP" style="display:none;">
-	- <i>TSP System</i>: 
-		- [Scalable TSP on Multicores (SIGMOD'23)](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf) 
-		- [Survey on TSP (VLDBJ'23)](https://rdcu.be/dncBQ) 
-		- [More Scalable TSP on Multicores (arxiv'23<sup>c</sup>)](https://arxiv.org/pdf/2307.12749.pdf)
-		- [Towards Scalable TSP on Multicores (ICDE'20)](https://doi.org/10.1109/ICDE48307.2020.00136)
-	- <i>Its Applications</i>: 
-		- [TSP for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)](https://arxiv.org/pdf/2307.10732.pdf) 
-		- [TSP for Large Language Model (LLM) (arxiv'23<sup>b</sup>)](https://arxiv.org/pdf/2307.08225.pdf)
+<ul>
+  <li><i>TSP System</i>:
+	<ul>
+	  <li><a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">Scalable TSP on Multicores (SIGMOD'23)</a></li>
+	  <li><a href="https://rdcu.be/dncBQ">Survey on TSP (VLDBJ'23)</a></li>
+	  <li><a href="https://arxiv.org/pdf/2307.12749.pdf">More Scalable TSP on Multicores (arxiv'23<sup>c</sup>)</a></li>
+	  <li><a href="https://doi.org/10.1109/ICDE48307.2020.00136">Towards Scalable TSP on Multicores (ICDE'20)</a></li>
+	</ul>
+  </li>
+  <li><i>Its Applications</i>:
+	<ul>
+	  <li><a href="https://arxiv.org/pdf/2307.10732.pdf">TSP for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
+	  <li><a href="https://arxiv.org/pdf/2307.08225.pdf">TSP for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
+	</ul>
+  </li>
+</ul>
 </div>
 
 <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Other ancillary topics</span>
