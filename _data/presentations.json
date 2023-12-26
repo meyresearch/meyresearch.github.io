@@ -185,5 +185,16 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Distributed transaction System", "Transaction re-execution"]
+  },
+  {
+    "presenter": "Yuhao Wu",
+    "paper": "SELF-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection (ICLR'24)",
+    "date": "2023-12-29",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
+    "categories": ["Large Language Model", "Retrieval-Augmented Generation"]
   }
 ]
