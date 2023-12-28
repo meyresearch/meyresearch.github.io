@@ -34,6 +34,11 @@ We are generally interested at system resarch on Machine Learning, Database and 
 	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
 	<div id="DSAI" style="display:none; margin-left: 20px;">
 	<ul>
+		  <li><i>AI for Data Stream Management</i>:
+		<ul>
+		  <li><a href="https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf">Join on Disorder Data Streams with Proactive Error Compensation (SIGMOD'24)</a></li>
+		</ul>
+	  </li>
 	  <li><i>Data Stream Mining</i>:
 		<ul>
 		  <li><a href="https://dl.acm.org/doi/abs/10.1145/3589307">In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
@@ -58,6 +63,7 @@ We are generally interested at system resarch on Machine Learning, Database and 
 	<ul>
 	  <li><i>TSP System</i>:
 		<ul>
+		  <li><a href="">Scalable Processing of Transactions over Streams (ICDE'24 Demo)</a></li>
 		  <li><a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">Scalable TSP on Multicores (SIGMOD'23)</a></li>
 		  <li><a href="https://rdcu.be/dncBQ">Survey on TSP (VLDBJ'23)</a></li>
 		  <li><a href="https://arxiv.org/pdf/2307.12749.pdf">More Scalable TSP on Multicores (arxiv'23<sup>c</sup>)</a></li>
@@ -105,9 +111,10 @@ We are generally interested at system resarch on Machine Learning, Database and 
 	</ul>
 	</div>	
 
-- <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary topics</span>
+- <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary/collaborate topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
   <ul>
+    <li><a href="">View Materialization in Video Databases</a> (SIGMOD'24)</li>
     <li><a href="https://doi.org/10.1109/ICDE.2017.166">MQO in CEP</a> (ICDE'17)</li>
     <li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">CompressDB</a> (ICDE'23)</li>
     <li><a href="https://www.ijcai.org/proceedings/2020/610">Parking Prediction</a> (IJCAI'20, TKDE'21, VLDBJ'22)</li>
