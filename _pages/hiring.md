@@ -6,11 +6,15 @@ sitemap: false
 permalink: /hiring/
 ---
 
+**Note:**
+
+- Currently, we don't hire short-term RA or interns. Positions are reserved for those who will continue their PhDs (e.g., in a part-time manner) in our Lab.
+
 - We welcome students who want to explore the <i>system research</i> area, particularly ML system, database system, and network system.
 
 - GPA is the least thing we consider. Hands on experience matter more.
 
-- 中国大陆学生: 如果你有参与 "全国大学生电子设计竞赛", “龙芯杯” 并获得不错的成绩， 我们将优先考虑录取。
+- 中国大陆学生: 如果你有参与 "全国大学生电子设计竞赛", "龙芯杯"，“世界大学生超级计算机竞赛”，并获得不错的成绩， 我们将优先考虑录取。
 
 - If you are interested in pursuing graduate studies at NTU, please apply at the <a href='https://venus.wis.ntu.edu.sg/GOAL/OnlineApplicationModule/frmOnlineApplication.ASPX'>portal</a>.
 
