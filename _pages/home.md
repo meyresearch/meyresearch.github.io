@@ -114,11 +114,11 @@ We are generally interested at system resarch on Machine Learning, Database and 
 - <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary/collaborate topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
   <ul>
-    <li><a href="">View Materialization in Video Databases</a> (SIGMOD'24)</li>
-    <li><a href="https://doi.org/10.1109/ICDE.2017.166">MQO in CEP</a> (ICDE'17)</li>
-    <li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">CompressDB</a> (ICDE'23)</li>
-    <li><a href="https://www.ijcai.org/proceedings/2020/610">Parking Prediction</a> (IJCAI'20, TKDE'21, VLDBJ'22)</li>
-    <li><a href="https://ieeexplore.ieee.org/document/7877153">Cloud Resource Mgmt</a> (SC'16)</li>
+    <li><a href="">View Materialization in Video Databases</a> with Zhejiang Univeristy, Prof.Dongxiang Zhang (SIGMOD'24)</li>
+    <li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">CompressDB</a> with Renmin Univeristy of China, Prof.Feng Zhang (ICDE'23)</li>
+    <li><a href="https://www.ijcai.org/proceedings/2020/610">Parking Prediction</a> with Renmin Univeristy of China, Prof.Feng Zhang (IJCAI'20, TKDE'21, VLDBJ'22)</li>    
+    <li><a href="https://doi.org/10.1109/ICDE.2017.166">MQO in CEP</a> with SAP (ICDE'17)</li>
+    <li><a href="https://ieeexplore.ieee.org/document/7877153">Cloud Resource Mgmt</a> with Tianjin Univeristy, Prof.Shanjiang Tang (SC'16)</li>
   </ul>
 </div>
 
