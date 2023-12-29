@@ -9,7 +9,7 @@ permalink: /research/
 ## Research[^1]
 
 - 2023 - 2026 (PI. $150,000) "Parallel Data Management in Retrieval-based Language Models". Funding from NTU Start-Up Grants. 
-- 2023 - 2026 (Co-PI. ~$3,000,000) "Real-Time Federated Learning on Data Streams". Funding from DTC. 
+- 2023 - 2026 (Co-PI. $1,300,000) "Real-Time Federated Learning on Data Streams". Funding from DTC. 
 - 2023 - 2026 (PI. $500,000+) "IntelliStream: Towards Highly-Optimized, Ultra-Scalable, Self-adaptive Data Streaming Analytics in the Heterogeneous Multicore IoT Systems". Funding from Singapore Ministry of Education (MOE) Academic Research Fund (AcRF) Tier 2. 
 - 2022 - 2025 (PI - Transferred. ~$500,000) "A Stream Processing based NFV Platform for 5G on Modern Multicore Processors". Funding from National Research Foundation, Singapore and Infocomm Media
 Development Authority under its Future Communications Research & Development Programme. 
