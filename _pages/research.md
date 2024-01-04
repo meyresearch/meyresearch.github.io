@@ -16,7 +16,7 @@ Development Authority under its Future Communications Research & Development Pro
 - 2022 - 2025 (PI - Transferred. ~$500,000) "Energy-efficient, Scalable, and Reliable Distributed Green Streaming
 Machine Learning for Edges. Funding from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme. 
 - 2023 - 2023 (PI - Transferred. $100,000) "Towards Online Continual Pre-Trained Language Model Maintenance". Funding from TL@SUTD.
-- 2022 - 2022 (PI - Terminated. $67,000) "Online Sentiment Learning of Massive Data Streams". Funding from TL@SUTD. 
+- 2022 - 2022 (PI - Completed. $67,000) "Online Sentiment Learning of Massive Data Streams". Funding from TL@SUTD. 
 - 2022 - 2025 (PI - Terminated. $80,000) "Revisiting the Algorithms for Clustering Evolving Trajectory Streams". Funding from SUTD-ZJU (VP). 
 - 2021 - 2024 (PI - Terminated. $100,000) "Efficient Intra-Window Join on the Multicore IoT systems". Funding from SUTD STARTUP RESEARCH GRANT (SRG). 
 
