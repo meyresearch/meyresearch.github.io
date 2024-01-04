@@ -192,9 +192,20 @@
     "date": "2023-12-29",
     "day": "Friday",
     "time": "3:00PM-3:30PM (Singapore Time)",
-    "slides": "",
+    "slides": "/downloads/talks/Paper/Self-RAG.pptx",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Large Language Model", "Retrieval-Augmented Generation"]
+  },
+  {
+    "presenter": "Tongjun Shi",
+    "paper": "TBD",
+    "date": "2024-01-12",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "This week's presentation is postponed to 2023-Jan-12, thanks for your understanding.",
+    "categories": []
   }
 ]
