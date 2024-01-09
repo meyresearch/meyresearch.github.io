@@ -205,7 +205,18 @@
     "time": "3:00PM-3:30PM (Singapore Time)",
     "slides": "",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
-    "notes": "This week's presentation is postponed to 2023-Jan-12, thanks for your understanding.",
+    "notes": "",
     "categories": []
+  },
+  {
+    "presenter": "Xianzhi Zeng",
+    "paper": "VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity",
+    "date": "2024-01-19",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
+    "categories": ["Similarity Search", "Relational Query"]
   }
 ]
