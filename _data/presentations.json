@@ -199,14 +199,14 @@
   },
   {
     "presenter": "Tongjun Shi",
-    "paper": "TBD",
+    "paper": "SparCL: Sparse Continual Learning on the Edge, Neural IPS'2022",
     "date": "2024-01-12",
     "day": "Friday",
     "time": "3:00PM-3:30PM (Singapore Time)",
     "slides": "",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
-    "categories": []
+    "categories": ["Continual Learning", "Edge Computing"]
   },
   {
     "presenter": "Xianzhi Zeng",
