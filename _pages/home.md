@@ -7,46 +7,74 @@ permalink: /
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team.jpg" width="50%" style="float: center" />
 
-<script>
-  function toggleVisibility(id) {
-    var x = document.getElementById(id);
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
-  }
-</script>
 
 We are generally interested at system resarch on Machine Learning, Database and their interactions. In particular, the group has the following current research focus. 
 
-- <b>[System support for Retrieval Augmented Generation]</b> We are now working towards building the next generation Data Stream-Centric Retrieval-augmented Generation (RAG) System
+<style>
+  .nav-button {
+    cursor: pointer;
+    color: blue;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
 
-	- <span onclick="toggleVisibility('RAG')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="RAG" style="display:none; margin-left: 20px;">
+  .nav-button:hover {
+    background-color: #f0f0f0;
+  }
+
+  .content-section {
+    display: none;
+    margin-left: 20px;
+  }
+
+  .active-section {
+    display: block;
+  }
+</style>
+
+<script>
+  function showSection(sectionId) {
+    var sections = document.getElementsByClassName('content-section');
+    for (var i = 0; i < sections.length; i++) {
+      sections[i].style.display = 'none';
+    }
+    var activeSection = document.getElementById(sectionId);
+    activeSection.style.display = 'block';
+  }
+</script>
+
+<div>
+  <div class="nav-button" onclick="showSection('RAG')">System support for Retrieval Augmented Generation</div>
+  <div class="nav-button" onclick="showSection('DSAI')">Data Stream-Centric AI</div>
+  <div class="nav-button" onclick="showSection('TSP')">Transactional Stream Processing</div>
+  <div class="nav-button" onclick="showSection('HWSP')">Hardware-Conscious Data Stream Processing</div>
+  <div class="nav-button" onclick="showSection('ancillaryTopics')">Other Ancillary/Collaborate Topics</div>
+</div>
+
+<div id="RAG" class="content-section">
 	<ul>
 	  <li><a href="">visionary preprint</a> (preparing)</li>
 	</ul>
-	</div>
+</div>
 
-- <b>[Data Stream-Centric AI]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems 
-
-	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="DSAI" style="display:none; margin-left: 20px;">
+<div id="DSAI" class="content-section">
 	<ul>
-		  <li><i>AI for Data Stream Management</i>:
+		<li><i>AI for Data Stream Management</i>:
 		<ul>
 		  <li><a href="https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf">Join on Disorder Data Streams with Proactive Error Compensation (SIGMOD'24)</a></li>
 		</ul>
-	  </li>
-	  <li><i>Data Stream Mining</i>:
+		</li>
+		<li><i>Data Stream Mining</i>:
 		<ul>
 		  <li><a href="https://dl.acm.org/doi/abs/10.1145/3589307">In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
 		  <li><a href="https://arxiv.org/abs/2309.04799">Self-Optimizing Data Stream Clustering (arxiv'23<sup>a</sup>)</a></li>
 		  <li><a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
 		</ul>
-	  </li>
-	  <li><i>Online Machine Learning</i>:
+		</li>
+		<li><i>Online Machine Learning</i>:
 		<ul>
 		  <li><a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Co-Training-based Online Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
 		  <li><a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">Online Continual Knowledge Learning (arxiv'23<sup>b</sup>)</a></li>
@@ -54,12 +82,9 @@ We are generally interested at system resarch on Machine Learning, Database and 
 		</ul>
 	  </li>
 	</ul>
-	</div>
+</div>
 
-- <b>[Transactional Stream Processing]</b> Transactional stream processing (TSP) frameworks and its applications in LLM, NFV etc. 
-
-	- <span onclick="toggleVisibility('TSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="TSP" style="display:none; margin-left: 20px;">
+<div id="TSP" class="content-section">
 	<ul>
 	  <li><i>TSP System</i>:
 		<ul>
@@ -77,12 +102,9 @@ We are generally interested at system resarch on Machine Learning, Database and 
 		</ul>
 	  </li>
 	</ul>
-	</div>
+</div>
 
-- <b>[Hardware-Conscious Data Stream Processing]</b> Multicore NUMA, GPU accelerated stream query processing, AMP-aware data stream compression, etc.
-
-	- <span onclick="toggleVisibility('HWSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="HWSP" style="display:none; margin-left: 20px;">
+<div id="HWSP" class="content-section">
 	<ul>
 	  <li><i>Algorithms</i>:
 		<ul>
@@ -109,10 +131,9 @@ We are generally interested at system resarch on Machine Learning, Database and 
 		</ul>
 	  </li>
 	</ul>
-	</div>	
+</div>
 
-- <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary/collaborate topics</span>
-<div id="ancillaryTopics" style="display:none; margin-left: 20px;">
+<div id="ancillaryTopics" class="content-section">
   <ul>
     <li><a href="">View Materialization in Video Databases</a> with Zhejiang Univeristy, Prof.Dongxiang Zhang (SIGMOD'24)</li>
     <li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">CompressDB</a> with Renmin Univeristy of China, Prof.Feng Zhang (ICDE'23)</li>
@@ -121,6 +142,7 @@ We are generally interested at system resarch on Machine Learning, Database and 
     <li><a href="https://ieeexplore.ieee.org/document/7877153">Cloud Resource Mgmt</a> with Tianjin Univeristy, Prof.Shanjiang Tang (SC'16)</li>
   </ul>
 </div>
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
