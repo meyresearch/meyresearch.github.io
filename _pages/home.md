@@ -10,28 +10,6 @@ permalink: /
 
 We are generally interested at system resarch on Machine Learning, Database and their interactions. In particular, the group has the following current research focus. 
 
-<div style="display: flex;">
-  <div class="nav-bar">
-    <div class="nav-button" onclick="showSection('RAG')">System support for Retrieval Augmented Generation</div>
-    <div class="nav-button" onclick="showSection('DSAI')">Data Stream-Centric AI</div>
-    <div class="nav-button" onclick="showSection('TSP')">Transactional Stream Processing</div>
-    <div class="nav-button" onclick="showSection('HWSP')">Hardware-Conscious Data Stream Processing</div>
-    <div class="nav-button" onclick="showSection('ancillaryTopics')">Other Ancillary/Collaborate Topics</div>
-  </div>
-
-  <div>
-    <div id="RAG" class="content-section">
-      <!-- Content for RAG -->
-    </div>
-    <div id="DSAI" class="content-section">
-      <!-- Content for DSAI -->
-    </div>
-    <!-- Other content sections -->
-  </div>
-</div>
-
-<!-- Carousel and other content -->
-
 <script>
   function showSection(sectionId) {
     var sections = document.getElementsByClassName('content-section');
@@ -78,6 +56,28 @@ We are generally interested at system resarch on Machine Learning, Database and 
     display: block;
   }
 </style>
+
+<div style="display: flex;">
+  <div class="nav-bar">
+    <div class="nav-button" onclick="showSection('RAG')">System support for Retrieval Augmented Generation</div>
+    <div class="nav-button" onclick="showSection('DSAI')">Data Stream-Centric AI</div>
+    <div class="nav-button" onclick="showSection('TSP')">Transactional Stream Processing</div>
+    <div class="nav-button" onclick="showSection('HWSP')">Hardware-Conscious Data Stream Processing</div>
+    <div class="nav-button" onclick="showSection('ancillaryTopics')">Other Ancillary/Collaborate Topics</div>
+  </div>
+
+  <div>
+    <div id="RAG" class="content-section">
+      <!-- Content for RAG -->
+    </div>
+    <div id="DSAI" class="content-section">
+      <!-- Content for DSAI -->
+    </div>
+    <!-- Other content sections -->
+  </div>
+</div>
+
+<!-- Carousel and other content -->
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
