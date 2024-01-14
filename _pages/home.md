@@ -11,23 +11,34 @@ permalink: /
 We are generally interested at system resarch on Machine Learning, Database and their interactions. In particular, the group has the following current research focus. 
 
 <style>
+  .nav-bar {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+    min-height: 200px; /* Adjust as needed */
+  }
+
   .nav-button {
     cursor: pointer;
     color: blue;
-    padding: 10px;
-    margin: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
     border: 1px solid #ccc;
     border-radius: 5px;
     text-align: center;
+    background-color: #f0f0f0;
   }
 
   .nav-button:hover {
-    background-color: #f0f0f0;
+    background-color: #e0e0e0;
   }
 
   .content-section {
     display: none;
     margin-left: 20px;
+    padding: 10px;
   }
 
   .active-section {
@@ -46,7 +57,7 @@ We are generally interested at system resarch on Machine Learning, Database and 
   }
 </script>
 
-<div>
+<div class="nav-bar">
   <div class="nav-button" onclick="showSection('RAG')">System support for Retrieval Augmented Generation</div>
   <div class="nav-button" onclick="showSection('DSAI')">Data Stream-Centric AI</div>
   <div class="nav-button" onclick="showSection('TSP')">Transactional Stream Processing</div>
