@@ -25,19 +25,19 @@ We are generally interested at system research on Machine Learning, Database and
 	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
 	<div id="DSAI" style="display:none; margin-left: 20px;">
 	<ul>	
-	  <li><i>Retrieval-augmented Generation</i>:
+	  <li><i>Large Language Model</i>:
 			<ul>
 				<li><a href="">Novel Retrival Paradigam/Algorithm (preparing)</a> collaborate with SUTD Prof.Wei Lu</li>
 			</ul>
 	  </li>	
-	  <li><i>Data Stream Mining</i>:
+	  <li><i>Stream Mining</i>:
 		<ul>
 		  <li><a href="https://dl.acm.org/doi/abs/10.1145/3589307">In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
 		  <li><a href="https://arxiv.org/abs/2309.04799">Self-Optimizing Data Stream Clustering (arxiv'23<sup>a</sup>)</a></li>
 		  <li><a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
 		</ul>
 	  </li>
-	  <li><i>Online Machine Learning</i>:
+	  <li><i>Stream Learning</i>:
 		<ul>
 		  <li><a href="">Efficient Stream Learning (preparing)</a></li>
 		  <li><a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Co-Training-based Online Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
@@ -51,41 +51,47 @@ We are generally interested at system research on Machine Learning, Database and
 - <b>[High Performance Stream Processing Infrastructure]</b> Multicore NUMA, GPU accelerated stream query processing, AMP-aware data stream compression, transactional stream processing (TSP) frameworks and its applications in LLM, NFV etc. 
 	- <span onclick="toggleVisibility('HWSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
 	<div id="HWSP" style="display:none; margin-left: 20px;">
-	<ul>
-	  <li><i>ML Systems</i>:
+	<ul>	
+	  <li><i>Survey</i>:
 			<ul>
-				<li><a href="">High Performance ML Inference (reviewing)</a></li>
-				<li><a href="">Novel Indexing Methods of Vectors for Efficient Retrieval-augmented Generation (preparing)</a></li>
-				<li><a href="https://arxiv.org/pdf/2307.08225.pdf">TSP for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
+				<li><a href="https://rdcu.be/dncBQ">Survey on TSP (VLDBJ'23)</a></li>
+				<li><a href="https://dl.acm.org/doi/10.1145/3385658.3385662">Survey on HW-Conscious Stream Processing (SIGMOD Rec'20)</a></li>
 			</ul>
 	  </li>		
-	  <li><i>DB Algorithms</i>:
-		<ul>
-		  <li><a href="https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf">Join on Disorder Data Streams with Proactive Error Compensation (SIGMOD'24)</a> collaborate with 4Paradigm</li>
-		  <li><a href="https://ieeexplore.ieee.org/document/10184703">Stream Compression on AMP (ICDE'23<sup>a</sup>)</a></li>
-		  <li><a href="https://ieeexplore.ieee.org/document/10184828">Scalable Streaming Join on Multicores (ICDE'23<sup>b</sup>)</a></li>
-		  <li><a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">HW-Conscious Stream Compression (DEBS'23)</a></li>
-		  <li><a href="https://arxiv.org/pdf/2306.10228.pdf">HW-Conscious Stream Compression (arxiv'23)</a></li>
-		  <li><a href="https://dl.acm.org/doi/10.1145/3448016.3452793">Empirical Study of Streaming Join on Multicores (SIGMOD'21)</a></li>
-		  <li><a href="https://doi.org/10.1109/ICDE.2017.166">MQO in CEP</a> with SAP (ICDE'17)</li>		  
-		</ul>
-	  </li>  
-	  <li><i>DB Systems</i>:
-		<ul>	
-		  <li><a href="">View Materialization in Video Databases</a> with Zhejiang Univeristy Prof.Dongxiang Zhang (SIGMOD'24)</li>	
-		  <li><a href="">Scalable Processing of Transactions over Streams (ICDE'24 Demo)</a></li>
-		  <li><a href="https://arxiv.org/pdf/2307.10732.pdf">TSP for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
-		  <li><a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">Scalable TSP on Multicores (SIGMOD'23)</a></li>
-		  <li><a href="https://rdcu.be/dncBQ">Survey on TSP (VLDBJ'23)</a></li>
-		  <li><a href="https://arxiv.org/pdf/2307.12749.pdf">More Scalable TSP on Multicores (arxiv'23<sup>c</sup>)</a></li>
-		  <li><a href="https://doi.org/10.1109/ICDE48307.2020.00136">Towards Scalable TSP on Multicores (ICDE'20)</a></li>			
-		  <li><a href="https://doi.org/10.1109/TPDS.2021.3066407">Stream Processing on CPU-GPU (TPDS'21)</a></li>
-		  <li><a href="https://dl.acm.org/doi/10.1145/3385658.3385662">Survey on HW-Conscious Stream Processing (SIGMOD Rec'20)</a></li>
-		  <li><a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Stream Processing on CPU-GPU (USENIX ATC'20)</a></li>
-		  <li><a href="https://dl.acm.org/doi/10.1145/3299869.3300067">NUMA-aware Stream Processing (SIGMOD'19)</a></li>
-		  <li><a href="https://doi.org/10.1109/ICDE.2017.119">Profiling of Streaming System on Multicore (ICDE'17)</a></li>		  
-		  <li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">Compression-aware Stream Database</a> with Renmin Univeristy of China, Prof.Feng Zhang (ICDE'23)</li>
-		</ul>
+	  <li><i>Benchmarking</i>:
+			<ul>
+				<li><a href="">High Performance ML Inference on Modern Hardware (reviewing)</a></li>
+				<li><a href="">Indexing Methods of Vectors for Efficient Retrieval-augmented Generation (preparing)</a></li>
+				<li><a href="https://dl.acm.org/doi/10.1145/3448016.3452793">Empirical Study of Streaming Join on Multicores (SIGMOD'21)</a></li>
+			</ul>
+	  </li>		
+	  <li><i>Algorithm/Query Optimization</i>:
+			<ul>
+				<li><a href="https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf">Join on Disorder Data Streams with Proactive Error Compensation (SIGMOD'24)</a> collaborate with 4Paradigm</li>
+				<li><a href="https://ieeexplore.ieee.org/document/10184828">Scalable Streaming Join on Multicores (ICDE'23<sup>b</sup>)</a></li>
+				<li><a href="https://doi.org/10.1109/ICDE.2017.166">Multi-Query Optimization in Complex Event Processing</a> with SAP (ICDE'17)</li>
+			</ul>
+	  </li>	
+	  <li><i>System Development/Optimization</i>:
+			<ul>			
+				<li><a href="">View Materialization in Video Databases</a> with Zhejiang Univeristy Prof.Dongxiang Zhang (SIGMOD'24)</li>	
+				<li><a href="">Scalable Processing of Transactions over Streams (ICDE'24 Demo)</a></li>
+				<li><a href="https://arxiv.org/pdf/2307.10732.pdf">TSP for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
+				<li><a href="https://arxiv.org/pdf/2307.08225.pdf">TSP for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
+				<li><a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">Scalable TSP on Multicores (SIGMOD'23)</a></li>
+				<li><a href="https://arxiv.org/pdf/2307.12749.pdf">More Scalable TSP on Multicores (arxiv'23<sup>c</sup>)</a></li>
+				<li><a href="https://doi.org/10.1109/ICDE48307.2020.00136">First Scalable TSP on Multicores (ICDE'20)</a></li>
+				<li><a href="https://ieeexplore.ieee.org/document/10184703">Stream Compression on AMP (ICDE'23<sup>a</sup>)</a></li>
+				<li><a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">HW-Conscious Stream Compression (DEBS'23)</a></li>
+				<li><a href="https://arxiv.org/pdf/2306.10228.pdf">HW-Conscious Stream Compression Framework (arxiv'23)</a></li>
+				<li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">Compression-aware Stream Database</a> with Renmin Univeristy of China, Prof.Feng Zhang (ICDE'23)</li>				
+				<li><a href="https://doi.org/10.1109/TPDS.2021.3066407">Stream Processing on CPU-GPU (TPDS'21)</a></li>
+				<li><a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Stream Processing on CPU-GPU (USENIX ATC'20)</a></li>
+				<li><a href="https://dl.acm.org/doi/10.1145/3299869.3300067">NUMA-aware Stream Processing (SIGMOD'19)</a></li>
+				<li><a href="https://doi.org/10.1109/ICDE.2017.119">Profiling of Streaming System on Multicore (ICDE'17)</a></li>
+				<li><a href="https://dl.acm.org/doi/10.14778/2536274.2536319">DB on APU Systems (VLDB'13, VLDB'14, MASCOTS'15, TPDS'17)</a></li>
+				<li><a href="https://ieeexplore.ieee.org/document/7425227">MapReduce on FPGA Systems (TPDS'16)</a></li>				
+			</ul>
 	  </li>
 	</ul>
 	</div>	
@@ -95,8 +101,6 @@ We are generally interested at system research on Machine Learning, Database and
   <ul>
     <li><a href="https://www.ijcai.org/proceedings/2020/610">Parking Prediction</a> with Renmin Univeristy of China, Prof.Feng Zhang (IJCAI'20, TKDE'21, VLDBJ'22)</li>    
     <li><a href="https://ieeexplore.ieee.org/document/7877153">Cloud Resource Mgmt</a> with Tianjin Univeristy, Prof.Shanjiang Tang (SC'16)</li>
-	<li><a href="https://dl.acm.org/doi/10.14778/2536274.2536319">APU Systems (VLDB'13, VLDB'14, MASCOTS'15, TPDS'17)</a></li>
-	<li><a href="https://ieeexplore.ieee.org/document/7425227">FPGA Systems (TPDS'16)</a></li>
   </ul>
 </div>
 
