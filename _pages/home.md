@@ -25,9 +25,10 @@ We are generally interested at system research on Machine Learning, Database and
 	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
 	<div id="DSAI" style="display:none; margin-left: 20px;">
 	<ul>	
-	  <li><i>Large Language Model</i>:
+	  <li><i>(Large) Language Model</i>:
 			<ul>
 				<li><a href="">Novel Retrival Paradigam/Algorithm (preparing)</a> collaborate with SUTD Prof.Wei Lu</li>
+				<li><a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">Online Continual Knowledge Learning (arxiv'23<sup>b</sup>)</a></li>
 			</ul>
 	  </li>	
 	  <li><i>Stream Mining</i>:
@@ -41,7 +42,6 @@ We are generally interested at system research on Machine Learning, Database and
 		<ul>
 		  <li><a href="">Efficient Stream Learning (preparing)</a></li>
 		  <li><a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Co-Training-based Online Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
-		  <li><a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">Online Continual Knowledge Learning (arxiv'23<sup>b</sup>)</a></li>
 		  <li><a href="https://arxiv.org/abs/2203.12368">Scalable Polarity Labelling (arxiv'22)</a></li>
 		</ul>
 	  </li>
