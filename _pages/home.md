@@ -52,9 +52,10 @@ We are generally interested at system research on Machine Learning, Database and
 	- <span onclick="toggleVisibility('HWSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
 	<div id="HWSP" style="display:none; margin-left: 20px;">
 	<ul>
-	  <li><i>ML Systems: Retrieval-augmented Generation</i>:
+	  <li><i>ML Systems</i>:
 			<ul>
-				<li><a href="">Novel Indexing Methods for Vectors (preparing)</a></li>
+				<li><a href="">High Performance ML Inference (reviewing)</a></li>
+				<li><a href="">Novel Indexing Methods of Vectors for Efficient Retrieval-augmented Generation (preparing)</a></li>
 				<li><a href="https://arxiv.org/pdf/2307.08225.pdf">TSP for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
 			</ul>
 	  </li>		
