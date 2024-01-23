@@ -40,6 +40,10 @@
           
         
           
+            <li><a href="http://localhost:4000/hiring/">Open Positions</a></li>
+          
+        
+          
         
           
         
@@ -59,6 +63,8 @@
         
           
         
+        
+          
         
           
         
@@ -89,306 +95,1094 @@
     <div class="container-fluid">
       <div class="row">
         <div id="gridid" class="col-sm-12">
-  <h1 id="publications">Publications</h1>
+  <div style="display: flex; flex-direction: row;">
+  <p><!-- Filter buttons with paper counts --></p>
 
-<h2 id="highlights">Highlights</h2>
+  <p><button class="filter-button active-filter" onclick="filterByVenue('All')">Show All (30)</button></p>
 
+  <p><button class="filter-button" onclick="filterByVenue('SIGMOD')">SIGMOD (6)</button></p>
+
+  <p><button class="filter-button" onclick="filterByVenue('VLDB')">VLDB (2)</button></p>
+
+  <p><button class="filter-button" onclick="filterByVenue('ICDE')"> ICDE (6)</button></p>
+</div>
+
+<h1 id="publications">Publications</h1>
 <p>(For a full list see <a href="#full-list">below</a> or go to <a href="https://scholar.google.com/citations?user=Xwn7lCEAAAAJ">Google Scholar</a>)</p>
 
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/SentiStream.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>Online sentiment analysis has emerged as a crucial component in numerous data-driven applications, including social media monitoring, customer feedback analysis, and online reputation management. This paper presents sentistream, a novel co-training framework specifically designed for efficient sentiment analysis within dynamic data streams.</p>
-      <p><em>Yuhao Wu<em>, Karthick Sharma</em>, Chun Wei Seah, Shuhao Zhang</em></p>
-      <p><strong><a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">EMNLP (2023, long paper, main track)</a></strong></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>A Survey on Transactional Stream Processing</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/TSP_Survey.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold, 1) to provide insights into the diverse TSP requirements and methodologies, and 2) to inspire the design and development of groundbreaking TSP systems.</p>
-      <p><em>Shuhao Zhang, Juan Soto, Volker Markl</em></p>
-      <p><strong><a href="https://link.springer.com/article/10.1007/s00778-023-00814-z">The International Journal on Very Large Data Bases Journal (VLDBJ) (2023)</a></strong></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>Data Stream Clustering: An In-depth Empirical Study</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/sesame.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>We conduct a study of data stream clustering algorithm on its four key design aspects. We implemented state-of-the-art variants of all of these design choices in an open-sourced platform from scratch and evaluated them using both real-world and synthetic workloads. Our analysis identifies the fundamental issues and trade-offs of each design choice in terms of both accuracy and efficiency.</p>
-      <p><em>Xin Wang<em>, Zhengru Wang</em>, Zhenyu Wu#, Shuhao Zhang, Xuanhua Shi, Li Lu</em></p>
-      <p><strong><a href="https://intellistream.github.io/downloads/papers/Sesame_CR.pdf">International Conference on Management of Data (SIGMOD) (2023)</a></strong></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/morphstream.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>This paper introduces MorphStream – a novel transactional stream processing engine. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies.</p>
-      <p><em>Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl</em></p>
-      <p><strong><a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">International Conference on Management of Data (SIGMOD) (2023)</a></strong></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/CStream.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>This paper introduces CStream, a novel framework for parallelizing stream compression on asymmetric multicores to minimize energy consumption without violating the user-specified compressing latency constraint.</p>
-      <p><em>Xianzhi Zeng*, Shuhao Zhang</em></p>
-      <p><strong><a href="https://intellistream.github.io/downloads/papers/CStream_CR.pdf">IEEE 39rd International Conference on Data Engineering (ICDE) (2023)</a></strong></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>Parallelizing Intra-Window Join on Multicores: An Experimental Study</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/intraJoinStudy.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>The intra-window join (IaWJ), i.e., joining two input streams over a single window, is a core operation in modern stream processing applications. This paper presents the frst comprehensive study on parallelizing the IaWJ on modern multicore architectures.</p>
-      <p><em>Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl</em></p>
-      <p><strong><a href="https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf">International Conference on Management of Data (SIGMOD) (2021)</a></strong></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>BriskStream: Scaling Data Stream Processing on Shared-Memory Multicore Architectures</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/briskstream.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>We introduce BriskStream, an in-memory data stream processing system (DSPSs) specifically designed for modern shared-memory multicore architectures.</p>
-      <p><em>Shuhao Zhang, Jiong He, Amelie Chi Zhou, Bingsheng He</em></p>
-      <p><strong><a href="https://doi.org/10.1145/3299869.3300067">Proceedings of the 2019 International Conference on Management of Data (SIGMOD) (2019)</a></strong></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <div class="well">
-      <pubtit>Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors</pubtit>
-      <p><img src="http://localhost:4000/images/pubpic/profiling.png" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>Regardless of the different architectures of those DSP systems, they are mostly aiming at scaling out using a cluster of commodity machines. In this paper, we revisit three common design aspects (i.e., pipelined processing with message passing, on-demand data parallelism, and JVM based implementation) of DSPSs on a modern scale-up server.</p>
-      <p><em>Shuhao Zhang, B. He, D. Dahlmeier, A. C. Zhou, T. Heinze</em></p>
-      <p><strong><a href="https://doi.org/10.1109/ICDE.2017.119">IEEE 33rd International Conference on Data Engineering (ICDE) (2017)</a></strong></p>
-      <p class="text-danger"><strong> </strong></p>
-      <p> </p>
-    </div>
-  </div>
-
-</div>
-
-<p>   </p>
-
-<h2 id="full-list">Full List</h2>
 <p>Author notations: * denotes the author is a student advised by Dr.Shuhao Zhang. # denotes the author is a staff advised by Dr.Shuhao Zhang.</p>
+
+<style>
+  .filter-button {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+  }
+
+  .filter-button:hover {
+    background-color: #e0e0e0;
+  }
+
+  .active-filter {
+    background-color: #d0d0d0;
+  }
+</style>
+
+<script>
+  function filterByVenue(venue) {
+    var allPublications = document.querySelectorAll('.publication');
+    var allYears = document.querySelectorAll('.year-heading');
+    allYears.forEach(function(year) {
+      year.style.display = 'none'; // Initially hide all year headings
+    });
+
+    allPublications.forEach(function(pub) {
+      if (venue === 'All' || pub.dataset.venue === venue) {
+        pub.style.display = '';
+        // Show the year heading if at least one publication is visible
+        var yearHeading = document.querySelector('.year-heading[data-year="' + pub.dataset.year + '"]');
+        if (yearHeading) {
+          yearHeading.style.display = '';
+        }
+      } else {
+        pub.style.display = 'none';
+      }
+    });
+
+    // Update button styles
+    var allButtons = document.querySelectorAll('.filter-button');
+    allButtons.forEach(function(btn) {
+      if (btn.textContent === venue || (venue === 'All' && btn.textContent === 'Show All')) {
+        btn.classList.add('active-filter');
+      } else {
+        btn.classList.remove('active-filter');
+      }
+    });
+  }
+</script>
+
+<h3 class="year-heading" data-year="2024">2024</h3>
+<ol>
+    
+      
+        <li class="publication" data-venue="SIGMOD" data-year="2024">
+          <strong>PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation</strong><br />
+          <em>Xianzhi Zeng*, Shuhao Zhang, Hongbin Zhong, Hao Zhang, Mian Lu, Zhao Zheng, Yuqiang Chen</em><br />
+          International Conference on Management of Data (SIGMOD) (2024)<br />
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="SIGMOD" data-year="2024">
+          <strong>Predictive and Near-Optimal Sampling for View Materialization in Video Databases</strong><br />
+          <em>Yanchao Xu, Dongxiang Zhang, Shuhao Zhang, Sai Wu, Zexu Feng, Gang Chen</em><br />
+          International Conference on Management of Data (SIGMOD) (2024)<br />
+          
+        </li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2023">2023</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="EMNLP" data-year="2023">
+          <strong>SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams</strong><br />
+          <em>Yuhao Wu*, Karthick Sharma*, Chun Wei Seah, Shuhao Zhang</em><br />
+          Empirical Methods in Natural Language Processing (long paper, main track) (2023)<br />
+          
+            <a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="VLDBJ" data-year="2023">
+          <strong>A Survey on Transactional Stream Processing</strong><br />
+          <em>Shuhao Zhang, Juan Soto, Volker Markl</em><br />
+          The International Journal on Very Large Data Bases Journal (VLDBJ) (2023)<br />
+          
+            <a href="https://link.springer.com/article/10.1007/s00778-023-00814-z">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="SIGMOD" data-year="2023">
+          <strong>Data Stream Clustering: An In-depth Empirical Study</strong><br />
+          <em>Xin Wang*, Zhengru Wang*, Zhenyu Wu#, Shuhao Zhang, Xuanhua Shi, Li Lu</em><br />
+          International Conference on Management of Data (SIGMOD) (2023)<br />
+          
+            <a href="https://intellistream.github.io/downloads/papers/Sesame_CR.pdf">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="ICDE" data-year="2023">
+          <strong>Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB</strong><br />
+          <em>Hao Zhang, Xianzhi Zeng*, Shuhao Zhang, Xinyi Liu, Mian Lu, Zhao Zheng</em><br />
+          IEEE 39rd International Conference on Data Engineering (ICDE) (2023)<br />
+          
+            <a href="https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="DEBS" data-year="2023">
+          <strong>A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)</strong><br />
+          <em>Xianzhi Zeng*, Shuhao Zhang</em><br />
+          International Conference on Distributed and Event-Based Systems (DEBS) (2023)<br />
+          
+            <a href="https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS_CR.pdf">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="SIGMOD" data-year="2023">
+          <strong>MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores</strong><br />
+          <em>Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl</em><br />
+          International Conference on Management of Data (SIGMOD) (2023)<br />
+          
+            <a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="ICDE" data-year="2023">
+          <strong>Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores</strong><br />
+          <em>Xianzhi Zeng*, Shuhao Zhang</em><br />
+          IEEE 39rd International Conference on Data Engineering (ICDE) (2023)<br />
+          
+            <a href="https://intellistream.github.io/downloads/papers/CStream_CR.pdf">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="ICDE" data-year="2023">
+          <strong>CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression</strong><br />
+          <em>Yu Zhang, Feng Zhang, Hourun Li, Shuhao Zhang, Xiaoyong Du</em><br />
+          In 2023 IEEE 39rd International Conference on Data Engineering (ICDE) (2023)<br />
+          
+        </li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2022">2022</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="VLDBJ" data-year="2022">
+          <strong>Payment behavior prediction on shared parking lots with TR-GCN</strong><br />
+          <em>Qingyu Xu, Feng Zhang, Mingde Zhang, Jidong Zhai, Bingsheng He, Cheng Yang, Shuhao Zhang, Jiazao Lin, Haidi Liu, Xiaoyong Du</em><br />
+          The VLDB Journal Jan 2022 (2022)<br />
+          
+            <a href="https://doi.org/10.1007/s00778-021-00722-0">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="MDPI" data-year="2022">
+          <strong>Revisiting the Design of Parallel Stream Joins on Trusted Execution Environments</strong><br />
+          <em>Souhail Meftah, Shuhao Zhang, Bharadwaj Veeravalli, Khin Mi Mi Aung</em><br />
+          MDPI Algorithms 2022 (2022)<br />
+          
+            <a href="https://www.mdpi.com/1999-4893/15/6/183">PDF</a>
+          
+        </li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2021">2021</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="SIGMOD" data-year="2021">
+          <strong>Parallelizing Intra-Window Join on Multicores: An Experimental Study</strong><br />
+          <em>Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl</em><br />
+          International Conference on Management of Data (SIGMOD) (2021)<br />
+          
+            <a href="https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="TPDS" data-year="2021">
+          <strong>Fine-Grained Multi-Query Stream Processing on Integrated Architectures</strong><br />
+          <em>Feng Zhang, Chenyang Zhang, Lin Yang, Cheng Yang, Shuhao Zhang, Bingsheng He, Wei Lu, Xiaoyong Du</em><br />
+          IEEE Transactions on Parallel and Distributed Systems (TPDS) (2021)<br />
+          
+            <a href="https://doi.org/10.1109/TPDS.2021.3066407">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="TKDE" data-year="2021">
+          <strong>Periodic Weather-Aware LSTM with Event Mechanism for Parking Behavior Prediction</strong><br />
+          <em>F. Zhang, Y. Liu, N. Feng, C. Yang, J. Zhai, Shuhao Zhang, B. He, J. Lin, X. Zhang, X. Du</em><br />
+          IEEE Transactions on Knowledge and Data Engineering (2021)<br />
+          
+            <a href="https://doi.org/10.1109/TKDE.2021.3070202">PDF</a>
+          
+        </li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2020">2020</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="ICDE" data-year="2020">
+          <strong>Towards Concurrent Stateful Stream Processing on Multicore Processors</strong><br />
+          <em>Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He</em><br />
+          IEEE 36th International Conference on Data Engineering (ICDE) (2020)<br />
+          
+            <a href="https://doi.org/10.1109/ICDE48307.2020.00136">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="OJIOT" data-year="2020">
+          <strong>NebulaStream: Complex Analytics Beyond the Cloud</strong><br />
+          <em>Steffen Zeuch, Eleni Tzirita Zacharatou, Shuhao Zhang, Xenofon Chatziliadis, Ankit Chaudhary, Bonaventura Del Monte, Dimitrios Giouroukis, Philipp M. Grulich, Ariane Ziehn, Volker Markl</em><br />
+          Open Journal of Internet Of Things (OJIOT) (2020)<br />
+          
+            <a href="https://intellistream.github.io/downloads/papers/OJIOT_2020v6i1n07_Zeuch.pdf">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="IJCAI" data-year="2020">
+          <strong>PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction</strong><br />
+          <em>Feng Zhang, Ningxuan Feng, Yani Liu, Cheng Yang, Jidong Zhai, Shuhao Zhang, Bingsheng He, Jiazao Lin, Xiaoyong Du</em><br />
+          International Joint Conference on Artificial Intelligence (IJCAI) (2020)<br />
+          
+            <a href="https://intellistream.github.io/downloads/papers/predictionIJCAI.pdf">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="ATC" data-year="2020">
+          <strong>FineStream: Fine-Grained Window-Based Stream Processing on CPU-GPU Integrated Architectures</strong><br />
+          <em>Feng Zhang, Lin Yang, Shuhao Zhang, Bingsheng He, Wei Lu, Xiaoyong Du</em><br />
+          USENIX Annual Technical Conference (USENIX ATC 20) (2020)<br />
+          
+            <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="SIGMOD Rec." data-year="2020">
+          <strong>Hardware-Conscious Stream Processing: A Survey</strong><br />
+          <em>Shuhao Zhang, Feng Zhang, Yingjun Wu, Bingsheng He, Paul Johns</em><br />
+          SIGMOD Rec. (2020)<br />
+          
+            <a href="https://doi.org/10.1145/3385658.3385662">PDF</a>
+          
+        </li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2019">2019</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="BigMM" data-year="2019">
+          <strong>TraV: An Interactive Exploration System for Massive Trajectory Data</strong><br />
+          <em>J. Ang, T. Fu, J. Paul, Shuhao Zhang, B. He, T. S. D. Wenceslao, S. Y. Tan</em><br />
+          IEEE Fifth International Conference on Multimedia Big Data (BigMM) (2019)<br />
+          
+            <a href="https://doi.org/10.1109/BigMM.2019.000-4">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="SIGMOD" data-year="2019">
+          <strong>BriskStream: Scaling Data Stream Processing on Shared-Memory Multicore Architectures</strong><br />
+          <em>Shuhao Zhang, Jiong He, Amelie Chi Zhou, Bingsheng He</em><br />
+          Proceedings of the 2019 International Conference on Management of Data (SIGMOD) (2019)<br />
+          
+            <a href="https://doi.org/10.1145/3299869.3300067">PDF</a>
+          
+        </li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2017">2017</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="ICDE" data-year="2017">
+          <strong>Multi-Query Optimization for Complex Event Processing in SAP ESP</strong><br />
+          <em>Shuhao Zhang, H. T. Vo, D. Dahlmeier, B. He</em><br />
+          IEEE 33rd International Conference on Data Engineering (ICDE) (2017)<br />
+          
+            <a href="https://doi.org/10.1109/ICDE.2017.166">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="ICDE" data-year="2017">
+          <strong>Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors</strong><br />
+          <em>Shuhao Zhang, B. He, D. Dahlmeier, A. C. Zhou, T. Heinze</em><br />
+          IEEE 33rd International Conference on Data Engineering (ICDE) (2017)<br />
+          
+            <a href="https://doi.org/10.1109/ICDE.2017.119">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="TPDS" data-year="2017">
+          <strong>Understanding Co-Running Behaviors on Integrated CPU/GPU Architectures</strong><br />
+          <em>F. Zhang, J. Zhai, B. He, Shuhao Zhang, W. Chen</em><br />
+          IEEE Transactions on Parallel and Distributed Systems (2017)<br />
+          
+            <a href="https://doi.org/10.1109/TPDS.2016.2586074">PDF</a>
+          
+        </li>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2016">2016</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="SC" data-year="2016">
+          <strong>Elastic Multi-resource Fairness: Balancing Fairness and Efficiency in Coupled CPU-GPU Architectures</strong><br />
+          <em>S. Tang, B. He, Shuhao Zhang, and Z. Niu</em><br />
+          Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (2016)<br />
+          
+            <a href="https://doi.org/10.1109/SC.2016.74">PDF</a>
+          
+        </li>
+      
+    
+      
+        <li class="publication" data-venue="TPDS" data-year="2016">
+          <strong>Melia: A MapReduce Framework on OpenCL-Based FPGAs</strong><br />
+          <em>Zeke Wang, Shuhao Zhang, Bingsheng He, Wei Zhang</em><br />
+          IEEE Transactions on Parallel and Distributed Systems (2016)<br />
+          
+            <a href="https://doi.org/10.1109/TPDS.2016.2537805">PDF</a>
+          
+        </li>
+      
+    
+      
+    
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2015">2015</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="MASCOTS" data-year="2015">
+          <strong>To Co-run, or Not to Co-run: A Performance Study on Integrated Architectures</strong><br />
+          <em>Feng Zhang, Jidong Zhai, Wenguang Chen, Bingsheng He, Shuhao Zhang</em><br />
+          IEEE 23rd International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (2015)<br />
+          
+            <a href="https://doi.org/10.1109/MASCOTS.2015.27">PDF</a>
+          
+        </li>
+      
+    
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2014">2014</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="VLDB" data-year="2014">
+          <strong>In-Cache Query Co-Processing on Coupled CPU-GPU Architectures</strong><br />
+          <em>Jiong He, Shuhao Zhang, Bingsheng He</em><br />
+          Proceedings of the VLDB Endowment (2014)<br />
+          
+            <a href="https://doi.org/10.14778/2735496.2735497">PDF</a>
+          
+        </li>
+      
+    
+      
+    
+  </ol>
+
+<h3 class="year-heading" data-year="2013">2013</h3>
+<ol>
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li class="publication" data-venue="VLDB" data-year="2013">
+          <strong>OmniDB: Towards Portable and Efficient Query Processing on Parallel CPU/GPU Architectures</strong><br />
+          <em>Shuhao Zhang, Jiong He, Bingsheng He, Mian Lu</em><br />
+          Proceedings of the VLDB Endowment (2013)<br />
+          
+            <a href="https://doi.org/10.14778/2536274.2536319">PDF</a>
+          
+        </li>
+      
+    
+  </ol>
+
+<h2 id="preprints-technical-reports">Preprints (Technical Reports)</h2>
 <ol>
 
-
-<li>SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams</li> 
-  <em>Yuhao Wu*, Karthick Sharma*, Chun Wei Seah, Shuhao Zhang </em><br /><a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">EMNLP (2023, long paper, main track)</a>
-
-
-
-<li>A Survey on Transactional Stream Processing</li> 
-  <em>Shuhao Zhang, Juan Soto, Volker Markl </em><br /><a href="https://link.springer.com/article/10.1007/s00778-023-00814-z">The International Journal on Very Large Data Bases Journal (VLDBJ) (2023)</a>
-
-
-
-<li>Data Stream Clustering: An In-depth Empirical Study</li> 
-  <em>Xin Wang*, Zhengru Wang*, Zhenyu Wu#, Shuhao Zhang, Xuanhua Shi, Li Lu </em><br /><a href="https://intellistream.github.io/downloads/papers/Sesame_CR.pdf">International Conference on Management of Data (SIGMOD) (2023)</a>
-
-
-
-<li>Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB</li> 
-  <em>Hao Zhang, Xianzhi Zeng*, Shuhao Zhang, Xinyi Liu, Mian Lu, Zhao Zheng </em><br /><a href="https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf">IEEE 39rd International Conference on Data Engineering (ICDE) (2023)</a>
-
-
-
-<li>A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)</li> 
-  <em>Xianzhi Zeng*, Shuhao Zhang </em><br /><a href="https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS_CR.pdf">International Conference on Distributed and Event-Based Systems (DEBS 2023)</a>
-
-
-
-<li>MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores</li> 
-  <em>Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl </em><br /><a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">International Conference on Management of Data (SIGMOD) (2023)</a>
-
-
-
-<li>Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores</li> 
-  <em>Xianzhi Zeng*, Shuhao Zhang </em><br /><a href="https://intellistream.github.io/downloads/papers/CStream_CR.pdf">IEEE 39rd International Conference on Data Engineering (ICDE) (2023)</a>
-
-
-
-<li>CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression</li> 
-  <em>Yu Zhang, Feng Zhang, Hourun Li, Shuhao Zhang, Xiaoyong Du </em><br /><a href="">In 2023 IEEE 39rd International Conference on Data Engineering (ICDE) (2023)</a>
-
-
-
-<li>Payment behavior prediction on shared parking lots with TR-GCN</li> 
-  <em>Qingyu Xu, Feng Zhang, Mingde Zhang, Jidong Zhai, Bingsheng He, Cheng Yang, Shuhao Zhang, Jiazao Lin, Haidi Liu, Xiaoyong Du </em><br /><a href="https://doi.org/10.1007/s00778-021-00722-0">The VLDB Journal Jan 2022 (2022)</a>
-
-
-
-<li>Revisiting the Design of Parallel Stream Joins on Trusted Execution Environments</li> 
-  <em>Souhail Meftah, Shuhao Zhang, Bharadwaj Veeravalli, Khin Mi Mi Aung </em><br /><a href="https://www.mdpi.com/1999-4893/15/6/183">MDPI Algorithms 2022 (2022)</a>
-
-
-
-<li>Parallelizing Intra-Window Join on Multicores: An Experimental Study</li> 
-  <em>Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl </em><br /><a href="https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf">International Conference on Management of Data (SIGMOD) (2021)</a>
-
-
-
-<li>Fine-Grained Multi-Query Stream Processing on Integrated Architectures</li> 
-  <em>Feng Zhang, Chenyang Zhang, Lin Yang, Cheng Yang, Shuhao Zhang, Bingsheng He, Wei Lu, Xiaoyong Du </em><br /><a href="https://doi.org/10.1109/TPDS.2021.3066407">IEEE Transactions on Parallel and Distributed Systems (TPDS) Jan 2021 (2021)</a>
-
-
-
-<li>Periodic Weather-Aware LSTM with Event Mechanism for Parking Behavior Prediction</li> 
-  <em>F. Zhang, Y. Liu, N. Feng, C. Yang, J. Zhai, Shuhao Zhang, B. He, J. Lin, X. Zhang, X. Du </em><br /><a href="https://doi.org/10.1109/TKDE.2021.3070202">IEEE Transactions on Knowledge and Data Engineering Jan 2021 (2021)</a>
-
-
-
-<li>Towards Concurrent Stateful Stream Processing on Multicore Processors</li> 
-  <em>Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He </em><br /><a href="https://doi.org/10.1109/ICDE48307.2020.00136">IEEE 36th International Conference on Data Engineering (ICDE) (2020)</a>
-
-
-
-<li>NebulaStream: Complex Analytics Beyond the Cloud</li> 
-  <em>Steffen Zeuch, Eleni Tzirita Zacharatou, Shuhao Zhang, Xenofon Chatziliadis, Ankit Chaudhary, Bonaventura Del Monte, Dimitrios Giouroukis, Philipp M. Grulich, Ariane Ziehn, Volker Markl </em><br /><a href="https://intellistream.github.io/downloads/papers/OJIOT_2020v6i1n07_Zeuch.pdf">Open Journal of Internet Of Things (OJIOT) Jan 2020 (2020)</a>
-
-
-
-<li>PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction</li> 
-  <em>Feng Zhang, Ningxuan Feng, Yani Liu, Cheng Yang, Jidong Zhai, Shuhao Zhang, Bingsheng He, Jiazao Lin, Xiaoyong Du </em><br /><a href="https://intellistream.github.io/downloads/papers/predictionIJCAI.pdf">International Joint Conference on Artificial Intelligence(IJCAI) (2020)</a>
-
-
-
-<li>FineStream: Fine-Grained Window-Based Stream Processing on CPU-GPU Integrated Architectures</li> 
-  <em>Feng Zhang, Lin Yang, Shuhao Zhang, Bingsheng He, Wei Lu, Xiaoyong Du </em><br /><a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">USENIX Annual Technical Conference (USENIX ATC 20) (2020)</a>
-
-
-
-<li>Hardware-Conscious Stream Processing: A Survey</li> 
-  <em>Shuhao Zhang, Feng Zhang, Yingjun Wu, Bingsheng He, Paul Johns </em><br /><a href="https://doi.org/10.1145/3385658.3385662">SIGMOD Rec. (2020)</a>
-
-
-
-<li>TraV: An Interactive Exploration System for Massive Trajectory Data</li> 
-  <em>J. Ang, T. Fu, J. Paul, Shuhao Zhang, B. He, T. S. D. Wenceslao, S. Y. Tan </em><br /><a href="https://doi.org/10.1109/BigMM.2019.000-4">2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM) (2019)</a>
-
-
-
-<li>BriskStream: Scaling Data Stream Processing on Shared-Memory Multicore Architectures</li> 
-  <em>Shuhao Zhang, Jiong He, Amelie Chi Zhou, Bingsheng He </em><br /><a href="https://doi.org/10.1145/3299869.3300067">Proceedings of the 2019 International Conference on Management of Data (SIGMOD) (2019)</a>
-
-
-
-<li>Multi-Query Optimization for Complex Event Processing in SAP ESP</li> 
-  <em>Shuhao Zhang, H. T. Vo, D. Dahlmeier, B. He </em><br /><a href="https://doi.org/10.1109/ICDE.2017.166">IEEE 33rd International Conference on Data Engineering (ICDE) (2017)</a>
-
-
-
-<li>Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors</li> 
-  <em>Shuhao Zhang, B. He, D. Dahlmeier, A. C. Zhou, T. Heinze </em><br /><a href="https://doi.org/10.1109/ICDE.2017.119">IEEE 33rd International Conference on Data Engineering (ICDE) (2017)</a>
-
-
-
-<li>Understanding Co-Running Behaviors on Integrated CPU/GPU Architectures</li> 
-  <em>F. Zhang, J. Zhai, B. He, Shuhao Zhang, W. Chen </em><br /><a href="https://doi.org/10.1109/TPDS.2016.2586074">IEEE Transactions on Parallel and Distributed Systems (2017)</a>
-
-
-
-<li>Elastic Multi-resource Fairness: Balancing Fairness and Efficiency in Coupled CPU-GPU Architectures</li> 
-  <em>S. Tang, B. He, Shuhao Zhang, and Z. Niu </em><br /><a href="https://doi.org/10.1109/SC.2016.74">Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (2016)</a>
-
-
-
-<li>Melia: A MapReduce Framework on OpenCL-Based FPGAs</li> 
-  <em>Zeke Wang, Shuhao Zhang, Bingsheng He, Wei Zhang </em><br /><a href="https://doi.org/10.1109/TPDS.2016.2537805">IEEE Transactions on Parallel and Distributed Systems (2016)</a>
-
-
-
-<li>To Co-run, or Not to Co-run: A Performance Study on Integrated Architectures</li> 
-  <em>Feng Zhang, Jidong Zhai, Wenguang Chen, Bingsheng He, Shuhao Zhang </em><br /><a href="https://doi.org/10.1109/MASCOTS.2015.27">2015 IEEE 23rd International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (2015)</a>
-
-
-
-<li>In-Cache Query Co-Processing on Coupled CPU-GPU Architectures</li> 
-  <em>Jiong He, Shuhao Zhang, Bingsheng He </em><br /><a href="https://doi.org/10.14778/2735496.2735497">Proceedings of the VLDB Endowment (2014)</a>
-
-
-
-<li>OmniDB: Towards Portable and Efficient Query Processing on Parallel CPU/GPU Architectures</li> 
-  <em>Shuhao Zhang, Jiong He, Bingsheng He, Mian Lu </em><br /><a href="https://doi.org/10.14778/2536274.2536319">Proceedings of the VLDB Endowment (2013)</a>
-
+  <li>Online Continual Knowledge Learning for Language Models
+    <em>Yuhao Wu, Tongjun Shi, Karthick Sharma, Chun Wei Seah, Shuhao Zhang</em><br />
+    <i class="fa-regular fa-file-pdf"></i><a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">PDF</a>
+  </li>
+
+  <li>A Modular and Self-Optimizing Algorithm for Data Stream Clustering
+    <em>Zhengru Wang, Xin Wang, Shuhao Zhang</em><br />
+    <i class="fa-regular fa-file-pdf"></i><a href="http://arxiv.org/abs/2309.04799">PDF</a>
+  </li>
+
+  <li>TransNFV: Integrating Transactional Semantics for Efficient State Management in Virtual Network Functions
+    <em>Zhonghao Yang, Shuhao Zhang, Binbin Chen</em><br />
+    <i class="fa-regular fa-file-pdf"></i><a href="https://arxiv.org/pdf/2307.10732.pdf">PDF</a>
+  </li>
+
+  <li>Harnessing Scalable Transactional Stream Processing for Managing Large Language Models
+    <em>Shuhao Zhang, Xianzhi Zeng, Yuhao Wu, Zhonghao Yang</em><br />
+    <i class="fa-regular fa-file-pdf"></i><a href="https://arxiv.org/pdf/2307.08225.pdf">PDF</a>
+  </li>
+
+  <li>CStream: Parallel Data Stream Compression on Multicore Edge Devices
+    <em>Xianzhi Zeng and Zhang, Shuhao</em><br />
+    <i class="fa-regular fa-file-pdf"></i><a href="https://arxiv.org/pdf/2306.10228.pdf">PDF</a>
+  </li>
+
+  <li>MorphStream: Scalable Processing of Transactions over Streams on Multicores
+    <em>Yancan Mao, Jianjun Zhao, Haikun Liu, Shuhao Zhang, Volker Markl</em><br />
+    <i class="fa-regular fa-file-pdf"></i><a href="https://arxiv.org/pdf/2307.12749.pdf">PDF</a>
+  </li>
+
+  <li>A Framework for Fast Polarity Labelling of Massive Data Streams
+    <em>Huilin Wu, Mian Lu, Zhao Zheng, Shuhao Zhang</em><br />
+    <i class="fa-regular fa-file-pdf"></i><a href="https://arxiv.org/abs/2203.12368">PDF</a>
+  </li>
 
 </ol>
 
-<h2 id="preprints">Preprints</h2>
-<ol>
-
-
-  <li>A Modular and Self-Optimizing Algorithm for Data Stream Clustering</li>
-  <em>Zhengru Wang, Xin Wang, Shuhao Zhang </em><br /><a href="http://arxiv.org/abs/2309.04799">arxiv</a>
-
-
-
-  <li>TransNFV: Integrating Transactional Semantics for Efficient State Management in Virtual Network Functions</li>
-  <em>Zhonghao Yang, Shuhao Zhang, Binbin Chen </em><br /><a href="https://arxiv.org/pdf/2307.10732.pdf">arxiv</a>
-
-
-
-  <li>Harnessing Scalable Transactional Stream Processing for Managing Large Language Models</li>
-  <em>Shuhao Zhang, Xianzhi Zeng, Yuhao Wu, Zhonghao Yang </em><br /><a href="https://arxiv.org/pdf/2307.08225.pdf">arxiv</a>
-
-
-
-  <li>CStream: Parallel Data Stream Compression on Multicore Edge Devices</li>
-  <em>Xianzhi Zeng and Zhang, Shuhao </em><br /><a href="https://arxiv.org/pdf/2306.10228.pdf">arxiv</a>
-
-
-
-  <li>MorphStream: Scalable Processing of Transactions over Streams on Multicores</li>
-  <em>Yancan Mao, Jianjun Zhao, Haikun Liu, Shuhao Zhang, Volker Markl </em><br /><a href="https://arxiv.org/pdf/2307.12749.pdf">arxiv</a>
-
-
-
-  <li>A Framework for Fast Polarity Labelling of Massive Data Streams</li>
-  <em>Huilin Wu, Mian Lu, Zhao Zheng, Shuhao Zhang </em><br /><a href="https://arxiv.org/abs/2203.12368">arxiv</a>
-
-
-</ol>
 
 </div>
 
@@ -402,8 +1196,6 @@
 		<div class="col-sm-4">
 			
 		  <p>&copy IntelliStream Research Group. </p>
-
-              <!-- <p>We are part of the <a href="https://istd.sutd.edu.sg/">ISTD Pillar</a> at <a href="https://sutd.edu.sg/">the Singapore University of Technology and Design</a>.</p> -->
                     
 		</div>
 <!-- 		<div class="col-sm-4">	
@@ -413,17 +1205,9 @@
 		- Multiple Research Grants from Temasek Labs@SUTD, SUTD-ZJU IDEA office and SUTD Kickstarter Initiative (SKI) office. </p>
 		</div> -->
 		
-<!-- 		<div class="col-sm-4">
-		  Contact:<br />
-		  ISTD Pillar, SUTD<br />
-		  8 Somapah Rd, <br />
-		  487372 <br />
-		  Singapore <br />
-			<br>		
-			 <a href="https://twitter.com/shuhao_tony"><img src="http://localhost:4000/images/footer/twitter.png" style="width: 20px" ></a>
-			<a href="https://github.com/intellistream/"> <img src="http://localhost:4000/images/footer/github.png" style="width: 20px" ></a>
-			<a href="https://scholar.google.com/citations?user=Xwn7lCEAAAAJ"> <img src="http://localhost:4000/images/footer/scholar.png" style="width: 20px" ></a></br>
-		</div> -->
+ 		<div class="col-sm-4">
+          <p>We are part of the <a href="https://www.ntu.edu.sg/pdcl">Parallel and Distributed Computing Lab (PDCL)</a> at <a href="https://www.ntu.edu.sg/">the Nanyang Technological University</a>. We are also affiliated to <a href="https://www3.ntu.edu.sg/scse/dmal/dante/index.html">DANTE (DATA MANAGEMENT @NANYANG TECH)</a> group</p>
+		</div>
 	  </div>
 	</div>
   </div>

@@ -40,6 +40,10 @@
           
         
           
+            <li><a href="http://localhost:4000/hiring/">Open Positions</a></li>
+          
+        
+          
         
           
         
@@ -57,6 +61,8 @@
             <li><a href="http://localhost:4000/team/">Team</a></li>
           
         
+        
+          
         
           
         
@@ -87,32 +93,6 @@
           <div id="homeid" class="col-sm-8">       
 	<p><img src="http://localhost:4000/images/teampic/team.jpg" width="50%" style="float: center" /></p>
 
-<p>From a high-level point of view, our research goal is to optimize and utilize distributed and parallel (stream) processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world by 5G, IoT, etc. The group has the following current research interests:</p>
-
-<ul>
-  <li><b>[Hardware-Conscious Data (Stream) Processing]</b> Multicore NUMA, GPU accelerated stream query processing, AMP-aware data stream compression, etc. (<a href="https://doi.org/10.1109/ICDE.2017.119">ICDE’17</a>, <a href="https://dl.acm.org/doi/10.1145/3299869.3300067">SIGMOD’19</a>, <a href="https://dl.acm.org/doi/10.1145/3385658.3385662">SIGMOD Rec’20</a>, <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">USENIX ATC’20</a>, <a href="https://doi.org/10.1109/TPDS.2021.3066407">TPDS’21</a>, <a href="https://dl.acm.org/doi/10.1145/3448016.3452793">SIGMOD’21</a>, <a href="https://ieeexplore.ieee.org/document/10184565">ICDE’23<sup>a</sup></a>, <a href="https://ieeexplore.ieee.org/document/10184703">ICDE’23<sup>b</sup></a>, <a href="https://ieeexplore.ieee.org/document/10184828">ICDE’23<sup>c</sup></a>, <a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">DEBS’23</a>, <a href="https://arxiv.org/pdf/2306.10228.pdf">arxiv’23</a>)
-    <ul>
-      <li>This is the place that we are <b> traditionally strong at </b></li>
-      <li>In particular, we are recently looking at the topic of “hardware-conscious streaming machine learning algorithms”</li>
-      <li>Join us in this place if you love <i> design for computer-architecture-aware algorithm optimizations </i> and are <b>very strong</b> in C/C++ programming/CUDA/OpenCL</li>
-    </ul>
-  </li>
-  <li><b>[Transactional Stream Processing]</b> Transactional stream processing frameworks and its applications in LLM, NFV etc. (<a href="https://doi.org/10.1109/ICDE48307.2020.00136">ICDE’20</a>, <a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">SIGMOD’23</a>, <a href="https://rdcu.be/dncBQ">VLDBJ’23</a>, <a href="https://arxiv.org/pdf/2307.10732.pdf">arxiv’23<sup>a</sup></a>, <a href="https://arxiv.org/pdf/2307.08225.pdf">arxiv’23<sup>b</sup></a>, <a href="https://arxiv.org/pdf/2307.12749.pdf">arxiv’23<sup>c</sup></a>)
-    <ul>
-      <li>This is the place that we are <b> exploring actively </b></li>
-      <li>In particular, we are recently looking at the topic of “state management in NFV Platforms”</li>
-      <li>Join us in this place if you love <i> (large-scale, 100K+ LoC) novel database system design </i> and are <b>very good</b> in Java/C++ programming</li>
-    </ul>
-  </li>
-  <li><b>[Data (Stream)-Centric AI]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems (<a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">BigMM’19</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3589307">SIGMOD’23</a>, <a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">EMNLP’23</a>, <a href="https://arxiv.org/abs/2203.12368">arxiv’22</a>, <a href="https://arxiv.org/abs/2309.04799">arxiv’23</a>)
-    <ul>
-      <li>This is the place that we are <b> exploring actively </b></li>
-      <li>In particular, we are recently looking at the topic of “data management for retrieval-based large language models”</li>
-      <li>Join us in this place if you love to <i> explore the intersection between data management and data science </i> and are <b>good</b> in C++/Python programming and Machine Learning/Data Mining</li>
-    </ul>
-  </li>
-</ul>
-
 <script>
   function toggleVisibility(id) {
     var x = document.getElementById(id);
@@ -124,15 +104,96 @@
   }
 </script>
 
-<p><span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Ancillary topics</span></p>
-<div id="ancillaryTopics" style="display:none;">
+<p>We are generally interested at system research on Machine Learning, Database and their interactions. In particular, the group has the following current research focus.</p>
+
+<ul>
+  <li>
+    <p><b>[Data Stream-Centric ML]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems, retrieval augmented generation (RAG)</p>
+
+    <ul>
+      <li><span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span></li>
+    </ul>
+    <div id="DSAI" style="display:none; margin-left: 20px;">
+      <ul>	
+    <li><i>(Large) Language Model</i>:
+          <ul>
+              <li><a href="">Novel Retrival Paradigam/Algorithm (preparing)</a> collaborate with SUTD Prof.Wei Lu</li>
+              <li><a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">Online Continual Knowledge Learning (arxiv'23<sup>b</sup>)</a></li>
+          </ul>
+    </li>	
+    <li><i>Stream Mining</i>:
+      <ul>
+        <li><a href="https://dl.acm.org/doi/abs/10.1145/3589307">In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
+        <li><a href="https://arxiv.org/abs/2309.04799">Self-Optimizing Data Stream Clustering (arxiv'23<sup>a</sup>)</a></li>
+        <li><a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
+      </ul>
+    </li>
+    <li><i>Stream Learning</i>:
+      <ul>
+        <li><a href="">Efficient Stream Learning (preparing)</a></li>
+        <li><a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Co-Training-based Online Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
+        <li><a href="https://arxiv.org/abs/2203.12368">Scalable Polarity Labelling (arxiv'22)</a></li>
+      </ul>
+    </li>
+  </ul>
+    </div>
+  </li>
+  <li><b>[High Performance Stream Processing Infrastructure]</b> Multicore NUMA, GPU accelerated stream query processing, AMP-aware data stream compression, transactional stream processing (TSP) frameworks and its applications in LLM, NFV etc.
+    <ul>
+      <li><span onclick="toggleVisibility('HWSP')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span></li>
+    </ul>
+    <div id="HWSP" style="display:none; margin-left: 20px;">
+      <ul>	
+    <li><i>Survey</i>:
+          <ul>
+              <li><a href="https://rdcu.be/dncBQ">Survey on TSP (VLDBJ'23)</a></li>
+              <li><a href="https://dl.acm.org/doi/10.1145/3385658.3385662">Survey on HW-Conscious Stream Processing (SIGMOD Rec'20)</a></li>
+          </ul>
+    </li>		
+    <li><i>Benchmarking</i>:
+          <ul>
+              <li><a href="">High Performance ML Inference on Modern Hardware (reviewing)</a></li>
+              <li><a href="">Indexing Methods of Vectors for Efficient Retrieval-augmented Generation (preparing)</a></li>
+              <li><a href="https://dl.acm.org/doi/10.1145/3448016.3452793">Empirical Study of Streaming Join on Multicores (SIGMOD'21)</a></li>
+          </ul>
+    </li>		
+    <li><i>Algorithm/Query Optimization</i>:
+          <ul>
+              <li><a href="https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf">Join on Disorder Data Streams with Proactive Error Compensation (SIGMOD'24)</a> collaborate with 4Paradigm</li>
+              <li><a href="https://ieeexplore.ieee.org/document/10184828">Scalable Streaming Join on Multicores (ICDE'23<sup>b</sup>)</a></li>
+              <li><a href="https://doi.org/10.1109/ICDE.2017.166">Multi-Query Optimization in Complex Event Processing</a> with SAP (ICDE'17)</li>
+          </ul>
+    </li>	
+    <li><i>System Development/Optimization</i>:
+          <ul>			
+              <li><a href="">View Materialization in Video Databases</a> with Zhejiang Univeristy Prof.Dongxiang Zhang (SIGMOD'24)</li>	
+              <li><a href="">Scalable Processing of Transactions over Streams (ICDE'24 Demo)</a></li>
+              <li><a href="https://arxiv.org/pdf/2307.10732.pdf">TSP for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
+              <li><a href="https://arxiv.org/pdf/2307.08225.pdf">TSP for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
+              <li><a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">Scalable TSP on Multicores (SIGMOD'23)</a></li>
+              <li><a href="https://arxiv.org/pdf/2307.12749.pdf">More Scalable TSP on Multicores (arxiv'23<sup>c</sup>)</a></li>
+              <li><a href="https://doi.org/10.1109/ICDE48307.2020.00136">First Scalable TSP on Multicores (ICDE'20)</a></li>
+              <li><a href="https://ieeexplore.ieee.org/document/10184703">Stream Compression on AMP (ICDE'23<sup>a</sup>)</a></li>
+              <li><a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">HW-Conscious Stream Compression (DEBS'23)</a></li>
+              <li><a href="https://arxiv.org/pdf/2306.10228.pdf">HW-Conscious Stream Compression Framework (arxiv'23)</a></li>
+              <li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">Compression-aware Stream Database</a> with Renmin Univeristy of China, Prof.Feng Zhang (ICDE'23)</li>				
+              <li><a href="https://doi.org/10.1109/TPDS.2021.3066407">Stream Processing on CPU-GPU (TPDS'21)</a></li>
+              <li><a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Stream Processing on CPU-GPU (USENIX ATC'20)</a></li>
+              <li><a href="https://dl.acm.org/doi/10.1145/3299869.3300067">NUMA-aware Stream Processing (SIGMOD'19)</a></li>
+              <li><a href="https://doi.org/10.1109/ICDE.2017.119">Profiling of Streaming System on Multicore (ICDE'17)</a></li>
+              <li><a href="https://dl.acm.org/doi/10.14778/2536274.2536319">DB on APU Systems (VLDB'13, VLDB'14, MASCOTS'15, TPDS'17)</a></li>
+              <li><a href="https://ieeexplore.ieee.org/document/7425227">MapReduce on FPGA Systems (TPDS'16)</a></li>				
+          </ul>
+    </li>
+  </ul>
+    </div>
+  </li>
+  <li><span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary/collaborate topics</span></li>
+</ul>
+<div id="ancillaryTopics" style="display:none; margin-left: 20px;">
   <ul>
-    <li><a href="https://doi.org/10.1109/ICDE.2017.166">MQO in CEP</a> (ICDE'17)</li>
-    <li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">CompressDB</a> (ICDE'23)</li>
-    <li><a href="https://www.ijcai.org/proceedings/2020/610">Parking Prediction</a> (IJCAI'20, TKDE'21, VLDBJ'22)</li>
-    <li><a href="https://dl.acm.org/doi/10.14778/2536274.2536319">APU Systems</a> (VLDB'13, VLDB'14, MASCOTS'15, TPDS'17)</li>
-    <li><a href="https://ieeexplore.ieee.org/document/7425227">FPGA Systems</a> (TPDS'16)</li>
-    <li><a href="https://ieeexplore.ieee.org/document/7877153">Cloud Resource Mgmt</a> (SC'16)</li>
+    <li><a href="https://www.ijcai.org/proceedings/2020/610">Parking Prediction</a> with Renmin Univeristy of China, Prof.Feng Zhang (IJCAI'20, TKDE'21, VLDBJ'22)</li>    
+    <li><a href="https://ieeexplore.ieee.org/document/7877153">Cloud Resource Mgmt</a> with Tianjin Univeristy, Prof.Shanjiang Tang (SC'16)</li>
   </ul>
 </div>
 
@@ -180,6 +241,10 @@
   </a>
 </div>
 
+<p>At any time, we have a limited number of slots available. Unfortunately, we cannot respond to every message we receive. To help manage the process, we are using the <a href="https://forms.office.com/r/NrLZxYjrhg">questionnaire</a>. We guarantee we will read the responses to this form but cannot guarantee a response. However, an impressive set of answers to this questionnaire is much more likely to result in a response than almost all other forms of contact.</p>
+
+<p>If you are interested in pursuing graduate studies at NTU, please apply at the <a href="https://venus.wis.ntu.edu.sg/GOAL/OnlineApplicationModule/frmOnlineApplication.ASPX">portal</a>.</p>
+
   </div>
   <div id="newsid" class="col-sm-4" >
 	<div class="well">
@@ -208,62 +273,50 @@
 
   
     <p>
-      8/Oct/2023 <br>
+      18/Dec/2023 <br>
       <em >
-        Our paper <i>SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams</i> is accepted to EMNLP 2023 (Long Paper, Main Track)!
+        Our paper <b>MorphStream: Scalable Processing of Transactions over Streams</b> is accepted to ICDE 2024 (Demo)! Congrats to Siqi Xiang, Zhonghao Yang and others!
       </em>
       
     </p>
   
     <p>
-      14/Sep/2023 <br>
+      15/Dec/2023 <br>
       <em >
-        Shuhao Zhang will give a talk for <a href='https://mp.weixin.qq.com/s/PpvckzKLP2hXT1QdoLHDFA'>A Joint Workshop on Hot Topicson Big data and Al</a> at HUST. ZOOM ID: 402 098 8801 PASSWORD: 103709.
+        Shuhao Zhang give talks at University of Science and Technology Beijing and Tsinghua University.
       </em>
       
     </p>
   
     <p>
-      13/Sep/2023 <br>
-      <em class="clickable-headline" onclick="toggleVisibility('update-on-phd-applications-for-september-2024-intake')">
-        Update on PhD Applications for September 2024 Intake
-      </em>
-      
-        <span id="update-on-phd-applications-for-september-2024-intake" style="display:none;">
-          <br>We are pleased to announce that we have identified a sufficient number of qualified candidates for our PhD program, commencing in September 2024. These selected applicants have been invited to participate in a visiting student program at our Lab this coming November. Upon successful completion of this program, they are expected to formally join our Lab as PhD students. We would like to express our gratitude to all who have shown interest in our program. Please be advised that we have ceased accepting new PhD applications for this intake cycle, except in the event that any of the already-identified candidates decline our offer. However, we continue to offer opportunities for Research Assistant and visiting student positions, for which the interview process is ongoing. Interested individuals are encouraged to reach out to us via email for additional information.
-        </span>
-      
-    </p>
-  
-    <p>
-      12/Sep/2023 <br>
-      <em class="clickable-headline" onclick="toggleVisibility('we-are-pleased-to-announce-the-formation-of-special-interest-groups-sigs-of-presentations-within-our-research-group')">
-        We are pleased to announce the formation of Special Interest Groups (SIGs) of presentations within our Research Group.
-      </em>
-      
-        <span id="we-are-pleased-to-announce-the-formation-of-special-interest-groups-sigs-of-presentations-within-our-research-group" style="display:none;">
-          <br>Presentation schedules will be updated periodically and can be accessed at <a href='https://intellistream.github.io/presentations/'>Intellistream Meetings</a>.
-        </span>
-      
-    </p>
-  
-    <p>
-      12/Sep/2023 <br>
+      13/Dec/2023 <br>
       <em >
-        <a href='http://arxiv.org/abs/2309.04799'>[Preprint]</a> We have a new preprint out, Benne: A Modular and Self-Optimizing Algorithm for Data Stream Clustering.
+        Shuhao Zhang give talks at Shanghai Jiao Tong University and East China Normal University.
       </em>
       
     </p>
   
     <p>
-      2/Sep/2023 <br>
-      <em class="clickable-headline" onclick="toggleVisibility('our-survey-of-transactional-stream-processing-is-accepted-to-vldb-journal')">
-        Our survey of transactional stream processing is accepted to VLDB Journal!
+      11/Dec/2023 <br>
+      <em >
+        As a Co-PI, Shuhao Zhang's proposal on Streaming Federated Learning received ~2M SGD grant award.
       </em>
       
-        <span id="our-survey-of-transactional-stream-processing-is-accepted-to-vldb-journal" style="display:none;">
-          <br><a href='https://intellistream.github.io/downloads/papers/VLDBJ_TSP_survey.pdf'>[Preprint]</a> TL;DR: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems.
-        </span>
+    </p>
+  
+    <p>
+      23/Nov/2023 <br>
+      <em >
+        Our paper <b>PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation</b> is accepted to SIGMOD 2024! Congrats to Xianzhi Zeng!
+      </em>
+      
+    </p>
+  
+    <p>
+      23/Nov/2023 <br>
+      <em >
+        A collaborate work <b>Predictive and Near-Optimal Sampling for View Materialization in Video Databases</b> is accepted to SIGMOD 2024! Congrats to Prof.Dongxiang Zhang!
+      </em>
       
     </p>
   
@@ -283,8 +336,6 @@
 		<div class="col-sm-4">
 			
 		  <p>&copy IntelliStream Research Group. </p>
-
-              <!-- <p>We are part of the <a href="https://istd.sutd.edu.sg/">ISTD Pillar</a> at <a href="https://sutd.edu.sg/">the Singapore University of Technology and Design</a>.</p> -->
                     
 		</div>
 <!-- 		<div class="col-sm-4">	
@@ -294,17 +345,9 @@
 		- Multiple Research Grants from Temasek Labs@SUTD, SUTD-ZJU IDEA office and SUTD Kickstarter Initiative (SKI) office. </p>
 		</div> -->
 		
-<!-- 		<div class="col-sm-4">
-		  Contact:<br />
-		  ISTD Pillar, SUTD<br />
-		  8 Somapah Rd, <br />
-		  487372 <br />
-		  Singapore <br />
-			<br>		
-			 <a href="https://twitter.com/shuhao_tony"><img src="http://localhost:4000/images/footer/twitter.png" style="width: 20px" ></a>
-			<a href="https://github.com/intellistream/"> <img src="http://localhost:4000/images/footer/github.png" style="width: 20px" ></a>
-			<a href="https://scholar.google.com/citations?user=Xwn7lCEAAAAJ"> <img src="http://localhost:4000/images/footer/scholar.png" style="width: 20px" ></a></br>
-		</div> -->
+ 		<div class="col-sm-4">
+          <p>We are part of the <a href="https://www.ntu.edu.sg/pdcl">Parallel and Distributed Computing Lab (PDCL)</a> at <a href="https://www.ntu.edu.sg/">the Nanyang Technological University</a>. We are also affiliated to <a href="https://www3.ntu.edu.sg/scse/dmal/dante/index.html">DANTE (DATA MANAGEMENT @NANYANG TECH)</a> group</p>
+		</div>
 	  </div>
 	</div>
   </div>

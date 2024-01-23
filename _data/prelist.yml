@@ -2,9 +2,8 @@
   image: xx.png
   description: 
   authors: Yuhao Wu, Tongjun Shi, Karthick Sharma, Chun Wei Seah, Shuhao Zhang
-  link:
-    url: https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf
-    display: arxiv
+  url: https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf
+  venue: arxiv
   highlight: 0
   news2: 
   
@@ -12,9 +11,8 @@
   image: xx.png
   description: 
   authors: Zhengru Wang, Xin Wang, Shuhao Zhang
-  link:
-    url: http://arxiv.org/abs/2309.04799
-    display: arxiv
+  url: http://arxiv.org/abs/2309.04799
+  venue: arxiv
   highlight: 0
   news2: 
   
@@ -22,9 +20,8 @@
   image: xx.png
   description: 
   authors: Zhonghao Yang, Shuhao Zhang, Binbin Chen
-  link:
-    url: https://arxiv.org/pdf/2307.10732.pdf
-    display: arxiv
+  url: https://arxiv.org/pdf/2307.10732.pdf
+  venue: arxiv
   highlight: 0
   news2: 
   
@@ -32,9 +29,8 @@
   image: xx.png
   description: 
   authors: Shuhao Zhang, Xianzhi Zeng, Yuhao Wu, Zhonghao Yang
-  link:
-    url: https://arxiv.org/pdf/2307.08225.pdf
-    display: arxiv
+  url: https://arxiv.org/pdf/2307.08225.pdf
+  venue: arxiv
   highlight: 0
   news2: 
   
@@ -42,9 +38,8 @@
   image: xx.png
   description: 
   authors: Xianzhi Zeng and Zhang, Shuhao
-  link:
-    url: https://arxiv.org/pdf/2306.10228.pdf
-    display: arxiv
+  url: https://arxiv.org/pdf/2306.10228.pdf
+  venue: arxiv
   highlight: 0
   news2: 
   
@@ -52,9 +47,8 @@
   image: xx.png
   description: 
   authors: Yancan Mao, Jianjun Zhao, Haikun Liu, Shuhao Zhang, Volker Markl
-  link:
-    url: https://arxiv.org/pdf/2307.12749.pdf
-    display: arxiv
+  url: https://arxiv.org/pdf/2307.12749.pdf
+  venue: arxiv
   highlight: 0
   news2: 
 
@@ -62,8 +56,7 @@
   image: xx.png
   description: 
   authors: Huilin Wu, Mian Lu, Zhao Zheng, Shuhao Zhang
-  link:
-    url: https://arxiv.org/abs/2203.12368
-    display: arxiv
+  url: https://arxiv.org/abs/2203.12368
+  venue: arxiv
   highlight: 0
   news2: 
