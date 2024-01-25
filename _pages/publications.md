@@ -21,8 +21,6 @@ permalink: /publications/
 </div>
 
 # Publications
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=Xwn7lCEAAAAJ))
-
 Author notations: * denotes the author is a student advised by Dr.Shuhao Zhang. # denotes the author is a staff advised by Dr.Shuhao Zhang.
 
 <style>
