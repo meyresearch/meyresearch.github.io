@@ -84,7 +84,7 @@ Author notations: * denotes the author is a student advised by Dr.Shuhao Zhang. 
     {% for publi in site.data.publist %}
       {% if publi.year == year %}
         <li class="publication" data-venue="{{ publi.venue }}" data-year="{{ year }}">
-          <strong>{{ publi.title }}</strong><br />
+          [{{ publi.venue }}] <strong>{{ publi.title }}</strong><br />
           <em>{{ publi.authors }}</em><br />
           {{ publi.display }} ({{ year }})<br />
           {% if publi.url %}
