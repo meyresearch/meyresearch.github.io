@@ -1,3 +1,15 @@
+- title: "MorphStream: Scalable Processing of Transactions over Streams"
+  image: 
+  description: 
+  authors: Siqi Xiang*, Zhonghao Yang*, Shuhao Zhang, Jianjun Zhao, Yancan Mao
+  url: 
+  venue: ICDE
+  display: IEEE 39rd International Conference on Data Engineering (ICDE Demo)
+  year: 2024
+  tag: DB
+  highlight: 0
+  news2: 
+  
 - title: "PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation"
   image: 
   description: 
@@ -7,7 +19,7 @@
   display: International Conference on Management of Data (SIGMOD)
   year: 2024
   tag: AI4DB
-  highlight: 0
+  highlight: 1
   news2: 
   
 - title: "Predictive and Near-Optimal Sampling for View Materialization in Video Databases"
@@ -18,7 +30,7 @@
   venue: SIGMOD
   display: International Conference on Management of Data (SIGMOD)
   year: 2024
-  highlight: 0
+  highlight: 1
   news2:   
   
 - title: "SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
