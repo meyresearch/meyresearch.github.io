@@ -8,7 +8,7 @@ permalink: /presentations/
 
 # Meetings and Presentations
 
-We organize a weekly presentation (3PM every Friday) on presenting an interesting research paper by a team member. It is open to public, and you are free to attend and join the discussion.
+We organize a bi-weekly presentation (3PM every Friday) on presenting an interesting research paper by a team member. It is open to public, and you are free to attend and join the discussion.
 
 ---
 
