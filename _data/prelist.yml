@@ -1,3 +1,13 @@
+- title: "Sire: An Interoperability Engine for Prototyping Algorithms and Exchanging Information Between Molecular Simulation Programs"
+  image: xx.png
+  description: Software paper for Sire
+  authors: C. Woods, L. Hedges, A. Mulholland, M. Malaisree, P. Tosco, H. Loeffler, M. Suruzhon, M. Burman, S. Bariami, S. Bosisio, G. Calabro, F. Clark, A. S.J.S. Mey, J. Michel
+  link:
+    url: https://doi.org/10.26434/chemrxiv-2024-gnm1z
+    display: chemrxiv-2024-gnm1z
+  highlight: 0
+  news2:
+
 - title: "Benchmarking active learning protocols for ligand binding affinity prediction"
   image: xx.png
   description: Benchmarking an active learning frame work for binding affinity prediction
@@ -5,16 +15,6 @@
   link:
     url: https://www.biorxiv.org/content/10.1101/2023.11.24.568570v1.abstract
     display: bioRxiv 2023.11. 24.568570
-  highlight: 0
-  news2:
-
-- title: "Markove State Models: to optimize or not to optimize"
-  image: MSM_optimize.jpg
-  description: We provide a set of recommendations for how to (not) optimize Markov State Model building
-  authors: R. Arbon, Y. Zhu, A. S.J.S. Mey
-  link:
-    url: https://chemrxiv.org/engage/chemrxiv/article-details/65295aa545aaa5fdbbefc830
-    display: ChemRxiv 10.26434/chemrxiv-2023-rrpkw-v2 (JCTC accepted)
   highlight: 0
   news2:
 
