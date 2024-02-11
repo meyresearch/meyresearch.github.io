@@ -1,0 +1,57 @@
+- name: Zhenyu Wu
+  photo: 
+  info: Visiting Research Assistant. Now PhD. student at the University of Edinburgh
+  email: 
+  number_educ: 1
+  education1: Msc. in Computer Science the University of Edinburgh
+
+- name: Haobo Zhang
+  photo: 
+  info: Visiting Research Assistant. Now PhD. student at Michigan State University
+  email: 
+  number_educ: 1
+  education1: Bsc. and MSc. in Electronic Information Science and Technology University of Electronic Science and Technology of China
+  
+- name: Kangping Jiang
+  photo: user.png
+  info: Visiting Student Assistant
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Peking University (2025)
+  
+- name: Ziyang Xiao
+  photo: user.png
+  info: Visiting (PhD) Student
+  email:
+  number_educ: 1
+  education1: (incoming) PhD. in Computer Science, Zhejiang University 2023 -
+  
+- name: <a href='https://www.linkedin.com/in/xin-wang-07911a222/'>Xin Wang</a>
+  photo: user.png
+  info: Visiting Student (Remote） MSc. student in Computer Science, Ohio State University 
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Sichuan University
+  
+- name: Zhengru Wang
+  photo: user.png
+  info: Visiting Student (Remote) HPC Architect at Nvidia
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Huazhong University of Science and Technology (2022)
+
+- name: Ruopeng Geng
+  photo: ruopeng.jpg
+  info: Visiting PhD Student
+  email: ruopeng_geng@sutd.edu.sg
+  number_educ: 2
+  education1: B.Sc. in Computer Science, Zhejiang University
+  education2: PhD. in Computer Science, Zhejiang University
+
+- name: <a href='https://yancanmao.github.io/'>Yancan Mao</a>
+  photo: user.png
+  info: Visiting PhD Student (Remote)
+  email: maoyancan@u.nus.edu
+  number_educ: 2
+  education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China
+  education2: PhD. in Computer Science, National University of Singapore
