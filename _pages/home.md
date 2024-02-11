@@ -20,8 +20,8 @@ permalink: /
 We are a database system group with a focus on <b> stream data management </b>, we also actively explore modern hardware for better management of stream data. 
 
 - <b>[Stream Data Management for DM/ML/AI]</b> 
-	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="DSAI" style="display:none; margin-left: 20px;">
+	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to hide</span>
+	<div id="DSAI" style="display:block; margin-left: 20px;">
 	<ul>
 		<li><i>Vision/Survey</i>:
 			<ul>	
@@ -47,13 +47,12 @@ We are a database system group with a focus on <b> stream data management </b>, 
 				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
 			</ul>
 	  </li>
-		
 	</ul>
-</div>
+	</div>
 
 - <b>[Stream Data Management for Network and Communication]</b> 
-	- <span onclick="toggleVisibility('DSNC')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="DSNC" style="display:none; margin-left: 20px;">
+	- <span onclick="toggleVisibility('DSNC')" style="cursor: pointer; color: blue; text-decoration: underline;">click to hide</span>
+	<div id="DSNC" style="display:block; margin-left: 20px;">
 	<ul>	 
 	  <li><i>Vision/Survey</i>:
 	  <ul>	
@@ -67,11 +66,11 @@ We are a database system group with a focus on <b> stream data management </b>, 
 		</ul>
 	  </li>
 	</ul>
-</div>	
+	</div>	
 
 - <b>[Stream Data Management for Query Processing]</b> 
-	- <span onclick="toggleVisibility('DSRQ')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="DSRQ" style="display:none; margin-left: 20px;">
+	- <span onclick="toggleVisibility('DSRQ')" style="cursor: pointer; color: blue; text-decoration: underline;">click to hide</span>
+	<div id="DSRQ" style="display:block; margin-left: 20px;">
 	<ul>	
 	  <li><i>Vision/Survey</i>:
 		<ul>
@@ -105,7 +104,7 @@ We are a database system group with a focus on <b> stream data management </b>, 
 		</ul>
 	  </li>
 	</ul>
-</div>	
+	</div>	
 
 - <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary/collaborate topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
