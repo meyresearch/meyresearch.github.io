@@ -20,8 +20,6 @@ permalink: /
 We are a database system group with a focus on <b> stream data management </b>, we also actively explore modern hardware for better management of stream data. 
 
 - <b>[Stream Data Management for DM/ML/AI]</b> 
-	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to hide</span>
-	<div id="DSAI" style="display:block; margin-left: 20px;">
 	<ul>
 		<li><i>Vision/Survey</i>:
 			<ul>	
@@ -48,11 +46,8 @@ We are a database system group with a focus on <b> stream data management </b>, 
 			</ul>
 	  </li>
 	</ul>
-	</div>
 
 - <b>[Stream Data Management for Network and Communication]</b> 
-	- <span onclick="toggleVisibility('DSNC')" style="cursor: pointer; color: blue; text-decoration: underline;">click to hide</span>
-	<div id="DSNC" style="display:block; margin-left: 20px;">
 	<ul>	 
 	  <li><i>Vision/Survey</i>:
 	  <ul>	
@@ -66,11 +61,8 @@ We are a database system group with a focus on <b> stream data management </b>, 
 		</ul>
 	  </li>
 	</ul>
-	</div>	
 
 - <b>[Stream Data Management for Query Processing]</b> 
-	- <span onclick="toggleVisibility('DSRQ')" style="cursor: pointer; color: blue; text-decoration: underline;">click to hide</span>
-	<div id="DSRQ" style="display:block; margin-left: 20px;">
 	<ul>	
 	  <li><i>Vision/Survey</i>:
 		<ul>
@@ -104,7 +96,6 @@ We are a database system group with a focus on <b> stream data management </b>, 
 		</ul>
 	  </li>
 	</ul>
-	</div>	
 
 - <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary/collaborate topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
