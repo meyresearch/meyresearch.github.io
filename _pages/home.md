@@ -17,9 +17,9 @@ permalink: /
   }
 </script>
 
-We are a database system group with a focus on <b> stream data management </b>, we also actively explore modern hardware for better management of stream data. 
+We are a database system group with a focus on <b> data stream management </b>, we also actively explore modern hardware for better management of stream data. 
 
-- **[Stream Data Management for Query Processing]**
+- **[Data Stream Management for Query Processing]**
   - *Vision/Survey*:
     - [DB] [Survey on TSP (VLDBJ'23)](https://rdcu.be/dncBQ)
     - [DB] [Survey on HW-Conscious Stream Processing (SIGMOD Rec'20)](https://dl.acm.org/doi/10.1145/3385658.3385662)
@@ -40,7 +40,7 @@ We are a database system group with a focus on <b> stream data management </b>, 
     - [DB] [NUMA-aware Stream Processing (SIGMOD'19)](https://dl.acm.org/doi/10.1145/3299869.3300067)
     - [DB] [Profiling of Streaming System on Multicore (ICDE'17)](https://doi.org/10.1109/ICDE.2017.119)
 
-- **[Stream Data Management for DM/ML/AI]**
+- **[Data Stream Management for DM/ML/AI]**
   - *Vision/Survey*:
     - [DB] [Transactional Stream Processing for Large Language Model (LLM) (arxiv'23^b)](https://arxiv.org/pdf/2307.08225.pdf)
   - *Benchmarking*:
@@ -56,7 +56,7 @@ We are a database system group with a focus on <b> stream data management </b>, 
     - [AI] [A Framework of Scalable Polarity Labelling over Data Streams (arxiv'22)](https://arxiv.org/abs/2203.12368)
     - [DB] [Progressive Trajectory Exploration (BigMM'19)](https://dl.acm.org/doi/abs/10.5555/3489146.3489189)
 
-- **[Stream Data Management for Network and Communication]**
+- **[Data Stream Management for Network and Communication]**
   - *Vision/Survey*:
     - [DB] [HW-Conscious Stream Compression (DEBS'23)](https://dl.acm.org/doi/abs/10.1145/3583678.3596885)
   - *System Development/Optimization*:
