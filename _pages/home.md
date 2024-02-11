@@ -19,84 +19,85 @@ permalink: /
 
 We are a database system group with a focus on <b> stream data management </b>, we also actively explore modern hardware for better management of stream data. 
 
-- <b>[Stream Data Management for DM/ML/AI]</b> 
+- <b>[Stream Data Management for DM/ML/AI]</b>
+<ul>
+	<li><i>Vision/Survey</i>:
+		<ul>	
+			<li>[DB] <a href="https://arxiv.org/pdf/2307.08225.pdf">Transactional Stream Processing for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
+		</ul>		
+	<li><i>Benchmarking</i>:
+		<ul>	
+			<li>[AI] <a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">A Benchmark Study of Online Continual Knowledge Learning of Large Language Models (arxiv'24<sup>b</sup>)</a></li>
+			<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3589307">An In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
+			<li>[AI] <a href="">High Performance ML Inference on Modern Hardware (reviewing)</a></li>
+			<li>[DB] <a href="">Revisit Approximate Nearest​ Neighbour Search under Online Ingestion (preparing)</a></li>	
+		</ul>
+	</li>
+	<li><i>Algorithm/Query Optimization</i>:
+		<ul>
+			<li>[DB] <a href="https://arxiv.org/abs/2309.04799">Self-Optimizing Data Stream Clustering Algorithm (arxiv'23<sup>a</sup>)</a></li>
+		</ul>
+	<li><i>System Development/Optimization</i>:
+		<ul>		
+			<li>[DB] <a href="">View Materialization in Video Databases</a> driven by Zhejiang Univeristy Prof.Dongxiang Zhang (SIGMOD'24)</li>			
+			<li>[AI] <a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Stream Learning for Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
+			<li>[AI] <a href="https://arxiv.org/abs/2203.12368">A Framework of Scalable Polarity Labelling over Data Streams (arxiv'22)</a></li>
+			<li>[DB] <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
+		</ul>
+	</li>
+</ul>
+
+- <b>[Stream Data Management for Query Processing]</b>
+<ul>	
+  <li><i>Vision/Survey</i>:
 	<ul>
-		<li><i>Vision/Survey</i>:
-			<ul>	
-				<li>[DB] <a href="https://arxiv.org/pdf/2307.08225.pdf">Transactional Stream Processing for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
-			</ul>		
-		<li><i>Benchmarking</i>:
-			<ul>	
-				<li>[AI] <a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">A Benchmark Study of Online Continual Knowledge Learning of Large Language Models (arxiv'24<sup>b</sup>)</a></li>
-				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3589307">An In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
-				<li>[AI] <a href="">High Performance ML Inference on Modern Hardware (reviewing)</a></li>
-				<li>[DB] <a href="">Revisit Approximate Nearest​ Neighbour Search under Online Ingestion (preparing)</a></li>	
-			</ul>
-		</li>
-		<li><i>Algorithm/Query Optimization</i>:
-			<ul>
-				<li>[DB] <a href="https://arxiv.org/abs/2309.04799">Self-Optimizing Data Stream Clustering Algorithm (arxiv'23<sup>a</sup>)</a></li>
-			</ul>
-		<li><i>System Development/Optimization</i>:
-			<ul>		
-				<li>[DB] <a href="">View Materialization in Video Databases</a> driven by Zhejiang Univeristy Prof.Dongxiang Zhang (SIGMOD'24)</li>			
-				<li>[AI] <a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Stream Learning for Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
-				<li>[AI] <a href="https://arxiv.org/abs/2203.12368">A Framework of Scalable Polarity Labelling over Data Streams (arxiv'22)</a></li>
-				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
-			</ul>
-	  </li>
+		<li>[DB] <a href="https://rdcu.be/dncBQ">Survey on TSP (VLDBJ'23)</a></li>
+		<li>[DB] <a href="https://dl.acm.org/doi/10.1145/3385658.3385662">Survey on HW-Conscious Stream Processing (SIGMOD Rec'20)</a></li>
 	</ul>
-
-- <b>[Stream Data Management for Network and Communication]</b> 
-	<ul>	 
-	  <li><i>Vision/Survey</i>:
-	  <ul>	
-		<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">HW-Conscious Stream Compression (DEBS'23)</a></li>
-	  </ul>
-	  <li><i>System Development/Optimization</i>:
-		<ul>			
-			<li>[DB] <a href="https://arxiv.org/pdf/2307.10732.pdf">A Database System for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
-			<li>[DB] <a href="https://ieeexplore.ieee.org/document/10184703">Data Stream Compression on AMP (ICDE'23<sup>a</sup>)</a></li>	
-			<li>[DB] <a href="https://arxiv.org/pdf/2306.10228.pdf">HW-Conscious Stream Compression Framework (arxiv'23)</a></li>
-		</ul>
-	  </li>
+  </li>		
+  <li><i>Benchmarking</i>:
+	<ul>				
+		<li>[DB] <a href="https://dl.acm.org/doi/10.1145/3448016.3452793">Empirical Study of Streaming Join on Multicores (SIGMOD'21)</a></li>
 	</ul>
-
-- <b>[Stream Data Management for Query Processing]</b> 
-	<ul>	
-	  <li><i>Vision/Survey</i>:
-		<ul>
-			<li>[DB] <a href="https://rdcu.be/dncBQ">Survey on TSP (VLDBJ'23)</a></li>
-			<li>[DB] <a href="https://dl.acm.org/doi/10.1145/3385658.3385662">Survey on HW-Conscious Stream Processing (SIGMOD Rec'20)</a></li>
-		</ul>
-	  </li>		
-	  <li><i>Benchmarking</i>:
-		<ul>				
-			<li>[DB] <a href="https://dl.acm.org/doi/10.1145/3448016.3452793">Empirical Study of Streaming Join on Multicores (SIGMOD'21)</a></li>
-		</ul>
-	  </li>   
-	  <li><i>Algorithm/Query Optimization</i>:
-		<ul>
-			<li>[DB] <a href="https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf">Join on Disorder Data Streams with Proactive Error Compensation (SIGMOD'24)</a> collaborate with 4Paradigm</li>
-			<li>[DB] <a href="https://ieeexplore.ieee.org/document/10184828">Scalable Streaming Join on Multicores (ICDE'23<sup>b</sup>)</a></li>
-			<li>[DB] <a href="https://doi.org/10.1109/ICDE.2017.166">Multi-Query Optimization for Complex Event Processing</a> with SAP (ICDE'17)</li>
-		</ul>
-	  </li>	
-	  <li><i>System Development/Optimization</i>:
-		<ul>			
-			<li>[DB] <a href="">Scalable Processing of Transactions over Streams (ICDE'24 Demo)</a></li>
-			<li>[DB] <a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">Scalable TSP on Multicores (SIGMOD'23)</a></li>
-			<li>[DB] <a href="https://arxiv.org/pdf/2307.12749.pdf">Scalable Transactional Stream Processing on Multicores - Journal Extention (arxiv'23<sup>c</sup>)</a></li>
-			<li>[DB] <a href="https://doi.org/10.1109/ICDE48307.2020.00136">Towards Scalable Stateful Stream Processing on Multicores (ICDE'20)</a></li>				
-			<li>[DB] <a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">Compression-aware Stream Database</a> with Renmin Univeristy of China, Prof.Feng Zhang (ICDE'23)</li>		
-			<li>[DB] <a href="https://doi.org/10.1109/TPDS.2021.3066407">Stream Processing on CPU-GPU (TPDS'21)</a></li>
-			<li>[DB] <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Stream Processing on CPU-GPU (USENIX ATC'20)</a></li>
-			<li>[DB] <a href="https://dl.acm.org/doi/10.1145/3299869.3300067">NUMA-aware Stream Processing (SIGMOD'19)</a></li>
-			<li>[DB] <a href="https://doi.org/10.1109/ICDE.2017.119">Profiling of Streaming System on Multicore (ICDE'17)</a></li>				
-		</ul>
-	  </li>
+  </li>   
+  <li><i>Algorithm/Query Optimization</i>:
+	<ul>
+		<li>[DB] <a href="https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf">Join on Disorder Data Streams with Proactive Error Compensation (SIGMOD'24)</a> collaborate with 4Paradigm</li>
+		<li>[DB] <a href="https://ieeexplore.ieee.org/document/10184828">Scalable Streaming Join on Multicores (ICDE'23<sup>b</sup>)</a></li>
+		<li>[DB] <a href="https://doi.org/10.1109/ICDE.2017.166">Multi-Query Optimization for Complex Event Processing</a> with SAP (ICDE'17)</li>
 	</ul>
+  </li>	
+  <li><i>System Development/Optimization</i>:
+	<ul>			
+		<li>[DB] <a href="">Scalable Processing of Transactions over Streams (ICDE'24 Demo)</a></li>
+		<li>[DB] <a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">Scalable TSP on Multicores (SIGMOD'23)</a></li>
+		<li>[DB] <a href="https://arxiv.org/pdf/2307.12749.pdf">Scalable Transactional Stream Processing on Multicores - Journal Extention (arxiv'23<sup>c</sup>)</a></li>
+		<li>[DB] <a href="https://doi.org/10.1109/ICDE48307.2020.00136">Towards Scalable Stateful Stream Processing on Multicores (ICDE'20)</a></li>				
+		<li>[DB] <a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">Compression-aware Stream Database</a> with Renmin Univeristy of China, Prof.Feng Zhang (ICDE'23)</li>		
+		<li>[DB] <a href="https://doi.org/10.1109/TPDS.2021.3066407">Stream Processing on CPU-GPU (TPDS'21)</a></li>
+		<li>[DB] <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Stream Processing on CPU-GPU (USENIX ATC'20)</a></li>
+		<li>[DB] <a href="https://dl.acm.org/doi/10.1145/3299869.3300067">NUMA-aware Stream Processing (SIGMOD'19)</a></li>
+		<li>[DB] <a href="https://doi.org/10.1109/ICDE.2017.119">Profiling of Streaming System on Multicore (ICDE'17)</a></li>				
+	</ul>
+  </li>
+</ul>
 
+- <b>[Stream Data Management for Network and Communication]</b>
+<ul>	 
+  <li><i>Vision/Survey</i>:
+  <ul>	
+	<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">HW-Conscious Stream Compression (DEBS'23)</a></li>
+  </ul>
+  <li><i>System Development/Optimization</i>:
+	<ul>			
+		<li>[DB] <a href="https://arxiv.org/pdf/2307.10732.pdf">A Database System for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
+		<li>[DB] <a href="https://ieeexplore.ieee.org/document/10184703">Data Stream Compression on AMP (ICDE'23<sup>a</sup>)</a></li>	
+		<li>[DB] <a href="https://arxiv.org/pdf/2306.10228.pdf">HW-Conscious Stream Compression Framework (arxiv'23)</a></li>
+	</ul>
+  </li>
+</ul>
+
+	
 - <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary/collaborate topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
   <ul>	
