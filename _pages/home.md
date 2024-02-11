@@ -55,7 +55,7 @@ We are a database system group with a focus on <b> stream data management </b>, 
 	</ul>
 
 - <b>[Stream Data Management for DM/ML/AI]</b>
-	<ul>
+  <ul>
 	  <li><i>Vision/Survey</i>:
 			<ul>	
 				<li>[DB] <a href="https://arxiv.org/pdf/2307.08225.pdf">Transactional Stream Processing for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
@@ -80,10 +80,10 @@ We are a database system group with a focus on <b> stream data management </b>, 
 				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
 			</ul>
 	  </li>
-	</ul>
+  </ul>
 
 - <b>[Stream Data Management for Network and Communication]</b>
-	<ul>	 
+  <ul>	 
 	  <li><i>Vision/Survey</i>:
 	  <ul>	
 		<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">HW-Conscious Stream Compression (DEBS'23)</a></li>
@@ -95,7 +95,7 @@ We are a database system group with a focus on <b> stream data management </b>, 
 			<li>[DB] <a href="https://arxiv.org/pdf/2306.10228.pdf">HW-Conscious Stream Compression Framework (arxiv'23)</a></li>
 		</ul>
 	  </li>
-	</ul>
+  </ul>
 
 - <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary/collaborate topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
