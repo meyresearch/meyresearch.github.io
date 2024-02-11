@@ -1,7 +1,6 @@
 ---
 title: "IntelliStream Research Group - Home"
 layout: homelay
-excerpt: "IntelliStream Research Group"
 sitemap: false
 permalink: /
 ---
@@ -20,59 +19,7 @@ permalink: /
 
 We are a database system group with a focus on <b> stream data management </b>, we also actively explore modern hardware for better management of stream data. 
 
-- <b>[Stream Data Management for DM/ML/AI]</b> 
-	- <span onclick="toggleVisibility('DSAI')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="DSAI" style="display:none; margin-left: 20px;">
-	<ul>
-		<li><i>Vision/Survey</i>:
-			<ul>	
-				<li>[DB] <a href="https://arxiv.org/pdf/2307.08225.pdf">Transactional Stream Processing for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
-			</ul>		
-		<li><i>Benchmarking</i>:
-			<ul>	
-				<li>[AI] <a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">A Benchmark Study of Online Continual Knowledge Learning of Large Language Models (arxiv'24<sup>b</sup>)</a></li>
-				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3589307">An In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
-				<li>[AI] <a href="">High Performance ML Inference on Modern Hardware (reviewing)</a></li>
-				<li>[DB] <a href="">Revisit Approximate Nearest​ Neighbour Search under Online Ingestion (preparing)</a></li>	
-			</ul>
-		</li>
-		<li><i>Algorithm/Query Optimization</i>:
-			<ul>
-				<li>[DB] <a href="https://arxiv.org/abs/2309.04799">Self-Optimizing Data Stream Clustering Algorithm (arxiv'23<sup>a</sup>)</a></li>
-			</ul>
-		<li><i>System Development/Optimization</i>:
-			<ul>		
-				<li>[DB] <a href="">View Materialization in Video Databases</a> driven by Zhejiang Univeristy Prof.Dongxiang Zhang (SIGMOD'24)</li>			
-				<li>[AI] <a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Stream Learning for Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
-				<li>[AI] <a href="https://arxiv.org/abs/2203.12368">A Framework of Scalable Polarity Labelling over Data Streams (arxiv'22)</a></li>
-				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
-			</ul>
-	  </li>
-		
-	</ul>
-</div>
-
-- <b>[Stream Data Management for Network and Communication]</b> 
-	- <span onclick="toggleVisibility('DSNC')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="DSNC" style="display:none; margin-left: 20px;">
-	<ul>	 
-	  <li><i>Vision/Survey</i>:
-	  <ul>	
-		<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">HW-Conscious Stream Compression (DEBS'23)</a></li>
-	  </ul>
-	  <li><i>System Development/Optimization</i>:
-		<ul>			
-			<li>[DB] <a href="https://arxiv.org/pdf/2307.10732.pdf">A Database System for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
-			<li>[DB] <a href="https://ieeexplore.ieee.org/document/10184703">Data Stream Compression on AMP (ICDE'23<sup>a</sup>)</a></li>	
-			<li>[DB] <a href="https://arxiv.org/pdf/2306.10228.pdf">HW-Conscious Stream Compression Framework (arxiv'23)</a></li>
-		</ul>
-	  </li>
-	</ul>
-</div>	
-
-- <b>[Stream Data Management for Query Processing]</b> 
-	- <span onclick="toggleVisibility('DSRQ')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our related publications</span>
-	<div id="DSRQ" style="display:none; margin-left: 20px;">
+- <b>[Stream Data Management for Query Processing]</b>
 	<ul>	
 	  <li><i>Vision/Survey</i>:
 		<ul>
@@ -106,7 +53,49 @@ We are a database system group with a focus on <b> stream data management </b>, 
 		</ul>
 	  </li>
 	</ul>
-</div>	
+
+- <b>[Stream Data Management for DM/ML/AI]</b>
+	<ul>
+		<li><i>Vision/Survey</i>:
+			<ul>	
+				<li>[DB] <a href="https://arxiv.org/pdf/2307.08225.pdf">Transactional Stream Processing for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
+			</ul>		
+		<li><i>Benchmarking</i>:
+			<ul>	
+				<li>[AI] <a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">A Benchmark Study of Online Continual Knowledge Learning of Large Language Models (arxiv'24<sup>b</sup>)</a></li>
+				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3589307">An In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
+				<li>[AI] <a href="">High Performance ML Inference on Modern Hardware (reviewing)</a></li>
+				<li>[DB] <a href="">Revisit Approximate Nearest​ Neighbour Search under Online Ingestion (preparing)</a></li>	
+			</ul>
+		</li>
+		<li><i>Algorithm/Query Optimization</i>:
+			<ul>
+				<li>[DB] <a href="https://arxiv.org/abs/2309.04799">Self-Optimizing Data Stream Clustering Algorithm (arxiv'23<sup>a</sup>)</a></li>
+			</ul>
+		<li><i>System Development/Optimization</i>:
+			<ul>		
+				<li>[DB] <a href="">View Materialization in Video Databases</a> driven by Zhejiang Univeristy Prof.Dongxiang Zhang (SIGMOD'24)</li>			
+				<li>[AI] <a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Stream Learning for Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
+				<li>[AI] <a href="https://arxiv.org/abs/2203.12368">A Framework of Scalable Polarity Labelling over Data Streams (arxiv'22)</a></li>
+				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
+			</ul>
+		</li>
+	</ul>
+
+- <b>[Stream Data Management for Network and Communication]</b>
+	<ul>	 
+	  <li><i>Vision/Survey</i>:
+	  <ul>	
+		<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">HW-Conscious Stream Compression (DEBS'23)</a></li>
+	  </ul>
+	  <li><i>System Development/Optimization</i>:
+		<ul>			
+			<li>[DB] <a href="https://arxiv.org/pdf/2307.10732.pdf">A Database System for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)</a></li>
+			<li>[DB] <a href="https://ieeexplore.ieee.org/document/10184703">Data Stream Compression on AMP (ICDE'23<sup>a</sup>)</a></li>	
+			<li>[DB] <a href="https://arxiv.org/pdf/2306.10228.pdf">HW-Conscious Stream Compression Framework (arxiv'23)</a></li>
+		</ul>
+	  </li>
+	</ul>
 
 - <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary/collaborate topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
@@ -122,13 +111,13 @@ We are a database system group with a focus on <b> stream data management </b>, 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-      <li data-target="#carousel" data-slide-to="0" class="active"></li>
-      <li data-target="#carousel" data-slide-to="1"></li>
-      <li data-target="#carousel" data-slide-to="2"></li>
-      <li data-target="#carousel" data-slide-to="3"></li>
-      <li data-target="#carousel" data-slide-to="4"></li>
-      <li data-target="#carousel" data-slide-to="5"></li>
-      <li data-target="#carousel" data-slide-to="6"></li>
+		<li data-target="#carousel" data-slide-to="0" class="active"></li>
+		<li data-target="#carousel" data-slide-to="1"></li>
+		<li data-target="#carousel" data-slide-to="2"></li>
+		<li data-target="#carousel" data-slide-to="3"></li>
+		<li data-target="#carousel" data-slide-to="4"></li>
+		<li data-target="#carousel" data-slide-to="5"></li>
+		<li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
