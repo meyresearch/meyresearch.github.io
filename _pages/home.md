@@ -51,7 +51,7 @@ We are a database system group with a focus on <b> stream data management </b>, 
   - *Algorithm/Query Optimization*:
     - [DB] [Self-Optimizing Data Stream Clustering Algorithm (arxiv'23^a)](https://arxiv.org/abs/2309.04799)
   - *System Development/Optimization*:
-    - [DB] View Materialization in Video Databases driven by Zhejiang University Prof.Dongxiang Zhang (SIGMOD'24)
+    - [DB] View Materialization in Video Databases, driven by Zhejiang University Prof.Dongxiang Zhang (SIGMOD'24)
     - [AI] [Stream Learning for Sentiment Analysis (EMNLP'23, *Main*)](https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf)
     - [AI] [A Framework of Scalable Polarity Labelling over Data Streams (arxiv'22)](https://arxiv.org/abs/2203.12368)
     - [DB] [Progressive Trajectory Exploration (BigMM'19)](https://dl.acm.org/doi/abs/10.5555/3489146.3489189)
