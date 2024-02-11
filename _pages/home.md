@@ -60,19 +60,19 @@ We are a database system group with a focus on <b> stream data management </b>, 
 			<ul>	
 				<li>[DB] <a href="https://arxiv.org/pdf/2307.08225.pdf">Transactional Stream Processing for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
 			</ul>		
-		<li><i>Benchmarking</i>:
+	  <li><i>Benchmarking</i>:
 			<ul>	
 				<li>[AI] <a href="https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf">A Benchmark Study of Online Continual Knowledge Learning of Large Language Models (arxiv'24<sup>b</sup>)</a></li>
 				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.1145/3589307">An In-Depth Study of Data Stream Clustering (SIGMOD'23)</a></li>
 				<li>[AI] <a href="">High Performance ML Inference on Modern Hardware (reviewing)</a></li>
 				<li>[DB] <a href="">Revisit Approximate Nearest​ Neighbour Search under Online Ingestion (preparing)</a></li>	
 			</ul>
-		</li>
-		<li><i>Algorithm/Query Optimization</i>:
+	  </li>
+	  <li><i>Algorithm/Query Optimization</i>:
 			<ul>
 				<li>[DB] <a href="https://arxiv.org/abs/2309.04799">Self-Optimizing Data Stream Clustering Algorithm (arxiv'23<sup>a</sup>)</a></li>
 			</ul>
-		<li><i>System Development/Optimization</i>:
+	  <li><i>System Development/Optimization</i>:
 			<ul>		
 				<li>[DB] <a href="">View Materialization in Video Databases</a> driven by Zhejiang Univeristy Prof.Dongxiang Zhang (SIGMOD'24)</li>			
 				<li>[AI] <a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">Stream Learning for Sentiment Analysis (EMNLP'23, <i>Main</i>)</a></li>
