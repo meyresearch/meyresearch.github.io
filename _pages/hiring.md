@@ -1,7 +1,6 @@
 ---
 title: "Open Positions"
 layout: gridlay
-excerpt: "Open Positions"
 sitemap: false
 permalink: /hiring/
 ---

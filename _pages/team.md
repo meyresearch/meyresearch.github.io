@@ -1,12 +1,11 @@
 ---
 title: "Team"
 layout: gridlay
-excerpt: "Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# The group
 
 ## Team Lead
 
