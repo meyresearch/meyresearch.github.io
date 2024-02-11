@@ -56,7 +56,7 @@ We are a database system group with a focus on <b> stream data management </b>, 
 
 - <b>[Stream Data Management for DM/ML/AI]</b>
 	<ul>
-		<li><i>Vision/Survey</i>:
+	  <li><i>Vision/Survey</i>:
 			<ul>	
 				<li>[DB] <a href="https://arxiv.org/pdf/2307.08225.pdf">Transactional Stream Processing for Large Language Model (LLM) (arxiv'23<sup>b</sup>)</a></li>
 			</ul>		
@@ -79,7 +79,7 @@ We are a database system group with a focus on <b> stream data management </b>, 
 				<li>[AI] <a href="https://arxiv.org/abs/2203.12368">A Framework of Scalable Polarity Labelling over Data Streams (arxiv'22)</a></li>
 				<li>[DB] <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">Progressive Trajectory Exploration (BigMM'19)</a></li>
 			</ul>
-		</li>
+	  </li>
 	</ul>
 
 - <b>[Stream Data Management for Network and Communication]</b>
