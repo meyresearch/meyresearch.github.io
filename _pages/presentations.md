@@ -1,7 +1,6 @@
 ---
 title: "Presentations"
 layout: textlay
-excerpt: "Presentations"
 sitemap: false
 permalink: /presentations/
 ---

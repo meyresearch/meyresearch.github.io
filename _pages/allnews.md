@@ -1,7 +1,6 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "IntelliStream Research Group"
 sitemap: false
 permalink: /allnews.html
 ---

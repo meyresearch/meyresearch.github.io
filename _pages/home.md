@@ -1,7 +1,6 @@
 ---
 title: "IntelliStream Research Group - Home"
 layout: homelay
-excerpt: "IntelliStream Research Group"
 sitemap: false
 permalink: /
 ---
