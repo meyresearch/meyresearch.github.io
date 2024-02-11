@@ -6,8 +6,14 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# The group
 
+<<<<<<< HEAD
+=======
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group_photo.jpg" width="50%" style="float: center" />
+
+
+>>>>>>> 55c5690587d50075c03f34823d6511008ebafef3
 ## Team Lead
 
 <div>
@@ -30,6 +36,11 @@ permalink: /team/
 
 ## PhD Students
 
+<<<<<<< HEAD
+=======
+## Team Members
+
+>>>>>>> 55c5690587d50075c03f34823d6511008ebafef3
 {% assign number_printed = 0 %}
 {% for member in site.data.phds %}
 
