@@ -17,7 +17,7 @@ permalink: /
   }
 </script>
 
-We are a database system group with a focus on <b> data stream management </b>, we also actively explore modern hardware for better management of stream data. 
+We are a database system group with a focus on <b>data stream management</b>, we also actively explore modern hardware for better management of stream data. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
 
 - **[Data Stream Management for Query Processing]**
   - *Vision/Survey*:
