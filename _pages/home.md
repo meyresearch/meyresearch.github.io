@@ -18,7 +18,7 @@ permalink: /
   }
 </script>
 
-We are a database system group, pioneering in the dual realms of _Data Management on New Hardware_ and _Database Systems meet Artificial Intelligence (DB4AI & AI4DB)_. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
+We are a database system group, pioneering in the dual realms of _Data Management on New Hardware_ and _Database meets Artificial Intelligence (DB4AI & AI4DB)_. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
 
 ### Data Management on New Hardware (DaMoN)
 
@@ -53,7 +53,7 @@ We are a database system group, pioneering in the dual realms of _Data Managemen
   - [VLDB'14] [In-Cache Query Co-Processing on Coupled CPU-GPU Architectures](https://doi.org/10.14778/2735496.2735497)
   - [VLDB'13] <a href="https://dl.acm.org/doi/10.14778/2536274.2536319">OmniDB: towards portable and efficient query processing on parallel CPU/GPU architectures</a>
 
-### Database Systems meet Artificial Intelligence (DB4AI & AI4DB)
+### Database meets Artificial Intelligence (DB4AI & AI4DB)
 
 - _Benchmarking_:
   - [SIGMOD'23] [Data Stream Clustering: An In-depth Empirical Study](https://dl.acm.org/doi/abs/10.1145/3589307)
