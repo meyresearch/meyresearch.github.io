@@ -18,7 +18,7 @@ permalink: /
   }
 </script>
 
-We are a database system group, pioneering in the dual realms of _Data Management on New Hardware_ and _Database Systems for Artificial Intelligence (DB4AI)_. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
+We are a database system group, pioneering in the dual realms of _Data Management on New Hardware_ and _Database Systems meet Artificial Intelligence (DB4AI & AI4DB)_. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
 
 ### Data Management on New Hardware (DaMoN)
 
@@ -35,7 +35,6 @@ We are a database system group, pioneering in the dual realms of _Data Managemen
   - [MASCOTS'15] [To Co-run, or Not to Co-run: A Performance Study on Integrated Architectures](https://doi.org/10.1109/MASCOTS.2015.27) 
 
 - _Algorithm/Query Optimization_: 
-  - [SIGMOD'24] [PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation](https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf) collaborate with 4Paradigm 
   - [ICDE'23] [Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB](https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf) 
   - [MDPI'22] [Revisiting the Design of Parallel Stream Joins on Trusted Execution Environments](https://www.mdpi.com/1999-4893/15/6/183)
   - [ICDE'17] [Multi-Query Optimization for Complex Event Processing in SAP ESP](https://www.comp.nus.edu.sg/~hebs/pub/shuhaoICDE17b.pdf)
@@ -54,12 +53,13 @@ We are a database system group, pioneering in the dual realms of _Data Managemen
   - [VLDB'14] [In-Cache Query Co-Processing on Coupled CPU-GPU Architectures](https://doi.org/10.14778/2735496.2735497)
   - [VLDB'13] <a href="https://dl.acm.org/doi/10.14778/2536274.2536319">OmniDB: towards portable and efficient query processing on parallel CPU/GPU architectures</a>
 
-### Database Systems for Artificial Intelligence (DB4AI)
+### Database Systems meet Artificial Intelligence (DB4AI & AI4DB)
 
 - _Benchmarking_:
   - [SIGMOD'23] [Data Stream Clustering: An In-depth Empirical Study](https://dl.acm.org/doi/abs/10.1145/3589307)
  
 - _System Development/Optimization_:
+  - [SIGMOD'24] [PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation](https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf)
   - [SIGMOD'24] [Predictive and Near-Optimal Sampling for View Materialization in Video Databases]()
   - [EMNLP'23, _Main_] [SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams](https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf)
   - [VLDBJ'22] [Payment behavior prediction on shared parking lots with TR-GCN](https://doi.org/10.1007/s00778-021-00722-0)
