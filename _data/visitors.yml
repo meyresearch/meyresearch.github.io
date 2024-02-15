@@ -5,6 +5,13 @@
   number_educ: 1
   education1: PhD. in Computer Science, Huazhong University of Science and Technology
 
+- name: Yuhao Wu
+  photo: yuhao.jpg
+  info: "Co-supervised with <a href="https://statnlp.com/people/luwei/">Assoc Prof. Wei Lu</a> from Singapore University of Technology and Design"
+  email: yuhao_wu@mymail.sutd.edu.sg
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Huazhong Agricultural University (2022)
+  
 - name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
   photo: user.png
   info: Visiting Student (SUTD)
