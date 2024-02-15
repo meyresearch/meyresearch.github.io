@@ -26,6 +26,7 @@ We are a database system group, pioneering in the dual realms of _Data Managemen
   - [VLDBJ'23] [A Survey on Transactional Stream Processing](https://rdcu.be/dncBQ)  
   - [DEBS'23] [A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)](https://dl.acm.org/doi/abs/10.1145/3583678.3596885) 
   - [SIGMOD Rec'20] [Hardware-Conscious Stream Processing: A Survey](https://dl.acm.org/doi/10.1145/3385658.3385662)
+  - [OJIOT'20] [NebulaStream: Complex Analytics Beyond the Cloud](https://intellistream.github.io/downloads/papers/OJIOT_2020v6i1n07_Zeuch.pdf)
 
 - _Benchmarking_:
   - [SIGMOD'21] [Parallelizing Intra-Window Join on Multicores: An Experimental Study](https://dl.acm.org/doi/10.1145/3448016.3452793)
@@ -36,6 +37,7 @@ We are a database system group, pioneering in the dual realms of _Data Managemen
 - _Algorithm/Query Optimization_: 
   - [SIGMOD'24] [PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation](https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf) collaborate with 4Paradigm 
   - [ICDE'23] [Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB](https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf) 
+  - [MDPI'22] [Revisiting the Design of Parallel Stream Joins on Trusted Execution Environments](https://www.mdpi.com/1999-4893/15/6/183)
   - [ICDE'17] [Multi-Query Optimization for Complex Event Processing in SAP ESP](https://www.comp.nus.edu.sg/~hebs/pub/shuhaoICDE17b.pdf)
 
 - _System Development/Optimization_:
