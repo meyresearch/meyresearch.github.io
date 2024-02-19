@@ -18,12 +18,12 @@ permalink: /
   }
 </script>
 
-We are a database system group, pioneering in the dual realms of _Data Management on New Hardware_ and _Database meets Artificial Intelligence (DB4AI & AI4DB)_. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
+We are a database system group. Our recent focus is on pioneering in the dual realms of _Data Management on New Hardware_ and _Database meets Artificial Intelligence (DB4AI & AI4DB)_. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
 
 ### Data Management on New Hardware (DaMoN)
 
-- _Vision/Survey_: 
-  - [VLDBJ'23] [A Survey on Transactional Stream Processing](https://rdcu.be/dncBQ)  
+- _Vision/Survey_:  
+  - [VLDBJ'23] [A Survey on Transactional Stream Processing](https://rdcu.be/dncBQ)
   - [DEBS'23] [A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)](https://dl.acm.org/doi/abs/10.1145/3583678.3596885) 
   - [SIGMOD Rec'20] [Hardware-Conscious Stream Processing: A Survey](https://dl.acm.org/doi/10.1145/3385658.3385662)
   - [OJIOT'20] [NebulaStream: Complex Analytics Beyond the Cloud](https://intellistream.github.io/downloads/papers/OJIOT_2020v6i1n07_Zeuch.pdf)
@@ -43,7 +43,6 @@ We are a database system group, pioneering in the dual realms of _Data Managemen
   - [ICDE'24 Demo] [MorphStream: Scalable Processing of Transactions over Streams on Multicores](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf)
   - [ICDE'23] [Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores](https://intellistream.github.io/downloads/papers/CStream_CR.pdf)
   - [SIGMOD'23] [MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf)
-  - [ICDE'23] [CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression](https://ieeexplore.ieee.org/document/10184565/)
   - [ICDE'20] [Towards Concurrent Stateful Stream Processing on Multicore Processors](https://doi.org/10.1109/ICDE48307.2020.00136)
   - [TPDS'21] [Fine-Grained Multi-Query Stream Processing on Integrated Architectures](https://doi.org/10.1109/TPDS.2021.3066407)
   - [USENIX ATC'20] [FineStream: Fine-Grained Window-Based Stream Processing on CPU-GPU Integrated Architectures](https://www.comp.nus.edu.sg/~hebs/pub/atc20-finestream.pdf)
@@ -62,6 +61,7 @@ We are a database system group, pioneering in the dual realms of _Data Managemen
   - [SIGMOD'24] [PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation](https://tonyskyzeng.github.io/downloads/PECJ_TR.pdf)
   - [SIGMOD'24] [Predictive and Near-Optimal Sampling for View Materialization in Video Databases]()
   - [EMNLP'23, _Main_] [SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams](https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf)
+  - [ICDE'23] [CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression](https://ieeexplore.ieee.org/document/10184565/)
   - [VLDBJ'22] [Payment behavior prediction on shared parking lots with TR-GCN](https://doi.org/10.1007/s00778-021-00722-0)
   - [TKDE'21] [Periodic Weather-Aware LSTM with Event Mechanism for Parking Behavior Prediction](https://doi.org/10.1109/TKDE.2021.3070202)
   - [IJCAI'20] [PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction](https://www.ijcai.org/proceedings/2020/610)
