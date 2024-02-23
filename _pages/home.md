@@ -18,7 +18,7 @@ permalink: /
   }
 </script>
 
-We are a data-intensive application and system group (see our briefying [slides](https://intellistream.github.io/downloads/talks/ResearchRoadmap.pdf)). We aim to address 3V's (volume, Velocity, Variety) of data challenges by better utilizing modern hardware architectures. Our recent focus is on pioneering in the dual realms of _Data Management on New Hardware_ and _Database meets Artificial Intelligence (DB4AI & AI4DB)_. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
+Our group thrives at the intersection of data-intensive applications and systems. We navigate the complex landscape defined by the three Vs of data: Volume, Velocity, and Variety (see our briefying [slides](https://intellistream.github.io/downloads/talks/ResearchRoadmap.pdf)). Our recent focus is on pioneering in the dual realms of _Data Management on New Hardware_ and _Database meets Artificial Intelligence (DB4AI & AI4DB)_. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
 
 ### Data Management on New Hardware (DaMoN)
 
