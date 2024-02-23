@@ -218,5 +218,16 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Similarity Search", "Relational Query"]
+  },
+  {
+    "presenter": "Zhonghao Yang",
+    "paper": "DB4NFV: A Database System for Scaling Stateful Network Service Function Chain with Ease",
+    "date": "2024-02-23",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
+    "categories": ["Database System", "Network Function Virtualization"]
   }
 ]
