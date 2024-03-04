@@ -27,7 +27,7 @@ permalink: /team/
 
 <br>
 
-## PhD Students
+## PG Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phds %}
