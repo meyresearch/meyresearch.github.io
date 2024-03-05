@@ -229,5 +229,16 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Database System", "Network Function Virtualization"]
+  },
+  {
+    "presenter": "Yuhao Wu",
+    "paper": "Can Language Models Act as Knowledge Bases at Scale?",
+    "date": "2024-03-08",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/87453160258?pwd=Y2R0VjJlc3QwS0dibitZVG0raG1yQT09",
+    "notes": "",
+    "categories": ["Large Language Model", "Knowledge Bases"]
   }
 ]
