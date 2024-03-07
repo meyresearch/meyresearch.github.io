@@ -294,7 +294,7 @@
   link:
     url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.041018
     display: Phys. Rev. X 4, 041018 (2014)
-  highlight: 1
+  highlight: 0 
   news2:
 
 - title: "Rare-event trajectory ensemble analysis reveals metastable dynamical phases in lattice proteins"
