@@ -6,7 +6,7 @@
     url: https://doi.org/10.1021/acs.jcim.4c00220 
     display: J. Chem. Inf. Model. (2024)
   highlight: 1 
-  news2: The paper was featured in practical cheminformatics https://practicalcheminformatics.blogspot.com/?m=1
+  news2: The paper was featured in <a href='https://practicalcheminformatics.blogspot.com/?m=1'>Practical Cheminformatics</a>
 
 - title: "Markove State Models: to optimize or not to optimize"
   image: MSM_optimize.jpg
