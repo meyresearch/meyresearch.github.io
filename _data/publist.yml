@@ -1,6 +1,6 @@
 - title: "Benchmarking active learning protocols for ligand binding affinity prediction"
   image: al.png
-  description: Benchmarking an active learning frame work for binding affinity prediction
+  description: Benchmarking active learning trategies for best performance on labelling data for binding affinities
   authors: R. Gorantla, A. Kubincova, B. Suutari, B. P. Cossins, A. S.J.S. Mey
   link:
     url: https://doi.org/10.1021/acs.jcim.4c00220 
