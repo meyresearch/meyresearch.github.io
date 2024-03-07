@@ -232,13 +232,13 @@
   },
   {
     "presenter": "Yuhao Wu",
-    "paper": "Can Language Models Act as Knowledge Bases at Scale?",
-    "date": "2024-03-08",
+    "paper": "FlexLLM: A System for Co-Serving Large Language Model Inference and Parameter-Efficient Fine Tuning",
+    "date": "2024-03-15",
     "day": "Friday",
     "time": "3:00PM-3:30PM (Singapore Time)",
     "slides": "",
     "link": "https://ntu-sg.zoom.us/j/87453160258?pwd=Y2R0VjJlc3QwS0dibitZVG0raG1yQT09",
     "notes": "",
-    "categories": ["Large Language Model", "Knowledge Bases"]
+    "categories": ["Large Language Model", "Inference and Fine Tuning"]
   }
 ]
