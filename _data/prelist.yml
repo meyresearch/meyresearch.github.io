@@ -8,16 +8,6 @@
   highlight: 0
   news2:
 
-- title: "Benchmarking active learning protocols for ligand binding affinity prediction"
-  image: xx.png
-  description: Benchmarking an active learning frame work for binding affinity prediction
-  authors: R. Gorantla, A. Kubincova, B. Suutari, B. P. Cossins, A. S.J.S. Mey
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2023.11.24.568570v1.abstract
-    display: bioRxiv 2023.11. 24.568570
-  highlight: 0
-  news2:
-
 - title: "mRNA interactions with disordered regions control protein activity"
   image: xx.png
   description: Invesitation of reguatlion of MYC interaction in cytosol and TIS granuals

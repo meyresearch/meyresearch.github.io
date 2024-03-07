@@ -1,3 +1,13 @@
+- title: "Benchmarking active learning protocols for ligand binding affinity prediction"
+  image: xx.png
+  description: Benchmarking an active learning frame work for binding affinity prediction
+  authors: R. Gorantla, A. Kubincova, B. Suutari, B. P. Cossins, A. S.J.S. Mey
+  link:
+    url: https://doi.org/10.1021/acs.jcim.4c00220 
+    display: J. Chem. Inf. Model. (2024)
+  highlight: 0
+  news2:
+
 - title: "Markove State Models: to optimize or not to optimize"
   image: MSM_optimize.jpg
   description: We provide a set of recommendations for how to (not) optimize Markov State Model building
@@ -14,7 +24,7 @@
   authors: L. O. Hedges, S. Bariami, M. Burman, F. Clark, B. P. Cossins, A. Hardie, A. M. Herz, D. Lukauskis, A. S.J.S. Mey, J. Michel, J. Scheen, M. Suruzhon, C. J. Woods, Z. Wu
   link:
     url: https://github.com/michellab/BioSimSpaceTutorials/tree/main/LIVECOMS
-    display: Living Journal of Computational Molecular Science 5 (1), 2375-2375
+    display: Living Journal of Computational Molecular Science 5 (1), 2375-2375 (2023)
   highlight: 0
   news2:
 
