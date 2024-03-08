@@ -11,7 +11,7 @@ permalink: /team/
 
 <div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/me3.jpg" class="img-responsive" width="10%" style="float: left" />
-  <h4><a href='https://dr.ntu.edu.sg/cris/rp/rp02324'>Shuhao Zhang</a></h4>  
+  <h4><a href='https://shuhaozhangtony.github.io/'>Shuhao Zhang</a></h4>  
   <i>Assistant Professor, Nanyang Technological University Nov 2023 - <br>email: [shuhao.zhang@ntu.edu.sg](mailto:shuhao.zhang@ntu.edu.sg)<br>
     A full CV is available [here]({{ site.url }}{{ site.baseurl }}/downloads/cv.pdf). </i>
   <ul style="overflow: hidden">
