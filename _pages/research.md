@@ -7,6 +7,7 @@ permalink: /research/
 
 ## Research[^1]
 
+- 2023 - 2026 (PI. $100,000) "Parallelized Stateful Coreset Selection in Continuous Data Streams for Enhanced Stream Learning". Funding from T1 Seed Grant. 
 - 2023 - 2026 (PI. $150,000) "Parallel Data Management in Retrieval-based Language Models". Funding from NTU Start-Up Grants. 
 - 2023 - 2026 (Co-PI. $1,300,000) "Real-Time Federated Learning on Data Streams". Funding from DTC. 
 - 2023 - 2026 (PI. $500,000+) "IntelliStream: Towards Highly-Optimized, Ultra-Scalable, Self-adaptive Data Streaming Analytics in the Heterogeneous Multicore IoT Systems". Funding from Singapore Ministry of Education (MOE) Academic Research Fund (AcRF) Tier 2. 
@@ -20,7 +21,7 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
 - 2021 - 2024 (PI - Terminated. $100,000) "Efficient Intra-Window Join on the Multicore IoT systems". Funding from SUTD STARTUP RESEARCH GRANT (SRG). 
 
 
-[^1]: Some grants are transferred or terminated due to my move from SUTD to NTU in 2023.
+[^1]: Some grants are transferred or terminated due to PI's move from SUTD to NTU in 2023.
 
 ## Project Highlights
 {% assign number_printed = 0 %}
