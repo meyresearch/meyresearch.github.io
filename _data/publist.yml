@@ -1,3 +1,15 @@
+- title: "Fast Parallel Recovery for Transactional Stream Processing on Multicores"
+  image: 
+  description: 
+  authors: Jianjun Zhao*, Haikun Liu, Shuhao Zhang, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang
+  url: 
+  venue: ICDE
+  display: IEEE 39rd International Conference on Data Engineering 
+  year: 2024
+  tag: DB
+  highlight: 0
+  news2: 
+
 - title: "MorphStream: Scalable Processing of Transactions over Streams"
   image: 
   description: 
@@ -19,7 +31,7 @@
   display: International Conference on Management of Data (SIGMOD)
   year: 2024
   tag: AI4DB
-  highlight: 1
+  highlight: 0
   news2: 
   
 - title: "Predictive and Near-Optimal Sampling for View Materialization in Video Databases"
@@ -30,7 +42,7 @@
   venue: SIGMOD
   display: International Conference on Management of Data (SIGMOD)
   year: 2024
-  highlight: 1
+  highlight: 0
   news2:   
   
 - title: "SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
