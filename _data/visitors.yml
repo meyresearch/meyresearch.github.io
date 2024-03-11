@@ -1,16 +1,23 @@
 - name: Jianjun Zhao
   photo: Jianjun.jpg
-  info: "Co-supervised with Prof. Haikun Liu from Huazhong University of Science and Technology"
+  info: "Co-supervised with Prof. Haikun Liu from HUST"
   email: d202081099@hust.edu.cn <d202081099@hust.edu.cn>
   number_educ: 1
-  education1: PhD. in Computer Science, Huazhong University of Science and Technology
+  education1: PhD. student in Computer Science, Huazhong University of Science and Technology
  
 - name: Ran Wang
   photo: user.png
-  info: Visiting Student (CSC)
+  info: Visiting PhD Student
   email: 
   number_educ: 1
-  education1: PhD. in Computer Science, University of Science and Technology Beijing
+  education1: PhD. student in Computer Science, University of Science and Technology Beijing
+  
+- name: Dandan Zhao
+  photo: user.png
+  info: Visiting PhD Student
+  email: 
+  number_educ: 1
+  education1: PhD. student in Computer Science, Chongqing University  
   
 - name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
   photo: user.png
