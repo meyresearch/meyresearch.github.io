@@ -7,10 +7,17 @@
  
 - name: Ran Wang
   photo: user.png
-  info: Visiting Student (CSC)
+  info: Visiting PhD Student
   email: 
   number_educ: 1
   education1: PhD. in Computer Science, University of Science and Technology Beijing
+
+- name: Dandan Zhao
+  photo: user.png
+  info: Visiting PhD Student
+  email: 
+  number_educ: 1
+  education1: PhD. in Computer Science, Chongqing University
   
 - name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
   photo: user.png
@@ -26,3 +33,10 @@
   number_educ: 2
   education1: Bsc. in Computer Science, Nanjing University of Aeronautics and Astronautics
   education2: Msc. in Computer Science, National University of Singapore
+
+- name: Yuhao Wu
+  photo: yuhao.jpg
+  info: "Co-supervised with Assoc Prof. Wei Lu from Singapore University of Technology and Design"
+  email: yuhao_wu@mymail.sutd.edu.sg
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Huazhong Agricultural University (2022)
