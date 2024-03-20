@@ -21,15 +21,37 @@
   
 - name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
   photo: user.png
-  info: Visiting Student (SUTD)
+  info: Visiting Student
   email:
   number_educ: 1
   education1: B.Sc. in Information Systems, Zhejiang University expected completion in 2024
   
 - name: Zhuoyan Wu
   photo: user.png
-  info: Intern (NTU)
+  info: Intern
   email: 
   number_educ: 2
-  education1: Bsc. in Computer Science, Nanjing University of Aeronautics and Astronautics
-  education2: Msc. in Computer Science, National University of Singapore
+  education1: B.Sc. in Computer Science, Nanjing University of Aeronautics and Astronautics
+  education2: MEng. in Computer Science, National University of Singapore
+
+- name: Xinjing Hu
+  photo: user.png
+  info: Visiting Student
+  email: 
+  number_educ: 1
+  education1: B.Sc. in in Computer Science, Huazhong University of Science and Technology
+
+- name: Chenghao Xu
+  photo: user.png
+  info: Visiting Student
+  email: 
+  number_educ: 1
+  education1: B.Sc. in in Computer Science, Huazhong University of Science and Technology
+  
+- name: <a href='https://yancanmao.github.io/'>Yancan Mao</a>
+  photo: user.png
+  info: Visiting PhD Student (Remote)
+  email: maoyancan@u.nus.edu
+  number_educ: 2
+  education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China
+  education2: PhD. in Computer Science, National University of Singapore
