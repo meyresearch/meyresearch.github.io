@@ -229,5 +229,16 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Database System", "Network Function Virtualization"]
+  },
+  {
+    "presenter": "Tongjun Shi",
+    "paper": "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning",
+    "date": "2024-03-22",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
+    "categories": ["Continual Learning", "Data Rehearsal"]
   }
 ]
