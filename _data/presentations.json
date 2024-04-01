@@ -240,5 +240,16 @@
     "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
     "notes": "",
     "categories": ["Continual Learning", "Data Rehearsal"]
+  },
+  {
+    "presenter": "Xianzhi Zeng",
+    "paper": "Chameleon: A Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models",
+    "date": "2024-04-05",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
+    "notes": "",
+    "categories": ["Retrieval Augmented Generation", "Language Model"]
   }
 ]
