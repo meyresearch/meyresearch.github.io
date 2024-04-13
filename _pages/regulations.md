@@ -11,7 +11,7 @@ permalink: /regulations/
 <summary><strong>Goals and Expectations</strong></summary>
 <p>
 
-### What We Strive to Achieve:
+### What You Shall Strive to Achieve:
 
 - Dive deeply into the latest research trends and methodologies to stay at the forefront of our field.
 - Build a strong foundation in both theoretical and practical aspects relevant to our research.
