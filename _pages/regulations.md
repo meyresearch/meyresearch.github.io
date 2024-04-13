@@ -5,61 +5,96 @@ sitemap: false
 permalink: /regulations/
 ---
 
-# How our lab works
+# How Our Lab Works
 
-## Goals and Expectations
+<details>
+<summary><strong>Goals and Expectations</strong></summary>
+<p>
 
-### Goals You Should Strive to Achieve:
+### What We Strive to Achieve:
 
-- Engage deeply with current research trends and methodologies to ensure cutting-edge knowledge and application in our field.
-- Develop robust proficiency in both the theoretical and practical aspects of our research area.
-- Successfully pass the Qualifying Exam, demonstrating significant research progress.
-- Craft a convincing thesis that effectively communicates your key findings to the examination panel.
+- Dive deeply into the latest research trends and methodologies to stay at the forefront of our field.
+- Build a strong foundation in both theoretical and practical aspects relevant to our research.
+- Aim to pass the Qualifying Exam showcasing significant progress.
+- Develop and present a compelling thesis that effectively communicates your major discoveries.
 
-### Research Contributions and Academic Integrity:
+### Research Quality and Integrity:
 
-- Our primary focus is on the quality of research, rather than the quantity of publications. It is recognized that outstanding researchers may graduate without numerous publications, focusing instead on the depth and impact of their work.
-- Comprehensive support will be provided throughout your academic journey, from hypothesis formation to result dissemination. Maintaining academic integrity is paramount; I will not engage in any actions that could unfairly influence outcomes such as the Qualifying Exam or thesis defense.
-- Advancement through academic milestones will be based solely on your merit and readiness, ensuring a genuine reflection of your competence and understanding.
+- We prioritize the quality of research over the quantity of publications. Exceptional researchers may have fewer publications, focusing instead on depth and significance.
+- I will provide thorough support throughout your journey, from developing ideas to sharing your findings, while upholding the highest standards of academic integrity.
+- Progression through milestones like the Qualifying Exam and thesis defense will reflect your true capabilities and readiness.
 
-### Support You Can Expect From Me:
+### Support Available:
 
-- Weekly half-hour one-on-one meetings dedicated to discussions and support. These sessions are designed for you to seek guidance on your research, address challenges, and explore new ideas.
-- View these meetings as collaborative opportunities with a senior researcher, rather than mere directives from a supervisor. My role is to support and facilitate your development as a researcher.
-- Access to a network of industry and academic professionals for collaboration and advice, particularly when your research challenges extend beyond my expertise. I will help facilitate introductions and collaborations with specialists to provide the necessary support for overcoming these challenges.
-- Guidance on opportunities for research publication and presentation to enhance your professional growth and visibility in the academic community.
+- Expect weekly 30-minute one-on-one meetings for detailed discussions and personalized support.
+- These sessions are collaborative; think of me more as a senior colleague than a supervisor.
+- Access expert networks for collaboration and advice, especially when facing challenges outside my direct expertise.
+- Receive guidance on publication and presentation opportunities to boost your visibility and impact.
 
-## Details
+</p>
+</details>
 
-### Expectations for Writing Research Papers
+<details>
+<summary><strong>Detailed Protocols</strong></summary>
+<p>
 
-- For your first research paper, I will guide you closely throughout the drafting process. This mentorship is designed to acquaint you with the structure, style, and intricacies of academic writing specific to our field.
-- After your first paper, I expect you to independently draft complete versions of your subsequent papers. This approach is intended to enhance your confidence and proficiency in effectively communicating scientific findings.
-- While I seek greater independence from you with each paper, I will continue to offer feedback and support, ensuring your work adheres to the rigorous standards of our research community.
+### Writing Research Papers:
 
-### Working Hours
+- Receive detailed guidance while drafting your first paper to learn the academic writing norms specific to our field.
+- For subsequent papers, take the lead in drafting, using the skills you’ve developed to independently articulate your research.
+- Continuous feedback will be provided to ensure your work meets our community’s standards.
 
-- Your working hours are flexible, provided you:
-  - Meet all project deadlines and sustain productivity.
-  - Attend all scheduled meetings, unless prior excuses are made.
-  - Keep open communication regarding your schedule and availability.
+### Flexible Working Hours:
 
-### Lab Meetings
+- Your hours are flexible, with the expectation that you:
+  - Meet all deadlines and remain productive.
+  - Attend all required meetings unless excused.
+  - Communicate openly about your schedule and availability.
 
-- We conduct biweekly group seminars, usually on Friday afternoons, where attendance is mandatory for all group members. Each seminar features a presentation by a member on a research paper from a top-tier conference, promoting an in-depth discussion.
-- The role of presenter rotates to give everyone the opportunity to lead discussions, enhancing our lab’s collective understanding and critique of cutting-edge research.
-- These meetings also serve as a platform for sharing updates on individual projects and for receiving group feedback.
+### Regular Lab Meetings:
 
-### Opportunities in Grant Proposal Writing
+- Attend mandatory biweekly seminars on Friday afternoons, where each member presents research from top-tier conferences.
+- Presenters rotate, ensuring everyone gains experience in leading scholarly discussions.
+- Use these sessions to update the group on your projects and gather feedback.
 
-- Occasionally, I may extend invitations to lab members to assist in drafting grant proposals, particularly when the content significantly aligns with their research areas. Participation in this process is entirely voluntary.
-- Engaging in grant writing provides invaluable experience in securing funding and grasping the broader impacts of your research. It also influences the direction and scope of our lab’s future endeavors.
-- While participation can significantly benefit your research career, the choice to engage in proposal writing remains yours, respecting your existing commitments and research focus.
+### Grant Proposal Opportunities:
 
-### Work-Life Balance
+- You may be invited to help draft grant proposals if the topics align closely with your research. This is voluntary.
+- Such involvement can significantly enhance your understanding of funding mechanisms and the broader research impact.
+- The decision to participate will always respect your current commitments and research focus.
 
-- While I often work long hours, I do not expect nor desire everyone in the lab to adopt this style. It is crucial to find a balance that allows you to be productive while maintaining your well-being.
-- Engaging in activities like sports is encouraged; if you enjoy swimming, for instance, feel free to invite me along. It’s a great way for us to stay active and break away from the sedentary routine of office work.
-- Maintaining a healthy work-life balance is essential, not only for your personal health but also for sustaining long-term productivity and creativity in your research.
-- Remember, it's important to step away from work periodically to recharge. This approach helps in maintaining enthusiasm and perspective in your research endeavors.
+</p>
+</details>
 
+<details>
+<summary><strong>Work-Life Balance</strong></summary>
+<p>
+
+- Although I often work long hours, I encourage you to find a balance that suits your well-being and productivity.
+- Participate in activities like sports; if you’re into swimming, let’s go together to break the monotony of desk work.
+- It’s vital to occasionally disconnect from work to maintain energy and creativity.
+
+</p>
+</details>
+
+<details>
+<summary><strong>Effective Communication</strong></summary>
+<p>
+
+- We actively use Slack for daily interactions, staying connected on updates, and quick questions.
+- Stay responsive on Slack during work hours to keep abreast of lab happenings.
+- Slack also facilitates informal chats and sharing of interesting finds, keeping our lab atmosphere dynamic.
+
+</p>
+</details>
+
+<details>
+<summary><strong>Task Management with Asana</strong></summary>
+<p>
+
+- We use Asana to keep track of deadlines, responsibilities, and project progress.
+- Regularly update your tasks in Asana to maintain transparency and foster effective lab management.
+- Asana helps set priorities and organize our efforts, making our research operations smooth and coordinated.
+
+</p>
+</details>
