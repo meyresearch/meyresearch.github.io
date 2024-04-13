@@ -69,17 +69,24 @@ permalink: /regulations/
 <a href="javascript:void(0);" onclick="toggleVisibility('balance');">Work-Life Balance</a>
 <div id="balance" style="display:none;">
 <p>
+
 - Although I often work long hours, I encourage you to find a balance that suits your well-being and productivity.
+
 - Participate in activities like sports; if you’re into swimming, let’s go together to break the monotony of desk work.
+
 - It’s vital to occasionally disconnect from work to maintain energy and creativity.
+
 </p>
 </div>
 
 <a href="javascript:void(0);" onclick="toggleVisibility('communication');">Effective Communication</a>
 <div id="communication" style="display:none;">
 <p>
+
 - We actively use Slack for daily interactions, staying connected on updates, and quick questions.
+
 - Stay responsive on Slack during work hours to keep abreast of lab happenings.
+
 - Slack also facilitates informal chats and sharing of interesting finds, keeping our lab atmosphere dynamic.
 </p>
 </div>
@@ -87,8 +94,11 @@ permalink: /regulations/
 <a href="javascript:void(0);" onclick="toggleVisibility('taskManagement');">Task Management with Asana</a>
 <div id="taskManagement" style="display:none;">
 <p>
+
 - We use Asana to keep track of deadlines, responsibilities, and project progress.
+
 - Regularly update your tasks in Asana to maintain transparency and foster effective lab management.
+
 - Asana helps set priorities and organize our efforts, making our research operations smooth and coordinated.
 </p>
 </div>
