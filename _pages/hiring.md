@@ -9,6 +9,8 @@ permalink: /hiring/
 
 - Currently, we don't hire short-term RA or interns. Positions are reserved for those who will continue their PhDs (e.g., in a part-time manner) in our Lab.
 
+- Make sure you have take a look at <a href='https://intellistream.github.io//regulations/'>how our lab works</a>.
+
 - We welcome students who want to explore the <i>system research</i> area, particularly ML system, database system, and network system.
 
 - GPA is the least thing we consider. Hands on experience matter more.
