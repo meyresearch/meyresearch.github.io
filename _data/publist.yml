@@ -1,3 +1,15 @@
+- title: "Low-Latency Video Conferencing via Optimized Packet Routing and Reordering"
+  image: 
+  description: 
+  authors: Yao Xiao, Amelie chi Zhou, Sitian Chen, Shuhao Zhang, Yi Wang, Rui Mao, Xuan Yang
+  url: 
+  venue: IWQoS
+  display: IEEE International Symposium on Quality of Service
+  year: 2024
+  tag: Network
+  highlight: 0
+  news2: 
+  
 - title: "CStream: Parallel Data Stream Compression on Multicore Edge Devices"
   image: 
   description: 
