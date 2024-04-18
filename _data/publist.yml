@@ -1,3 +1,15 @@
+- title: "CStream: Parallel Data Stream Compression on Multicore Edge Devices"
+  image: 
+  description: 
+  authors: Xianzhi Zeng, Shuhao Zhang
+  url: 
+  venue: TKDE
+  display: IEEE Transactions on Knowledge and Data Engineering 
+  year: 2024
+  tag: DB
+  highlight: 0
+  news2: 
+  
 - title: "Fast Parallel Recovery for Transactional Stream Processing on Multicores"
   image: 
   description: 
