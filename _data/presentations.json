@@ -254,6 +254,17 @@
   },
   {
     "presenter": "Zhonghao Yang",
+    "paper": "TransNFV: Enhancing Scalability and State Management in NFV with Adaptive Transactional Concurrency Control",
+    "date": "2024-04-19",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
+    "notes": "",
+    "categories": ["Transactional Stream Processing", "Network Function Virtualization"]
+  },
+  {
+    "presenter": "Zhonghao Yang",
     "paper": "Fast Parallel Recovery for Transactional Stream Processing on Multicores",
     "date": "2024-04-26",
     "day": "Friday",
