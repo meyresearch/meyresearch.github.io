@@ -11,4 +11,26 @@
   email: zhonghao_yang@mymail.sutd.edu.sg
   number_educ: 1
   education1: B.Sc. in Computer Science, Singapore University of Technology and Design (2022)
- 
+
+- name: Xinghe Chen
+  photo: user.png
+  info: "Joining in Aug 2024"
+  email: 
+  number_educ: 2
+  education1: B.Sc. in Physics, University of Manchester & Beijing Normal University (2021)
+  education2: M.Sc. in Computer Science, Columbia University (2023)
+  
+- name: Yihua Hu
+  photo: user.png
+  info: "Joining in Aug 2024"
+  email: 
+  number_educ: 2
+  education1: B.Sc. in Computer Science, Renmin University of China (2022)
+  education2: M.Sc. in Computer Science, Columbia University (2023)
+  
+- name: Hongrui Liu
+  photo: user.png
+  info: "Joining in Aug 2024"
+  email: 
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Beihang University (2024)
