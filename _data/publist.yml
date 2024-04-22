@@ -48,14 +48,14 @@
   
 - title: "PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation"
   image: 
-  description: 
+  description: AI for (Streaming) DB
   authors: Xianzhi Zeng*, Shuhao Zhang, Hongbin Zhong, Hao Zhang, Mian Lu, Zhao Zheng, Yuqiang Chen
   url: 
   venue: SIGMOD
   display: International Conference on Management of Data (SIGMOD)
   year: 2024
   tag: AI4DB
-  highlight: 0
+  highlight: 1
   news2: 
   
 - title: "Predictive and Near-Optimal Sampling for View Materialization in Video Databases"
@@ -71,7 +71,7 @@
   
 - title: "SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
   image: SentiStream.png
-  description: Online sentiment analysis has emerged as a crucial component in numerous data-driven applications, including social media monitoring, customer feedback analysis, and online reputation management. This paper presents sentistream, a novel co-training framework specifically designed for efficient sentiment analysis within dynamic data streams.
+  description: (Streaming) NLP
   authors: Yuhao Wu*, Karthick Sharma*, Chun Wei Seah, Shuhao Zhang 
   url: https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf
   venue: EMNLP
@@ -88,12 +88,12 @@
   venue: VLDBJ
   display: The International Journal on Very Large Data Bases Journal (VLDBJ)
   year: 2023
-  highlight: 1
+  highlight: 0
   news2: 
   
 - title: "Data Stream Clustering: An In-depth Empirical Study"
   image: sesame.png
-  description: We conduct a study of data stream clustering algorithm on its four key design aspects. We implemented state-of-the-art variants of all of these design choices in an open-sourced platform from scratch and evaluated them using both real-world and synthetic workloads. Our analysis identifies the fundamental issues and trade-offs of each design choice in terms of both accuracy and efficiency.
+  description: Data (Stream) Mining.
   authors: Xin Wang*, Zhengru Wang*, Zhenyu Wu#, Shuhao Zhang, Xuanhua Shi, Li Lu
   url: https://intellistream.github.io/downloads/papers/Sesame_CR.pdf
   venue: SIGMOD
@@ -126,7 +126,7 @@
 
 - title: "MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
   image: morphstream.png
-  description: This paper introduces MorphStream -- a novel transactional stream processing engine. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies.
+  description: Data (Stream) Management System
   authors: Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
   url: https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf
   venue: SIGMOD
@@ -143,7 +143,7 @@
   venue: ICDE
   display: IEEE 39rd International Conference on Data Engineering (ICDE)
   year: 2023
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression"
@@ -187,7 +187,7 @@
   venue: SIGMOD
   display: International Conference on Management of Data (SIGMOD)
   year: 2021
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Fine-Grained Multi-Query Stream Processing on Integrated Architectures"
@@ -286,7 +286,7 @@
   venue: SIGMOD
   display: Proceedings of the 2019 International Conference on Management of Data (SIGMOD)
   year: 2019
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Multi-Query Optimization for Complex Event Processing in SAP ESP"
@@ -308,7 +308,7 @@
   venue: ICDE
   display: IEEE 33rd International Conference on Data Engineering (ICDE)
   year: 2017
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Understanding Co-Running Behaviors on Integrated CPU/GPU Architectures"
