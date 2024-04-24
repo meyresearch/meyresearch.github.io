@@ -13,7 +13,7 @@
 - title: "CStream: Parallel Data Stream Compression on Multicore Edge Devices"
   image: 
   description: 
-  authors: Xianzhi Zeng, Shuhao Zhang
+  authors: Xianzhi Zeng*, Shuhao Zhang
   url: 
   venue: TKDE
   display: IEEE Transactions on Knowledge and Data Engineering 
