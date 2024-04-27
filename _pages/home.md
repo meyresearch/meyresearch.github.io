@@ -40,6 +40,8 @@ Our group thrives at the intersection of data-intensive applications and systems
   - [ICDE'17] [Multi-Query Optimization for Complex Event Processing in SAP ESP](https://www.comp.nus.edu.sg/~hebs/pub/shuhaoICDE17b.pdf)
 
 - _System Development/Optimization_:
+  - [TKDE'24] [CStream: Parallel Data Stream Compression on Multicore Edge Devices -- Journal Extension](https://arxiv.org/pdf/2306.10228.pdf)  
+  - [ICDE'24] [Fast Parallel Recovery for Transactional Stream Processing on Multicores]()  
   - [ICDE'24 Demo] [MorphStream: Scalable Processing of Transactions over Streams on Multicores](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf)
   - [ICDE'23] [Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores](https://intellistream.github.io/downloads/papers/CStream_CR.pdf)
   - [SIGMOD'23] [MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf)
@@ -68,14 +70,13 @@ Our group thrives at the intersection of data-intensive applications and systems
 
 - <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary topics or preprints</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
-  - [on-going] [Novel Retrival Paradigam/Algorithm for Large Language Models]() 
+  - [IWQoS'24] [Low-Latency Video Conferencing via Optimized Packet Routing and Reordering]()
   - [on-going] Revisit Approximate Nearest​ Neighbour Search under Online Ingestion
   - [on-going] Benchmarking of Approximating Matrix Multiplication on Modern Hardware
   - [arxiv] [Harnessing Scalable Transactional Stream Processing for Managing Large Language Models [Vision]](https://arxiv.org/pdf/2307.08225.pdf)
   - [arxiv] [Online Continual Knowledge Learning for Language Models](https://arxiv.org/abs/2311.09632)
   - [arxiv] [DB4NFV: A Database System for Scaling Stateful Network Service Function Chain with Ease](https://arxiv.org/pdf/2307.10732.pdf)
   - [arxiv] [MorphStream: Scalable Processing of Transactions over Streams on Multicores - Journal Extension](https://arxiv.org/pdf/2307.12749.pdf)
-  - [arxiv] [CStream: Parallel Data Stream Compression on Multicore Edge Devices -- Journal Extension](https://arxiv.org/pdf/2306.10228.pdf)
   - [arxiv] [A Framework for Fast Polarity Labelling of Massive Data Streams](https://arxiv.org/abs/2203.12368)
   - [arxiv] [Self-Optimizing Data Stream Clustering Algorithm](https://arxiv.org/abs/2309.04799)
   - [BigMM'19] [TraV: an Interactive Trajectory Exploration System for Massive Data Sets](https://easychair.org/publications/preprint_download/gMCP) 
