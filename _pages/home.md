@@ -40,9 +40,9 @@ Our group thrives at the intersection of data-intensive applications and systems
   - [ICDE'17] [Multi-Query Optimization for Complex Event Processing in SAP ESP](https://www.comp.nus.edu.sg/~hebs/pub/shuhaoICDE17b.pdf)
 
 - _System Development/Optimization_:
-  - [TKDE'24] [CStream: Parallel Data Stream Compression on Multicore Edge Devices -- Journal Extension](https://arxiv.org/pdf/2306.10228.pdf)  
-  - [ICDE'24] [Fast Parallel Recovery for Transactional Stream Processing on Multicores]()  
-  - [ICDE'24 Demo] [MorphStream: Scalable Processing of Transactions over Streams on Multicores](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf)
+  - [TKDE'24] [CStream: Parallel Data Stream Compression on Multicore Edge Devices](https://arxiv.org/pdf/2306.10228.pdf)  
+  - [ICDE'24] [Fast Parallel Recovery for Transactional Stream Processing on Multicores](https://intellistream.github.io/downloads/papers/ICDE24_MorphStreamR.pdf)  
+  - [ICDE'24 Demo] [MorphStream: Scalable Processing of Transactions over Streams on Multicores](https://intellistream.github.io/downloads/papers/ICDE24_Demo_MorphStream.pdf)
   - [ICDE'23] [Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores](https://intellistream.github.io/downloads/papers/CStream_CR.pdf)
   - [SIGMOD'23] [MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf)
   - [ICDE'20] [Towards Concurrent Stateful Stream Processing on Multicore Processors](https://doi.org/10.1109/ICDE48307.2020.00136)
