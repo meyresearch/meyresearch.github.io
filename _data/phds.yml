@@ -1,13 +1,36 @@
 - name: "<a href='https://tonyskyzeng.github.io/'>Xianzhi Zeng</a>"
   photo: xianzhi.jpg
-  info: "Since started Sep 2022 (2021-2022 as visiting student) - Published 2x ICDE, 1x DEBS, 1x SIGMOD; Submitted 1x TKDE."
-  email: xianzhi_xianzhi@mymail.sutd.edu.sg
-  number_educ: 1
-  education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China (2021)
+  info: "Started in Sep 2022 (2021-2022 as visiting student) - Published 2x ICDE, 1x DEBS, 1x SIGMOD, 1x TKDE"
+  email: 
+  number_educ: 1  
+  education2: B.Sc. in Computer Science, University of Electronic Science and Technology of China (2021)
 
 - name: Zhonghao Yang
   photo: zhonghao.jpg
-  info: "Since started in Jan 2023 - Published 1x ICDE (Demo), Submitted 1x ICDE"
-  email: zhonghao_yang@mymail.sutd.edu.sg
+  info: "Started in Jan 2023 - Published 1x ICDE (Demo), Submitted 1x TKDE"
+  email: 
   number_educ: 1
   education1: B.Sc. in Computer Science, Singapore University of Technology and Design (2022)
+
+- name: Hongrui Liu
+  photo: user.png
+  info: "Starting in Aug 2024"
+  email: 
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Beihang University (2024)
+  
+- name: Yihua Hu
+  photo: user.png
+  info: "Starting in Aug 2024"
+  email: 
+  number_educ: 2
+  education1: B.Sc. in Computer Science, Renmin University (2022)
+  education2: M.Sc. in Computer Science, Columbia University (2023)
+ 
+- name: Xinghe Chen
+  photo: user.png
+  info: "Starting in Aug 2024"
+  email: 
+  number_educ: 2
+  education1: B.Sc. in Computer Science, Beijing Normal University (2021)
+  education2: M.Sc. in Computer Science, Columbia University (2023)
