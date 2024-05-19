@@ -1,3 +1,15 @@
+- title: "Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality"
+  image: 
+  description: 
+  authors: Xilin Tang, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du
+  url: 
+  venue: SIGMOD
+  display: International Conference on Management of Data (SIGMOD)
+  year: 2025
+  tag: Network
+  highlight: 0
+  news2: 
+
 - title: "Low-Latency Video Conferencing via Optimized Packet Routing and Reordering"
   image: 
   description: 
