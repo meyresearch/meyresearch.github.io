@@ -12,12 +12,12 @@
   number_educ: 1
   education1: B.Sc. in Computer Science, Singapore University of Technology and Design (2022)
 
-- name: Hongrui Liu
+- name: Junyao Dong
   photo: user.png
-  info: "Starting in Aug 2024"
+  info: "(M.Eng) Starting in Aug 2024"
   email: 
   number_educ: 1
-  education1: B.Sc. in Computer Science, Beihang University (2024)
+  education1: B.Sc. in Computer Science, Guangdong University of Foreign Studies (2021)
   
 - name: Yihua Hu
   photo: user.png
@@ -33,4 +33,11 @@
   email: 
   number_educ: 2
   education1: B.Sc. in Computer Science, Beijing Normal University (2021)
-  education2: M.Sc. in Computer Science, Columbia University (2023)
+  education2: M.Sc. in Computer Science, Columbia University (2023)  
+
+- name: Hongrui Liu
+  photo: user.png
+  info: "Starting in Aug 2024"
+  email: 
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Beihang University (2024)
