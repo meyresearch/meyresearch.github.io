@@ -1,13 +1,3 @@
-- title: "Sire: An Interoperability Engine for Prototyping Algorithms and Exchanging Information Between Molecular Simulation Programs"
-  image: xx.png
-  description: Software paper for Sire
-  authors: C. Woods, L. Hedges, A. Mulholland, M. Malaisree, P. Tosco, H. Loeffler, M. Suruzhon, M. Burman, S. Bariami, S. Bosisio, G. Calabro, F. Clark, A. S.J.S. Mey, J. Michel
-  link:
-    url: https://doi.org/10.26434/chemrxiv-2024-gnm1z
-    display: chemrxiv-2024-gnm1z
-  highlight: 0
-  news2:
-
 - title: "mRNA interactions with disordered regions control protein activity"
   image: xx.png
   description: Invesitation of reguatlion of MYC interaction in cytosol and TIS granuals

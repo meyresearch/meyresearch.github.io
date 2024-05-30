@@ -1,3 +1,13 @@
+- title: "Sire: An Interoperability Engine for Prototyping Algorithms and Exchanging Information Between Molecular Simulation Programs"
+  image: xx.png
+  description: Software paper for Sire
+  authors: C. Woods, L. Hedges, A. J. Mulholland, M. Malaisree, P. Tosco, H. Loeffler, M. Suruzhon, M. Burman, S. Bariami, S. Bosisio, G. Calabro, F. Clark, A. S.J.S. Mey, J. Michel
+  link:
+    url: https://doi.org/10.1063/5.0200458
+    display: J. Chem. Phys. 160, 202503 (2024)
+  highlight: 0
+  news2:
+
 - title: "Benchmarking active learning protocols for ligand binding affinity prediction"
   image: al.png
   description: Benchmarking active learning trategies for best performance on labelling data for binding affinities
