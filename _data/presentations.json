@@ -284,5 +284,16 @@
     "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
     "notes": "",
     "categories": ["Stream Processing", "Geo-Distributed Video Conferencing"]
+  },
+  {
+    "presenter": "Zhao Dandan",
+    "paper": "Scalable Real-Time Fault Diagnosis via Online Continual Learning and Data Sampling",
+    "date": "2024-05-31",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
+    "notes": "",
+    "categories": ["Real-Time Fault Diagnosis", "Online Continual Learning", "Data Sampling"]
   }
 ]
