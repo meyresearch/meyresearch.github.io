@@ -1,3 +1,16 @@
+- name: "Crystal Wong"
+  photo: Crystal.jpg
+  info: MChem student
+  number_educ: 1
+  education1: MChem Medicinal and Biological Chemistry, University of Edinburgh, expected completion July 2024
+
+- name: "Nicholas Runcie"
+  photo: nicholas.jpg
+  info: MChem in industry student
+  email:
+  number_educ: 1
+  education1: MChem Medicinal and Biological Chemistry, University of Edinburgh, expected completion July 2024
+
 - name: Victor Principe
   photo: victor.jpeg
   info: Chemical (MChem)

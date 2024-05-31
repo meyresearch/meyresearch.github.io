@@ -1,15 +1,15 @@
-- name: "Crystal Wong"
-  photo: Crystal.jpg
-  info: MChem student
+- name: "Yihan Guo"
+  photo: user.png
+  info: MSc student
   number_educ: 1
-  education1: MChem Medicinal and Biological Chemistry, University of Edinburgh, expected completion July 2024
+  education1: MSc Anaytical Chemistry, expected completion September 2024
 
-- name: "Nicholas Runcie"
-  photo: nicholas.jpg 
-  info: MChem in industry student
+- name: "Ian Yang"
+  photo: ian.jpg 
+  info: MSc student
   email:
   number_educ: 1
-  education1: MChem Medicinal and Biological Chemistry, University of Edinburgh, expected completion July 2024
+  education1: MSc Bioinformatics, University of Edinburgh, expected completion September 2024
 
 - name: "This could be you !"
   photo: user.png
