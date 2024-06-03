@@ -11,19 +11,14 @@
       <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">IntelliStream Research Group</a>
     </div>
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
+    <ul class="nav navbar-nav navbar-right">
         <li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
         {% for page in site.pages %}
-          {% if page.path contains '_pages/' and page.name != '404.md' and page.name != 'home.md' and page.name != 'allnews.md' and page.name != 'presentations.md'%}
-            <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-        {% for page in site.pages %}
-          {% if page.name == 'presentations.md' %}
-            <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-          {% endif %}
-        {% endfor %}          
-      </ul>
+            {% if page.path contains '_pages/' and page.name != '404.md' and page.name != 'home.md' and page.name != 'allnews.md' and page.name != 'hiring.md' %}
+                <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+            {% endif %}
+        {% endfor %}       
+    </ul>
     </div>
   </div>
 </div>
