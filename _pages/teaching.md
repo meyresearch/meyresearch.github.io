@@ -20,4 +20,6 @@ permalink: /teaching/
 
 ## Parallel Computing
 
-[Lecture Notes](https://intellistream.github.io/downloads/lectures/parallel_computing)
+- [Lecture Notes: L1_Introduction](https://intellistream.github.io/downloads/lectures/parallel_computing/L1_Introduction.pdf)
+
+- [Lecture Notes: L2\_Cache\_Coherence\_and\_Memory\_Consistency](https://intellistream.github.io/downloads/lectures/parallel_computing/L2_Cache_Coherence_and_Memory_Consistency.pdf)
