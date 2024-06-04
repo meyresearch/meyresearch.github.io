@@ -27,3 +27,5 @@ permalink: /teaching/
 - [Lecture Notes: L3\_Synchronization\_and\_Liveness\_Hazards](https://intellistream.github.io/downloads/lectures/parallel_computing/L3_Synchronization_and_Liveness_Hazards.pdf)
 
 - [Lecture Notes: L4\_Parallelization\_Optimizations](https://intellistream.github.io/downloads/lectures/parallel_computing/L4_Parallelization_Optimizations.pdf)
+
+- [Lecture Notes: L5\_Parallel\_Program\_Design\_Patterns](https://intellistream.github.io/downloads/lectures/parallel_computing/L5_Parallel_Program_Design_Patterns.pdf)
