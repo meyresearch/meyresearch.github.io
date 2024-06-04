@@ -31,3 +31,5 @@ permalink: /teaching/
 - [Lecture Notes: L5\_Parallel\_Program\_Design\_Patterns](https://intellistream.github.io/downloads/lectures/parallel_computing/L5_Parallel_Program_Design_Patterns.pdf)
 
 - [Lecture Notes: L6\_Performance\_Analysis](https://intellistream.github.io/downloads/lectures/parallel_computing/L6_Performance_Analysis.pdf)
+
+- [Lecture Notes: L7\_ParallelHardware](https://intellistream.github.io/downloads/lectures/parallel_computing/L7_ParallelHardware.pdf)
