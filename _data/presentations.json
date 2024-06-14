@@ -302,7 +302,7 @@
     "date": "2024-06-14",
     "day": "Friday",
     "time": "3:00PM-3:30PM (Singapore Time)",
-    "slides": "",
+    "slides": "/downloads/talks/Paper/FLP.pptx",
     "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
     "notes": "",
     "categories": ["Federated Learning", "Decentralized Model"]
