@@ -124,7 +124,7 @@
   display: International Conference on Management of Data (SIGMOD)
   year: 2023
   highlight: 1
-  news2: Our Sesame Python API package has been released to pypi: https://pypi.org/project/pysame. Sesame is scalable stream mining library on modern hardware written in C++ By now Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms. <a href='https://dl.acm.org/doi/abs/10.1145/3589307'>Sesame was first announced in SIGMOD 2023.</a>
+  news2: Our Sesame Python API package has been released to pypi at https://pypi.org/project/pysame. Sesame is scalable stream mining library on modern hardware written in C++ By now Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms. 
   
 - title: "Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB"
   image: 
