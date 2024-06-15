@@ -70,16 +70,8 @@ Our group thrives at the intersection of data-intensive applications and systems
 
 - <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary topics or preprints</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
-  - [IWQoS'24] [Low-Latency Video Conferencing via Optimized Packet Routing and Reordering]()
-  - [on-going] Revisit Approximate Nearest​ Neighbour Search under Online Ingestion
-  - [on-going] Benchmarking of Approximating Matrix Multiplication on Modern Hardware
-  - [arxiv] [Harnessing Scalable Transactional Stream Processing for Managing Large Language Models [Vision]](https://arxiv.org/pdf/2307.08225.pdf)
-  - [arxiv] [Online Continual Knowledge Learning for Language Models](https://arxiv.org/abs/2311.09632)
-  - [arxiv] [DB4NFV: A Database System for Scaling Stateful Network Service Function Chain with Ease](https://arxiv.org/pdf/2307.10732.pdf)
-  - [arxiv] [MorphStream: Scalable Processing of Transactions over Streams on Multicores - Journal Extension](https://arxiv.org/pdf/2307.12749.pdf)
-  - [arxiv] [A Framework for Fast Polarity Labelling of Massive Data Streams](https://arxiv.org/abs/2203.12368)
-  - [arxiv] [Self-Optimizing Data Stream Clustering Algorithm](https://arxiv.org/abs/2309.04799)
-  - [BigMM'19] [TraV: an Interactive Trajectory Exploration System for Massive Data Sets](https://easychair.org/publications/preprint_download/gMCP) 
+  - [IWQoS'24] [Low-Latency Video Conferencing via Optimized Packet Routing and Reordering](https://arxiv.org/abs/2310.05054)
+  - [BigMM'19] [TraV: an Interactive Trajectory Exploration System for Massive Data Sets](https://ieeexplore.ieee.org/abstract/document/8919445) 
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
