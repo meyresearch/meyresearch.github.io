@@ -162,7 +162,8 @@
   display: International Conference on Management of Data (SIGMOD)
   year: 2023
   highlight: 1
-  news2:
+  news2: MorphStream is demonstrated at ICDE 2024.
+  news2_url: "https://icde2024.github.io/demos.html".
   
 - title: "Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores"
   image: CStream.png
