@@ -80,7 +80,7 @@
   year: 2024
   tag: AI4DB
   highlight: 1
-  news2: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024" at www.csdn.net/article/2023-12-18/135066223
+  news2: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024" at `https://www.csdn.net/article/2023-12-18/135066223`
   
 - title: "Predictive and Near-Optimal Sampling for View Materialization in Video Databases"
   image: 
@@ -124,7 +124,7 @@
   display: International Conference on Management of Data (SIGMOD)
   year: 2023
   highlight: 1
-  news2: Our Sesame Python API package has been released to pypi at pypi.org/project/pysame. Sesame is scalable stream mining library on modern hardware written in C++ By now Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms. 
+  news2: Our Sesame Python API package has been released to pypi at `https://pypi.org/project/pysame`. Sesame is scalable stream mining library on modern hardware written in C++ By now Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms. 
   
 - title: "Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB"
   image: 
