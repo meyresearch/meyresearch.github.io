@@ -34,24 +34,33 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
 <div class="row">
 {% endif %}
 
-<div class="col-sm-7 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.url }}">{{ publi.venue }} {{ publi.year }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
-  <p> {{ publi.news2_url }}</p>
-  <p><strong>Publications:</strong></p>
-  <ul>
-     {% for publication in publi.publications %}
-       <li>{{ publication }}</li>
-     {% endfor %}
-  </ul>
- </div>
+<div class="col-sm-6 clearfix">
+  <div class="well">
+    <div class="row">
+      <div class="col-sm-6">
+        <pubtit>{{ publi.title }}</pubtit>
+        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+        <p>{{ publi.description }}</p>
+        <p><em>{{ publi.authors }}</em></p>
+        <p><strong><a href="{{ publi.url }}">{{ publi.venue }} {{ publi.year }}</a></strong></p>
+        <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
+        <p>{{ publi.news2 }}</p>
+        <p><a href="{{ publi.news2_url }}">{{ publi.news2_url }}</a></p>
+      </div>
+      <div class="col-sm-6">
+        {% if publi.publications %}
+          <p><strong>Publications:</strong></p>
+          <ul>
+            {% for publication in publi.publications %}
+              <li>{{ publication }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    </div>
+  </div>
 </div>
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
