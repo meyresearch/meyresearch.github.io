@@ -1,3 +1,24 @@
+- title: "MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
+  image: morphstream.png
+  description: Data (Stream) Management System
+  authors: Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
+  url: https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf
+  venue: SIGMOD
+  display: International Conference on Management of Data (SIGMOD)
+  year: 2023
+  highlight: 1
+  news2: "MorphStream is demonstrated at ICDE 2024."
+  news2_url: "https://icde2024.github.io/demos.html"
+  publications:
+    - "**[ICDE]** Zhao, Jianjun and Liu, Haikun and Zhang, Shuhao and Duan, Zhuohui and Liao, Xiaofei and Jin, Hai and Zhang, Yu. Fast Parallel Recovery for Transactional Stream Processing on Multicore. ICDE 2024"
+    - "**[VLDBJ]** Zhang, S., Soto, J. & Markl, V. A survey on transactional stream processing. The VLDB Journal 33, 451–479 (2024)"
+    - "**[ICDE]** Siqi Xiang*, Zhonghao Yang*, Shuhao Zhang, Jianjun Zhao, Yancan Mao. MorphStream: Scalable Processing of Transactions over Streams, ICDE (Demo), 2024"
+    - "**[ICDE]** Jianjun Zhao*, Haikun Liu, Shuhao Zhang, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang. Fast Parallel Recovery for Transactional Stream Processing on Multicores, ICDE, 2024"
+    - "**[SIGMOD]** Yancan Mao and Jianjun Zhao and Shuhao Zhang and Haikun Liu and Volker Markl. MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores, SIGMOD, 2023"
+    - "**[ICDE]** Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He. Towards Concurrent Stateful Stream Processing on Multicore Processors, ICDE, 2020"
+    - "**[SIGMOD]** Shuhao Zhang, Jiong He, Chi Zhou (Amelie), Bingsheng He. BriskStream: Scaling Stream Processing on Multicore Architectures, SIGMOD, 2019 (code: https://github.com/Xtra-Computing/briskstream)"
+    - "**[ICDE]** Shuhao Zhang, Bingsheng He, Daniel Dahlmeier, Amelie Chi Zhou, Thomas Heinze. Revisiting the design of data stream processing systems on multi-core processors, ICDE, 2017 (code: https://github.com/ShuhaoZhangTony/ProfilingStudy)"
+  
 - title: "Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality"
   image: 
   description: 
@@ -82,6 +103,10 @@
   highlight: 1
   news2: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024"
   news2_url: "https://www.csdn.net/article/2023-12-18/135066223"
+  publications:
+    - "**[SIGMOD]** Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, and Volker Markl. Parallelizing Intra-Window Join on Multicores: An Experimental Study, SIGMOD, 2021"
+    - "**[ICDE]** H. Zhang, X. Zeng, S. Zhang, X. Liu, M. Lu and Z. Zheng, 'Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB,' 2023 IEEE 39th International Conference on Data Engineering (ICDE), Anaheim, CA, USA, 2023, pp. 3031-3042, doi: 10.1109/ICDE55515.2023.00232."
+    - "**[SIGMOD]** Zeng X, Zhang S, Zhong H, Zhang H, Lu M, Zheng Z, Chen Y. PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation, SIGMOD, 2024"
   
 - title: "Predictive and Near-Optimal Sampling for View Materialization in Video Databases"
   image: 
@@ -127,7 +152,8 @@
   highlight: 1
   news2: "Our Sesame Python API package has been released to PyPI at https://pypi.org/project/pysame. Sesame is a scalable stream mining library on modern hardware written in C++. By now, Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms."
   news2_url: "https://pypi.org/project/pysame"
-
+  publications: 
+    - "**[SIGMOD 2023]** Xin Wang and Zhengru Wang and Zhenyu Wu and Shuhao Zhang and Xuanhua Shi and Li Lu. Data Stream Clustering: An In-depth Empirical Study, SIGMOD, 2023"
 
   
 - title: "Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB"
@@ -152,18 +178,6 @@
   highlight: 0
   news2:
 
-- title: "MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
-  image: morphstream.png
-  description: Data (Stream) Management System
-  authors: Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
-  url: https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf
-  venue: SIGMOD
-  display: International Conference on Management of Data (SIGMOD)
-  year: 2023
-  highlight: 1
-  news2: "MorphStream is demonstrated at ICDE 2024."
-  news2_url: "https://icde2024.github.io/demos.html"
-  
 - title: "Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores"
   image: CStream.png
   description: This paper introduces CStream, a novel framework for parallelizing stream compression on asymmetric multicores to minimize energy consumption without violating the user-specified compressing latency constraint.
