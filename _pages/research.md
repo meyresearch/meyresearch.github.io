@@ -20,7 +20,6 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
 - 2022 - 2025 (PI - Terminated. $80,000) "Revisiting the Algorithms for Clustering Evolving Trajectory Streams". Funding from SUTD-ZJU (VP). 
 - 2021 - 2024 (PI - Terminated. $100,000) "Efficient Intra-Window Join on the Multicore IoT systems". Funding from SUTD STARTUP RESEARCH GRANT (SRG). 
 
-
 [^1]: Some grants are transferred or terminated due to PI's move from SUTD to NTU in 2023.
 
 ## Project Highlights
@@ -34,37 +33,32 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6">
   <div class="well">
     <div class="row">
       <div class="col-md-6">
-        <div class="card-body">
-          <h5 class="card-title">{{ publi.title }}</h5>
-          <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-fluid mb-3" />
-          <p class="card-text">{{ publi.description }}</p>
-          <p class="card-text"><em>{{ publi.authors }}</em></p>
-          <p class="card-text"><strong><a href="{{ publi.url }}">{{ publi.venue }} {{ publi.year }}</a></strong></p>
-          <p class="card-text text-danger"><strong>{{ publi.news1 }}</strong></p>
-          <p class="card-text">{{ publi.news2 }}</p>
-          <p class="card-text"><a href="{{ publi.news2_url }}">{{ publi.news2_url }}</a></p>
-        </div>
+        <h5>{{ publi.title }}</h5>
+        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-fluid mb-3" />
+        <p>{{ publi.description }}</p>
+        <p><em>{{ publi.authors }}</em></p>
+        <p><strong><a href="{{ publi.url }}">{{ publi.venue }} {{ publi.year }}</a></strong></p>
+        <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
+        <p>{{ publi.news2 }}</p>
+        <p><a href="{{ publi.news2_url }}">{{ publi.news2_url }}</a></p>
       </div>
       <div class="col-md-6">
-        <div class="card-body">
-          {% if publi.publications %}
-            <h5 class="card-title">Publications:</h5>
-            <ul class="list-unstyled">
-              {% for publication in publi.publications %}
-                <li>{{ publication }}</li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </div>
+        {% if publi.publications %}
+          <h5>Publications:</h5>
+          <ul class="list-unstyled">
+            {% for publication in publi.publications %}
+              <li>{{ publication }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
       </div>
     </div>
   </div>
 </div>
-
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -80,4 +74,4 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p>&nbsp;</p>
