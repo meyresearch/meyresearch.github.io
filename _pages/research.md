@@ -37,25 +37,29 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
 <div class="col-sm-6 clearfix">
   <div class="well">
     <div class="row">
-      <div class="col-sm-6">
-        <pubtit>{{ publi.title }}</pubtit>
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-        <p>{{ publi.description }}</p>
-        <p><em>{{ publi.authors }}</em></p>
-        <p><strong><a href="{{ publi.url }}">{{ publi.venue }} {{ publi.year }}</a></strong></p>
-        <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
-        <p>{{ publi.news2 }}</p>
-        <p><a href="{{ publi.news2_url }}">{{ publi.news2_url }}</a></p>
+      <div class="col-md-6">
+        <div class="card-body">
+          <h5 class="card-title">{{ publi.title }}</h5>
+          <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-fluid mb-3" />
+          <p class="card-text">{{ publi.description }}</p>
+          <p class="card-text"><em>{{ publi.authors }}</em></p>
+          <p class="card-text"><strong><a href="{{ publi.url }}">{{ publi.venue }} {{ publi.year }}</a></strong></p>
+          <p class="card-text text-danger"><strong>{{ publi.news1 }}</strong></p>
+          <p class="card-text">{{ publi.news2 }}</p>
+          <p class="card-text"><a href="{{ publi.news2_url }}">{{ publi.news2_url }}</a></p>
+        </div>
       </div>
-      <div class="col-sm-6">
-        {% if publi.publications %}
-          <p><strong>Publications:</strong></p>
-          <ul>
-            {% for publication in publi.publications %}
-              <li>{{ publication }}</li>
-            {% endfor %}
-          </ul>
-        {% endif %}
+      <div class="col-md-6">
+        <div class="card-body">
+          {% if publi.publications %}
+            <h5 class="card-title">Publications:</h5>
+            <ul class="list-unstyled">
+              {% for publication in publi.publications %}
+                <li>{{ publication }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
       </div>
     </div>
   </div>
