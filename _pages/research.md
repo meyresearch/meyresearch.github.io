@@ -46,7 +46,7 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
     <p><strong>Publications:</strong></p>
     <ul>
       {% for publication in publi.publications %}
-        <li>{{ publication }}</li>
+        <li>{{ publication | markdownify }}</li>
       {% endfor %}
     </ul>
   {% endif %}
