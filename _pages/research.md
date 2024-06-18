@@ -44,6 +44,14 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
   <p> {{ publi.news2_url }}</p>
+    {% if publi.publications %}
+      <p><strong>Publications:</strong></p>
+      <ul>
+        {% for publication in publi.publications %}
+          <li>{{ publication }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}  
  </div>
 </div>
 
