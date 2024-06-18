@@ -128,7 +128,9 @@
   display: Empirical Methods in Natural Language Processing (long paper, main track)
   year: 2023
   highlight: 1
-  news2: 
+  news2:
+  publications: 
+    - "**[EMNLP 2023]** Yuhao Wu, Karthick Sharma, Chun Seah, and Shuhao Zhang. 2023. SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 6198–6212, Singapore. Association for Computational Linguistics."  
   
 - title: "A Survey on Transactional Stream Processing"
   image: TSP_Survey.png
