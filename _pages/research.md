@@ -34,7 +34,7 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-7 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
@@ -44,14 +44,12 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
   <p> {{ publi.news2_url }}</p>
-    {% if publi.publications %}
-      <p><strong>Publications:</strong></p>
-      <ul>
-        {% for publication in publi.publications %}
-          <li>{{ publication }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}  
+  <p><strong>Publications:</strong></p>
+  <ul>
+     {% for publication in publi.publications %}
+       <li>{{ publication }}</li>
+     {% endfor %}
+  </ul>
  </div>
 </div>
 
