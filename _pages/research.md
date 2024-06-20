@@ -10,7 +10,12 @@ permalink: /research/
 {% for project in site.data.highlighted_projects %}
 ### {{ project.project_title }}
 
-![Project Image]({{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.image }}){: .img-fluid .mb-3 style="max-width: 100%; height: auto;"}
+<div class="image-container">
+  ![Project Image]({{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.image }}){: .project-image }
+</div>
+
+#### Project Description
+{{ project.description | markdownify }}
 
 #### Publications
 {% if project.publications %}
@@ -20,9 +25,6 @@ permalink: /research/
   {% endfor %}
 </ul>
 {% endif %}
-
-#### Project Description
-{{ project.description | markdownify }}
 
 <p>{{ project.news }}</p>
 <p><a href="{{ project.news_url }}">{{ project.news_url }}</a></p>
