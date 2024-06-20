@@ -11,7 +11,7 @@ permalink: /research/
 {% if publi.highlight == 1 %}
 ### {{ publi.title }}
 
-![Project Image]({{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }})
+![Project Image]({{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}){: .img-fluid .mb-3 style="max-width: 100%; height: auto;"}
 
 #### Publications
 {% if publi.publications %}
@@ -25,11 +25,9 @@ permalink: /research/
 #### Project Description
 {{ publi.description | markdownify }}
 
+#### Project News
 <p>{{ publi.news2 }}</p>
 <p><a href="{{ publi.news2_url }}">{{ publi.news2_url }}</a></p>
-
-<p>{{ publi.authors }}</p>
-<p><strong>{{ publi.venue }} {{ publi.year }}</strong></p>
 
 <hr>
 {% endif %}

@@ -1,6 +1,6 @@
 - title: "MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
   image: morphstream.png
-  description: Data (Stream) Management System
+  description: Transactional stream processing engines (TSPEs) differ significantly in their designs, but all rely on nonadaptive scheduling strategies for processing concurrent state transactions. Subsequently, none exploit multicore parallelism to its full potential due to complex workload dependencies. In this talk, I will describe MorphStream, which adopts a novel approach by decomposing scheduling strategies into three dimensions and then strives to make the right decision along each dimension, based on analyzing the decision trade-offs under varying workload characteristics. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies. MorphStream represents a series of works in my team, which have been published in ICDE’20, SIGMOD’23, VLDB Journal’23, ICDE’24, ICDE’24 (Demo) in the past.
   authors: Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
   url: https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf
   venue: SIGMOD
@@ -10,14 +10,69 @@
   news2: "MorphStream is demonstrated at ICDE 2024."
   news2_url: "https://icde2024.github.io/demos.html"
   publications:
-    - "**[ICDE]** Siqi Xiang*, Zhonghao Yang*, Shuhao Zhang, Jianjun Zhao, Yancan Mao. MorphStream: Scalable Processing of Transactions over Streams, ICDE (Demo), 2024"
-    - "**[ICDE]** Jianjun Zhao*, Haikun Liu, Shuhao Zhang, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang. Fast Parallel Recovery for Transactional Stream Processing on Multicores, ICDE, 2024"
-    - "**[VLDBJ]** Zhang, S., Soto, J. & Markl, V. A survey on transactional stream processing. The VLDB Journal 33, 451–479 (2023)"
-    - "**[SIGMOD]** Yancan Mao and Jianjun Zhao and Shuhao Zhang and Haikun Liu and Volker Markl. MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores, SIGMOD, 2023"
-    - "**[ICDE]** Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He. Towards Concurrent Stateful Stream Processing on Multicore Processors, ICDE, 2020"
-    - "**[SIGMOD]** Shuhao Zhang, Jiong He, Chi Zhou (Amelie), Bingsheng He. BriskStream: Scaling Stream Processing on Multicore Architectures, SIGMOD, 2019 (code: https://github.com/Xtra-Computing/briskstream)"
-    - "**[ICDE]** Shuhao Zhang, Bingsheng He, Daniel Dahlmeier, Amelie Chi Zhou, Thomas Heinze. Revisiting the design of data stream processing systems on multi-core processors, ICDE, 2017 (code: https://github.com/ShuhaoZhangTony/ProfilingStudy)"
+    - "[ICDE] Siqi Xiang*, Zhonghao Yang*, Shuhao Zhang, Jianjun Zhao, Yancan Mao. MorphStream: Scalable Processing of Transactions over Streams, ICDE (Demo), 2024"
+    - "[ICDE] Jianjun Zhao*, Haikun Liu, Shuhao Zhang, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang. Fast Parallel Recovery for Transactional Stream Processing on Multicores, ICDE, 2024"
+    - "[VLDBJ] Zhang, S., Soto, J. & Markl, V. A survey on transactional stream processing. The VLDB Journal 33, 451–479 (2023)"
+    - "[SIGMOD] Yancan Mao and Jianjun Zhao and Shuhao Zhang and Haikun Liu and Volker Markl. MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores, SIGMOD, 2023"
+    - "[ICDE] Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He. Towards Concurrent Stateful Stream Processing on Multicore Processors, ICDE, 2020"
+    - "[SIGMOD] Shuhao Zhang, Jiong He, Chi Zhou (Amelie), Bingsheng He. BriskStream: Scaling Stream Processing on Multicore Architectures, SIGMOD, 2019 (code: https://github.com/Xtra-Computing/briskstream)"
+    - "[ICDE] Shuhao Zhang, Bingsheng He, Daniel Dahlmeier, Amelie Chi Zhou, Thomas Heinze. Revisiting the design of data stream processing systems on multi-core processors, ICDE, 2017 (code: https://github.com/ShuhaoZhangTony/ProfilingStudy)"
+
+- title: "Parallelizing Intra-Window Join on Multicores: An Experimental Study"
+  image: intraJoinStudy.png
+  description: The intra-window join (IaWJ), i.e., joining two input streams over a single window, is a core operation in modern stream processing applications. This paper presents the frst comprehensive study on parallelizing the IaWJ on modern multicore architectures. Our multiple follow-up works have been published in ICDE 2024, SIGMOD 2024, and SIGMOD 2025.
+  authors: Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl
+  url: https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf
+  venue: SIGMOD
+  display: International Conference on Management of Data (SIGMOD)
+  year: 2021
+  highlight: 1
+  news2: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024"
+  news2_url: "https://www.csdn.net/article/2023-12-18/135066223"
+  publications:
+    - "[SIGMOD] Xilin Tang, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du. Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality, SIGMOD, 2025"
+    - "[SIGMOD] Zeng X, Zhang S, Zhong H, Zhang H, Lu M, Zheng Z, Chen Y. PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation, SIGMOD, 2024"
+    - "[ICDE] H. Zhang, X. Zeng, S. Zhang, X. Liu, M. Lu and Z. Zheng, 'Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB,' 2023 IEEE 39th International Conference on Data Engineering (ICDE), Anaheim, CA, USA, 2023, pp. 3031-3042, doi: 10.1109/ICDE55515.2023.00232."    
+    - "[SIGMOD] Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, and Volker Markl. Parallelizing Intra-Window Join on Multicores: An Experimental Study, SIGMOD, 2021"
   
+- title: "PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation"
+  image: pecj.png
+  description: Stream Window Join (SWJ), a vital operation in stream analytics, struggles with achieving a balance between accuracy and latency due to out-of-order data arrivals. Existing methods predominantly rely on adaptive buffering, but often fall short in performance, thereby constraining practical applications. We introduce PECJ, a solution that proactively incorporates unobserved data to enhance accuracy while reducing latency, thus requiring robust predictive modeling of stream oscillation. At the heart of PECJ lies a mathematical formulation of the posterior distribution approximation (PDA) problem using variational inference (VI). This approach circumvents error propagation while meeting the low-latency demands of SWJ. We detail the implementation of PECJ, striking a balance between complexity and generality, and discuss both analytical and learning-based approaches. Experimental evaluations reveal PECJ's superior performance. The successful integration of PECJ into a multi-threaded SWJ benchmark testbed further establishes its practical value, demonstrating promising advancements in enhancing data stream processing capabilities amidst out-of-order data.
+  authors: Xianzhi Zeng*, Shuhao Zhang, Hongbin Zhong, Hao Zhang, Mian Lu, Zhao Zheng, Yuqiang Chen
+  url: 
+  venue: SIGMOD
+  display: International Conference on Management of Data (SIGMOD)
+  year: 2024
+  tag: AI4DB
+  highlight: 0
+
+- title: "SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
+  image: SentiStream.png
+  description: Online sentiment analysis has emerged as a crucial component in numerous data-driven applications, including social media monitoring, customer feedback analysis, and online reputation management. Despite their importance, current methodologies falter in effectively managing the continuously evolving nature of data streams, largely due to their reliance on substantial, pre-existing labelled datasets. This paper presents sentistream, a novel co-training framework specifically designed for efficient sentiment analysis within dynamic data streams. Comprising unsupervised, semi-supervised, and stream merge modules, sentistream guarantees constant adaptability to evolving data landscapes. This research delves into the continuous adaptation of language models for online sentiment analysis, focusing on real-world applications. Experimental evaluations using data streams derived from three benchmark sentiment analysis datasets confirm that our proposed methodology surpasses existing approaches in terms of both accuracy and computational efficiency.
+  authors: Yuhao Wu*, Karthick Sharma*, Chun Wei Seah, Shuhao Zhang 
+  url: https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf
+  venue: EMNLP
+  display: Empirical Methods in Natural Language Processing (long paper, main track)
+  year: 2023
+  highlight: 1
+  news2:
+  publications: 
+    - "[EMNLP 2023] Yuhao Wu, Karthick Sharma, Chun Seah, and Shuhao Zhang. 2023. SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 6198–6212, Singapore. Association for Computational Linguistics."  
+
+- title: "Data Stream Clustering: An In-depth Empirical Study"
+  image: sesame.png
+  description: Data Stream Clustering (DSC) plays an important role in mining continuous and unlabeled data streams in real-world applications. Over the last decades, numerous DSC algorithms have been proposed with promising clustering accuracy and efficiency. Despite the significant differences among existing DSC algorithms, they are commonly built around four key design aspects: summarizing data structure, window model, outlier detection mechanism, and offline refinement strategy. However, there is a lack of empirical studies on these key design aspects in the same codebase using real-world workloads with distinct characteristics. As a result, it is difficult for researchers to improve upon the state-of-the-art. In this paper, we conduct such a study of DSC on its four key design aspects. We implemented state-of-the-art variants of all of these design choices in an open-sourced platform from scratch and evaluated them using both real-world and synthetic workloads. Our analysis identifies the fundamental issues and trade-offs of each design choice in terms of both accuracy and efficiency. We even find that combining flexible design choices led to the development of a new algorithm called Benne, which can be tuned to achieve either better accuracy or better efficiency compared to the state-of-the-art.
+  authors: Xin Wang*, Zhengru Wang*, Zhenyu Wu#, Shuhao Zhang, Xuanhua Shi, Li Lu
+  url: https://intellistream.github.io/downloads/papers/Sesame_CR.pdf
+  venue: SIGMOD
+  display: International Conference on Management of Data (SIGMOD)
+  year: 2023
+  highlight: 1
+  news2: "Our Sesame Python API package has been released to PyPI at https://pypi.org/project/pysame. Sesame is a scalable stream mining library on modern hardware written in C++. By now, Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms."
+  news2_url: "https://pypi.org/project/pysame"
+  publications: 
+    - "[SIGMOD 2023] Xin Wang and Zhengru Wang and Zhenyu Wu and Shuhao Zhang and Xuanhua Shi and Li Lu. Data Stream Clustering: An In-depth Empirical Study, SIGMOD, 2023"
+    
 - title: "Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality"
   image: 
   description: 
@@ -90,23 +145,6 @@
   highlight: 0
   news2: 
   
-- title: "PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation"
-  image: pecj.png
-  description: AI for (Streaming) DB
-  authors: Xianzhi Zeng*, Shuhao Zhang, Hongbin Zhong, Hao Zhang, Mian Lu, Zhao Zheng, Yuqiang Chen
-  url: 
-  venue: SIGMOD
-  display: International Conference on Management of Data (SIGMOD)
-  year: 2024
-  tag: AI4DB
-  highlight: 1
-  news2: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024"
-  news2_url: "https://www.csdn.net/article/2023-12-18/135066223"
-  publications:
-    - "**[SIGMOD]** Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, and Volker Markl. Parallelizing Intra-Window Join on Multicores: An Experimental Study, SIGMOD, 2021"
-    - "**[ICDE]** H. Zhang, X. Zeng, S. Zhang, X. Liu, M. Lu and Z. Zheng, 'Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB,' 2023 IEEE 39th International Conference on Data Engineering (ICDE), Anaheim, CA, USA, 2023, pp. 3031-3042, doi: 10.1109/ICDE55515.2023.00232."
-    - "**[SIGMOD]** Zeng X, Zhang S, Zhong H, Zhang H, Lu M, Zheng Z, Chen Y. PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation, SIGMOD, 2024"
-  
 - title: "Predictive and Near-Optimal Sampling for View Materialization in Video Databases"
   image: 
   description: 
@@ -118,19 +156,6 @@
   highlight: 0
   news2:   
   
-- title: "SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
-  image: SentiStream.png
-  description: (Streaming) NLP
-  authors: Yuhao Wu*, Karthick Sharma*, Chun Wei Seah, Shuhao Zhang 
-  url: https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf
-  venue: EMNLP
-  display: Empirical Methods in Natural Language Processing (long paper, main track)
-  year: 2023
-  highlight: 1
-  news2:
-  publications: 
-    - "**[EMNLP 2023]** Yuhao Wu, Karthick Sharma, Chun Seah, and Shuhao Zhang. 2023. SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 6198–6212, Singapore. Association for Computational Linguistics."  
-  
 - title: "A Survey on Transactional Stream Processing"
   image: TSP_Survey.png
   description: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold, 1) to provide insights into the diverse TSP requirements and methodologies, and 2) to inspire the design and development of groundbreaking TSP systems.
@@ -141,21 +166,6 @@
   year: 2023
   highlight: 0
   news2: 
-  
-- title: "Data Stream Clustering: An In-depth Empirical Study"
-  image: sesame.png
-  description: Data (Stream) Mining.
-  authors: Xin Wang*, Zhengru Wang*, Zhenyu Wu#, Shuhao Zhang, Xuanhua Shi, Li Lu
-  url: https://intellistream.github.io/downloads/papers/Sesame_CR.pdf
-  venue: SIGMOD
-  display: International Conference on Management of Data (SIGMOD)
-  year: 2023
-  highlight: 1
-  news2: "Our Sesame Python API package has been released to PyPI at https://pypi.org/project/pysame. Sesame is a scalable stream mining library on modern hardware written in C++. By now, Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms."
-  news2_url: "https://pypi.org/project/pysame"
-  publications: 
-    - "**[SIGMOD 2023]** Xin Wang and Zhengru Wang and Zhenyu Wu and Shuhao Zhang and Xuanhua Shi and Li Lu. Data Stream Clustering: An In-depth Empirical Study, SIGMOD, 2023"
-
   
 - title: "Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB"
   image: 
@@ -220,17 +230,6 @@
   venue: MDPI
   display: MDPI Algorithms 2022
   year: 2022
-  highlight: 0
-  news2:
-  
-- title: "Parallelizing Intra-Window Join on Multicores: An Experimental Study"
-  image: intraJoinStudy.png
-  description: The intra-window join (IaWJ), i.e., joining two input streams over a single window, is a core operation in modern stream processing applications. This paper presents the frst comprehensive study on parallelizing the IaWJ on modern multicore architectures.
-  authors: Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl
-  url: https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf
-  venue: SIGMOD
-  display: International Conference on Management of Data (SIGMOD)
-  year: 2021
   highlight: 0
   news2:
   
