@@ -31,8 +31,7 @@ permalink: /research/
 <ul>
   {% for news_item in project.news %}
     <li>
-      <p>{{ news_item.title }}</p>
-      <p><a href="{{ news_item.url }}">{{ news_item.url }}</a></p>
+      <p>{{ news_item.title }} (<a href="{{ news_item.url }}">{{ news_item.url }}</a>)</p>      
     </li>
   {% endfor %}
 </ul>

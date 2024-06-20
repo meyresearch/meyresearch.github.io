@@ -26,7 +26,7 @@
       year: 2019      
   news: 
     - title: "MorphStream is demonstrated at ICDE 2024."
-    - url: "https://icde2024.github.io/demos.html"
+      url: "https://icde2024.github.io/demos.html"
   
 - project_title: "Parallel Stream Window Join"
   image: intraJoinStudy.png
@@ -47,7 +47,7 @@
       year: 2021       
   news: 
     - title: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024"
-    - url: "https://www.csdn.net/article/2023-12-18/135066223"
+      url: "https://www.csdn.net/article/2023-12-18/135066223"
 
 - project_title: "Data Stream Clustering"
   image: sesame.png
