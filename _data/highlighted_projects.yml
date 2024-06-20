@@ -3,16 +3,16 @@
   description: |
     Transactional stream processing engines (TSPEs) differ significantly in their designs, but all rely on nonadaptive scheduling strategies for processing concurrent state transactions. Subsequently, none exploit multicore parallelism to its full potential due to complex workload dependencies. In this talk, I will describe MorphStream, which adopts a novel approach by decomposing scheduling strategies into three dimensions and then strives to make the right decision along each dimension, based on analyzing the decision trade-offs under varying workload characteristics. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies. MorphStream represents a series of works in my team, which have been published in ICDE’20, SIGMOD’23, VLDB Journal’23, ICDE’24, ICDE’24 (Demo) in the past.
   publications:
-    - title: "[ICDE] Siqi Xiang, Zhonghao Yang, Shuhao Zhang, Jianjun Zhao, Yancan Mao. MorphStream: Scalable Processing of Transactions over Streams, ICDE (Demo), 2024"
+    - title: "[ICDE'24] Siqi Xiang, Zhonghao Yang, Shuhao Zhang, Jianjun Zhao, Yancan Mao. MorphStream: Scalable Processing of Transactions over Streams, ICDE (Demo), 2024"
       authors: Siqi Xiang, Zhonghao Yang, Shuhao Zhang, Jianjun Zhao, Yancan Mao
       year: 2024
-    - title: "[ICDE] Fast Parallel Recovery for Transactional Stream Processing on Multicores"
+    - title: "[ICDE'24] Fast Parallel Recovery for Transactional Stream Processing on Multicores"
       authors: Jianjun Zhao, Haikun Liu, Shuhao Zhang, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang
       year: 2024
-    - title: "[VLDBJ] A survey on transactional stream processing"
+    - title: "[VLDBJ'23] A survey on transactional stream processing"
       authors: Zhang, S., Soto, J. & Markl, V.
       year: 2023
-    - title: "[SIGMOD] MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
+    - title: "[SIGMOD'23] MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
       authors: Yancan Mao, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
       year: 2023
   news: "MorphStream is demonstrated at ICDE 2024."
