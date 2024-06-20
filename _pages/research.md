@@ -30,8 +30,6 @@ permalink: /research/
 <p>{{ project.news }}</p>
 <p><a href="{{ project.news_url }}">{{ project.news_url }}</a></p>
 
-<p>{{ project.authors }}</p>
-
 <hr>
 {% endfor %}
 
