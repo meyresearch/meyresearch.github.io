@@ -38,6 +38,9 @@ permalink: /research/
 </ul>
 {% endif %}
 
+<hr>
+{% endfor %}
+
 ## Research Grants[^1]
 
 - 2023 - 2026 (PI. $100,000) "Parallelized Stateful Coreset Selection in Continuous Data Streams for Enhanced Stream Learning". Funding from T1 Seed Grant. 
