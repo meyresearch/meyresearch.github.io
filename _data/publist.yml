@@ -7,17 +7,7 @@
   venue: SIGMOD
   display: International Conference on Management of Data (SIGMOD)
   year: 2023
-  highlight: 1
-  news2: "MorphStream is demonstrated at ICDE 2024."
-  news2_url: "https://icde2024.github.io/demos.html"
-  publications:
-    - "[ICDE] Siqi Xiang*, Zhonghao Yang*, Shuhao Zhang, Jianjun Zhao, Yancan Mao. MorphStream: Scalable Processing of Transactions over Streams, ICDE (Demo), 2024"
-    - "[ICDE] Jianjun Zhao*, Haikun Liu, Shuhao Zhang, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang. Fast Parallel Recovery for Transactional Stream Processing on Multicores, ICDE, 2024"
-    - "[VLDBJ] Zhang, S., Soto, J. & Markl, V. A survey on transactional stream processing. The VLDB Journal 33, 451–479 (2023)"
-    - "[SIGMOD] Yancan Mao and Jianjun Zhao and Shuhao Zhang and Haikun Liu and Volker Markl. MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores, SIGMOD, 2023"
-    - "[ICDE] Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He. Towards Concurrent Stateful Stream Processing on Multicore Processors, ICDE, 2020"
-    - "[SIGMOD] Shuhao Zhang, Jiong He, Chi Zhou (Amelie), Bingsheng He. BriskStream: Scaling Stream Processing on Multicore Architectures, SIGMOD, 2019 (code: https://github.com/Xtra-Computing/briskstream)"
-    - "[ICDE] Shuhao Zhang, Bingsheng He, Daniel Dahlmeier, Amelie Chi Zhou, Thomas Heinze. Revisiting the design of data stream processing systems on multi-core processors, ICDE, 2017 (code: https://github.com/ShuhaoZhangTony/ProfilingStudy)"
+  highlight: 0
 
 - title: "Parallelizing Intra-Window Join on Multicores: An Experimental Study"
   image: intraJoinStudy.png
@@ -28,14 +18,7 @@
   venue: SIGMOD
   display: International Conference on Management of Data (SIGMOD)
   year: 2021
-  highlight: 1
-  news2: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024"
-  news2_url: "https://www.csdn.net/article/2023-12-18/135066223"
-  publications:
-    - "[SIGMOD] Xilin Tang, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du. Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality, SIGMOD, 2025"
-    - "[SIGMOD] Zeng X, Zhang S, Zhong H, Zhang H, Lu M, Zheng Z, Chen Y. PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation, SIGMOD, 2024"
-    - "[ICDE] H. Zhang, X. Zeng, S. Zhang, X. Liu, M. Lu and Z. Zheng, 'Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB,' 2023 IEEE 39th International Conference on Data Engineering (ICDE), Anaheim, CA, USA, 2023, pp. 3031-3042, doi: 10.1109/ICDE55515.2023.00232."    
-    - "[SIGMOD] Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, and Volker Markl. Parallelizing Intra-Window Join on Multicores: An Experimental Study, SIGMOD, 2021"
+  highlight: 0
 
 - title: "SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
   image: SentiStream.png
@@ -46,10 +29,7 @@
   venue: EMNLP
   display: Empirical Methods in Natural Language Processing (long paper, main track)
   year: 2023
-  highlight: 1
-  news2:
-  publications: 
-    - "[EMNLP 2023] Yuhao Wu, Karthick Sharma, Chun Seah, and Shuhao Zhang. 2023. SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 6198–6212, Singapore. Association for Computational Linguistics."  
+  highlight: 0
 
 - title: "Data Stream Clustering: An In-depth Empirical Study"
   image: sesame.png
@@ -60,11 +40,7 @@
   venue: SIGMOD
   display: International Conference on Management of Data (SIGMOD)
   year: 2023
-  highlight: 1
-  news2: "Our Sesame Python API package has been released to PyPI at https://pypi.org/project/pysame. Sesame is a scalable stream mining library on modern hardware written in C++. By now, Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms."
-  news2_url: "https://pypi.org/project/pysame"
-  publications: 
-    - "[SIGMOD 2023] Xin Wang and Zhengru Wang and Zhenyu Wu and Shuhao Zhang and Xuanhua Shi and Li Lu. Data Stream Clustering: An In-depth Empirical Study, SIGMOD, 2023"
+  highlight: 0
 
 - title: "PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation"
   image: pecj.png

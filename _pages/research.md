@@ -7,30 +7,29 @@ permalink: /research/
 
 ## Project Highlights
 
-{% for publi in site.data.publist %}
-{% if publi.highlight == 1 %}
-### {{ publi.title }}
+{% for project in site.data.highlighted_projects %}
+### {{ project.project_title }}
 
-![Project Image]({{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}){: .img-fluid .mb-3 style="max-width: 100%; height: auto;"}
+![Project Image]({{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.image }}){: .img-fluid .mb-3 style="max-width: 100%; height: auto;"}
 
 #### Publications
-{% if publi.publications %}
+{% if project.publications %}
 <ul>
-  {% for publication in publi.publications %}
-    <li>{{ publication }}</li>
+  {% for publication in project.publications %}
+    <li>{{ publication.title }} - {{ publication.authors }} ({{ publication.year }})</li>
   {% endfor %}
 </ul>
 {% endif %}
 
 #### Project Description
-{{ publi.description | markdownify }}
+{{ project.description | markdownify }}
 
-#### Project News
-<p>{{ publi.news2 }}</p>
-<p><a href="{{ publi.news2_url }}">{{ publi.news2_url }}</a></p>
+<p>{{ project.news }}</p>
+<p><a href="{{ project.news_url }}">{{ project.news_url }}</a></p>
+
+<p>{{ project.authors }}</p>
 
 <hr>
-{% endif %}
 {% endfor %}
 
 ## Research Grants[^1]

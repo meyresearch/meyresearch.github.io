@@ -1,0 +1,61 @@
+- project_title: "Scalable Transactional Stream Processing on Multicores"
+  image: morphstream.png
+  description: |
+    Transactional stream processing engines (TSPEs) differ significantly in their designs, but all rely on nonadaptive scheduling strategies for processing concurrent state transactions. Subsequently, none exploit multicore parallelism to its full potential due to complex workload dependencies. In this talk, I will describe MorphStream, which adopts a novel approach by decomposing scheduling strategies into three dimensions and then strives to make the right decision along each dimension, based on analyzing the decision trade-offs under varying workload characteristics. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies. MorphStream represents a series of works in my team, which have been published in ICDE’20, SIGMOD’23, VLDB Journal’23, ICDE’24, ICDE’24 (Demo) in the past.
+  publications:
+    - title: "[ICDE] Siqi Xiang, Zhonghao Yang, Shuhao Zhang, Jianjun Zhao, Yancan Mao. MorphStream: Scalable Processing of Transactions over Streams, ICDE (Demo), 2024"
+      authors: Siqi Xiang, Zhonghao Yang, Shuhao Zhang, Jianjun Zhao, Yancan Mao
+      year: 2024
+    - title: "[ICDE] Fast Parallel Recovery for Transactional Stream Processing on Multicores"
+      authors: Jianjun Zhao, Haikun Liu, Shuhao Zhang, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang
+      year: 2024
+    - title: "[VLDBJ] A survey on transactional stream processing"
+      authors: Zhang, S., Soto, J. & Markl, V.
+      year: 2023
+    - title: "[SIGMOD] MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
+      authors: Yancan Mao, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
+      year: 2023
+  news: "MorphStream is demonstrated at ICDE 2024."
+  news_url: "https://icde2024.github.io/demos.html"
+  
+- project_title: "Parallel Stream Window Join"
+  image: intraJoinStudy.png
+  description: |
+    The intra-window join (IaWJ), i.e., joining two input streams over a single window, is a core operation in modern stream processing applications. This paper presents the first comprehensive study on parallelizing the IaWJ on modern multicore architectures. Our follow-up works have been published in ICDE 2024, SIGMOD 2024, and SIGMOD 2025.  
+  publications:
+    - title: "[SIGMOD] Parallelizing Intra-Window Join on Multicores: An Experimental Study"
+      authors: Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl
+      year: 2021
+    - title: "[ICDE] Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB"
+      authors: H. Zhang, X. Zeng, S. Zhang, X. Liu, M. Lu, Z. Zheng
+      year: 2023
+    - title: "[SIGMOD] PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation"
+      authors: Zeng X, Zhang S, Zhong H, Zhang H, Lu M, Zheng Z, Chen Y
+      year: 2024
+    - title: "[SIGMOD] Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality"
+      authors: Xilin Tang, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du
+      year: 2025
+  news: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024"
+  news_url: "https://www.csdn.net/article/2023-12-18/135066223"
+
+- project_title: "Data Stream Clustering"
+  image: sesame.png
+  description: |
+    Data Stream Clustering (DSC) plays an important role in mining continuous and unlabeled data streams in real-world applications. Over the last decades, numerous DSC algorithms have been proposed with promising clustering accuracy and efficiency. Our study conducts a thorough empirical evaluation of these algorithms.  
+  publications:
+    - title: "[SIGMOD 2023] Data Stream Clustering: An In-depth Empirical Study"
+      authors: Xin Wang, Zhengru Wang, Zhenyu Wu, Shuhao Zhang, Xuanhua Shi, Li Lu
+      year: 2023
+  news: "Our Sesame Python API package has been released to PyPI at https://pypi.org/project/pysame. Sesame is a scalable stream mining library on modern hardware written in C++. By now, Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms."
+  news_url: "https://pypi.org/project/pysame"
+
+- project_title: "Online Continual Learning"
+  image: SentiStream.png
+  description: |
+    Online sentiment analysis has emerged as a crucial component in numerous data-driven applications, including social media monitoring, customer feedback analysis, and online reputation management. Despite their importance, current methodologies falter in effectively managing the continuously evolving nature of data streams, largely due to their reliance on substantial, pre-existing labelled datasets. This paper presents SentiStream, a novel co-training framework specifically designed for efficient sentiment analysis within dynamic data streams. Comprising unsupervised, semi-supervised, and stream merge modules, SentiStream guarantees constant adaptability to evolving data landscapes. This research delves into the continuous adaptation of language models for online sentiment analysis, focusing on real-world applications. Experimental evaluations using data streams derived from three benchmark sentiment analysis datasets confirm that our proposed methodology surpasses existing approaches in terms of both accuracy and computational efficiency.  
+  publications:
+    - title: "[EMNLP 2023] SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
+      authors: Yuhao Wu, Karthick Sharma, Chun Seah, Shuhao Zhang
+      year: 2023
+  news: ""
+  news_url: ""
