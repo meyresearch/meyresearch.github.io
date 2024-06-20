@@ -26,6 +26,7 @@ permalink: /research/
 </ul>
 {% endif %}
 
+#### Project News
 <p>{{ project.news }}</p>
 <p><a href="{{ project.news_url }}">{{ project.news_url }}</a></p>
 
