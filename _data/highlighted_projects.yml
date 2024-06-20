@@ -1,20 +1,29 @@
-- project_title: "Scalable Transactional Stream Processing on Multicores"
+- project_title: "Scalable Stream Processing Systems"
   image: morphstream.png
   description: |
-    Transactional stream processing engines (TSPEs) differ significantly in their designs, but all rely on nonadaptive scheduling strategies for processing concurrent state transactions. Subsequently, none exploit multicore parallelism to its full potential due to complex workload dependencies. In this talk, I will describe MorphStream, which adopts a novel approach by decomposing scheduling strategies into three dimensions and then strives to make the right decision along each dimension, based on analyzing the decision trade-offs under varying workload characteristics. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies. MorphStream represents a series of works in my team, which have been published in ICDE’20, SIGMOD’23, VLDB Journal’23, ICDE’24, ICDE’24 (Demo) in the past.
+    This project concerning the designing of novel stream processing systems on modern hardware. For example, MorphStream, which adopts a novel approach by decomposing scheduling strategies into three dimensions and then strives to make the right decision along each dimension, based on analyzing the decision trade-offs under varying workload characteristics. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies. 
   publications:
-    - title: "[ICDE'24] Siqi Xiang, Zhonghao Yang, Shuhao Zhang, Jianjun Zhao, Yancan Mao. MorphStream: Scalable Processing of Transactions over Streams, ICDE (Demo), 2024"
+    - title: "[ICDE 2024] Siqi Xiang, Zhonghao Yang, Shuhao Zhang, Jianjun Zhao, Yancan Mao. MorphStream: Scalable Processing of Transactions over Streams, ICDE (Demo), 2024"
       authors: Siqi Xiang, Zhonghao Yang, Shuhao Zhang, Jianjun Zhao, Yancan Mao
       year: 2024
-    - title: "[ICDE'24] Fast Parallel Recovery for Transactional Stream Processing on Multicores"
+    - title: "[ICDE 2024] Fast Parallel Recovery for Transactional Stream Processing on Multicores"
       authors: Jianjun Zhao, Haikun Liu, Shuhao Zhang, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang
       year: 2024
-    - title: "[VLDBJ'23] A survey on transactional stream processing"
+    - title: "[VLDBJ 2023] A survey on transactional stream processing"
       authors: Zhang, S., Soto, J. & Markl, V.
       year: 2023
-    - title: "[SIGMOD'23] MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
+    - title: "[SIGMOD 2023] MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
       authors: Yancan Mao, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
       year: 2023
+    - title: "[ICDE 2020] Towards Concurrent Stateful Stream Processing on Multicore Processors"
+      authors: Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He
+      year: 2020    
+    - title: "[USENIX ATC 2020] FineStream: Fine-Grained Window-Based Stream Processing on CPU-GPU Integrated Architectures"
+      authors: Feng Zhang, Lin Yang, Shuhao Zhang, Bingsheng He, Wei Lu, Xiaoyong Du
+      year: 2020      
+    - title: "[SIGMOD 2019] BriskStream: Scaling Data Stream Processing on Shared-Memory Multicore Architectures"
+      authors: Shuhao Zhang, Jiong He, Amelie Chi Zhou, Bingsheng He
+      year: 2019      
   news: "MorphStream is demonstrated at ICDE 2024."
   news_url: "https://icde2024.github.io/demos.html"
   
@@ -22,27 +31,30 @@
   image: intraJoinStudy.png
   description: |
     The intra-window join (IaWJ), i.e., joining two input streams over a single window, is a core operation in modern stream processing applications. This paper presents the first comprehensive study on parallelizing the IaWJ on modern multicore architectures. Our follow-up works have been published in ICDE 2024, SIGMOD 2024, and SIGMOD 2025.  
-  publications:
-    - title: "[SIGMOD 2021] Parallelizing Intra-Window Join on Multicores: An Experimental Study"
-      authors: Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl
-      year: 2021
-    - title: "[ICDE 2023] Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB"
-      authors: H. Zhang, X. Zeng, S. Zhang, X. Liu, M. Lu, Z. Zheng
-      year: 2023
+  publications:   
+    - title: "[SIGMOD 2025] Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality"
+      authors: Xilin Tang, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du
+      year: 2025      
     - title: "[SIGMOD 2024] PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation"
       authors: Zeng X, Zhang S, Zhong H, Zhang H, Lu M, Zheng Z, Chen Y
       year: 2024
-    - title: "[SIGMOD 2025] Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality"
-      authors: Xilin Tang, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du
-      year: 2025
+    - title: "[ICDE 2023] Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB"
+      authors: H. Zhang, X. Zeng, S. Zhang, X. Liu, M. Lu, Z. Zheng
+      year: 2023
+    - title: "[SIGMOD 2021] Parallelizing Intra-Window Join on Multicores: An Experimental Study"
+      authors: Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl
+      year: 2021       
   news: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024"
   news_url: "https://www.csdn.net/article/2023-12-18/135066223"
 
 - project_title: "Data Stream Clustering"
   image: sesame.png
   description: |
-    Data Stream Clustering (DSC) plays an important role in mining continuous and unlabeled data streams in real-world applications. Over the last decades, numerous DSC algorithms have been proposed with promising clustering accuracy and efficiency. Our study conducts a thorough empirical evaluation of these algorithms.  
+    Data Stream Clustering (DSC) plays an important role in mining continuous and unlabeled data streams in real-world applications. Over the last decades, numerous DSC algorithms have been proposed with promising clustering accuracy and efficiency. Our study conducts a thorough empirical evaluation of these algorithms. Our follow up works concerning designing of better DSC algorithm.
   publications:
+    - title: "[Arxiv 2024] MOStream: A Modular and Self-Optimizing Data Stream Clustering Algorithm"
+      authors: Zhengru Wang, Xin Wang, Shuhao Zhang
+      year: 2024
     - title: "[SIGMOD 2023] Data Stream Clustering: An In-depth Empirical Study"
       authors: Xin Wang, Zhengru Wang, Zhenyu Wu, Shuhao Zhang, Xuanhua Shi, Li Lu
       year: 2023
@@ -52,15 +64,21 @@
 - project_title: "Online Continual Learning"
   image: SentiStream.png
   description: |
-    Online sentiment analysis has emerged as a crucial component in numerous data-driven applications, including social media monitoring, customer feedback analysis, and online reputation management. Despite their importance, current methodologies falter in effectively managing the continuously evolving nature of data streams, largely due to their reliance on substantial, pre-existing labelled datasets. This paper presents SentiStream, a novel co-training framework specifically designed for efficient sentiment analysis within dynamic data streams. Comprising unsupervised, semi-supervised, and stream merge modules, SentiStream guarantees constant adaptability to evolving data landscapes. This research delves into the continuous adaptation of language models for online sentiment analysis, focusing on real-world applications. Experimental evaluations using data streams derived from three benchmark sentiment analysis datasets confirm that our proposed methodology surpasses existing approaches in terms of both accuracy and computational efficiency.  
+    Stream Learning (SL) requires models to rapidly adapt to continuous data streams, setting it apart from traditional Continual Learning (CL). Recent SL methods emphasize efficiency by selecting data subsets for training, but they often struggle due to their reliance on static, rule-based selection algorithms that cannot effectively adapt to the changing importance of data. We conducted a series of works on SL in this project concerning topics like online sentiment analysis, LLM updates, and so on.  
   publications:
+    - title: "[Arxiv 2024] StreamPrompt: Learnable Prompt-guided Data Selection for Efficient Stream Learning"
+      authors: Tongjun Shi, Shuhao Zhang
+      year: 2024    
     - title: "[EMNLP 2023] SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
       authors: Yuhao Wu, Karthick Sharma, Chun Seah, Shuhao Zhang
+      year: 2023
+    - title: "[Arxiv 2023] Online Continual Knowledge Learning for Language Models"
+      authors: Yuhao Wu, Tongjun Shi, Karthick Sharma, Chun Wei Seah, Shuhao Zhang
       year: 2023
   news: ""
   news_url: ""
 
-- project_title: "Parallel Data Stream Compression"
+- project_title: "Data Stream Compression"
   image: CStream.png
   description: |
     Data stream compression attracts much attention recently due to the rise of IoT applications. Thanks to the balanced computational power and energy consumption, asymmetric multicores are widely used in IoT devices. This paper introduces CStream, a novel framework for parallelizing stream compression on asymmetric multicores to minimize energy consumption without violating the user-specified compressing latency constraint. Existing works cannot effectively utilize asymmetric multicores for stream compression, primarily due to the non-trivial asymmetric computation and asymmetric communication effects. To this end, CStream is developed with the following two novel designs: 1) fine-grained decomposition, which decomposes a stream compression procedure into multiple finegrained tasks to better expose the task-core affinities under the asymmetric computation effects; and 2) asymmetry-aware task scheduling, which schedules the decomposed tasks based on a novel cost model to exploit the exposed task-core affinities while considering asymmetric communication effects. To validate our proposal, we evaluate CStream with five competing mechanisms of parallelizing stream compression algorithms on a recent asymmetric multicore processor. Our extensive experiments based on a benchmark consisting of three algorithms and four datasets show that CStream outperforms alternative approaches by up to 53% lower energy consumption without compressing latency constraint violation.
@@ -70,6 +88,12 @@
       year: 2024
     - title: "[ICDE 2023] Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores"
       authors: Xianzhi Zeng, Shuhao Zhang
-      year: 2023      
+      year: 2023
+    - title: "[DEBS 2023] A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)"
+      authors: Xianzhi Zeng, Shuhao Zhang
+      year: 2023         
+    - title: "[ICDE 2023] CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression"
+      authors: Yu Zhang, Feng Zhang, Hourun Li, Shuhao Zhang, Xiaoyong Du
+      year: 2023    
   news: ""
   news_url: ""
