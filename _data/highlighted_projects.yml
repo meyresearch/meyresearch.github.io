@@ -24,8 +24,9 @@
     - title: "[SIGMOD 2019] BriskStream: Scaling Data Stream Processing on Shared-Memory Multicore Architectures"
       authors: Shuhao Zhang, Jiong He, Amelie Chi Zhou, Bingsheng He
       year: 2019      
-  news: "MorphStream is demonstrated at ICDE 2024."
-  news_url: "https://icde2024.github.io/demos.html"
+  news: 
+    - title: "MorphStream is demonstrated at ICDE 2024."
+    - url: "https://icde2024.github.io/demos.html"
   
 - project_title: "Parallel Stream Window Join"
   image: intraJoinStudy.png
@@ -44,8 +45,9 @@
     - title: "[SIGMOD 2021] Parallelizing Intra-Window Join on Multicores: An Experimental Study"
       authors: Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl
       year: 2021       
-  news: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024"
-  news_url: "https://www.csdn.net/article/2023-12-18/135066223"
+  news: 
+    - title: "第四范式、南洋理工联合研究成果入围国际顶会SIGMOD 2024"
+    - url: "https://www.csdn.net/article/2023-12-18/135066223"
 
 - project_title: "Data Stream Clustering"
   image: sesame.png
@@ -58,8 +60,9 @@
     - title: "[SIGMOD 2023] Data Stream Clustering: An In-depth Empirical Study"
       authors: Xin Wang, Zhengru Wang, Zhenyu Wu, Shuhao Zhang, Xuanhua Shi, Li Lu
       year: 2023
-  news: "Our Sesame Python API package has been released to PyPI at https://pypi.org/project/pysame. Sesame is a scalable stream mining library on modern hardware written in C++. By now, Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms."
-  news_url: "https://pypi.org/project/pysame"
+  news: 
+    - title: "Our Sesame Python API package has been released to PyPI at https://pypi.org/project/pysame. Sesame is a scalable stream mining library on modern hardware written in C++. By now, Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms."
+      url: "https://pypi.org/project/pysame"
 
 - project_title: "Online Continual Learning"
   image: SentiStream.png
@@ -75,8 +78,7 @@
     - title: "[Arxiv 2023] Online Continual Knowledge Learning for Language Models"
       authors: Yuhao Wu, Tongjun Shi, Karthick Sharma, Chun Wei Seah, Shuhao Zhang
       year: 2023
-  news: ""
-  news_url: ""
+  news:   
 
 - project_title: "Data Stream Compression"
   image: CStream.png
@@ -95,5 +97,4 @@
     - title: "[ICDE 2023] CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression"
       authors: Yu Zhang, Feng Zhang, Hourun Li, Shuhao Zhang, Xiaoyong Du
       year: 2023    
-  news: ""
-  news_url: ""
+  news:

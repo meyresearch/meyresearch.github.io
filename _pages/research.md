@@ -27,11 +27,16 @@ permalink: /research/
 {% endif %}
 
 #### Project News
-<p>{{ project.news }}</p>
-<p><a href="{{ project.news_url }}">{{ project.news_url }}</a></p>
-
-<hr>
-{% endfor %}
+{% if project.news %}
+<ul>
+  {% for news_item in project.news %}
+    <li>
+      <p>{{ news_item.title }}</p>
+      <p><a href="{{ news_item.url }}">{{ news_item.url }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
 
 ## Research Grants[^1]
 
