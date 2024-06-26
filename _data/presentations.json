@@ -306,5 +306,16 @@
     "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
     "notes": "",
     "categories": ["Federated Learning", "Decentralized Model"]
+  },
+  {
+    "presenter": "Wu Zhuoyan",
+    "paper": "Adaptive Graph-Based AKNN Search for Evolving Data Streams with Deep Reinforcement Learning",
+    "date": "2024-06-28",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
+    "notes": "",
+    "categories": ["Deep Reinforcement Learning", "Data Stream Processing"]
   }
 ]
