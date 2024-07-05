@@ -6,6 +6,15 @@
   venue: arxiv
   highlight: 0
   news2: 
+
+- title: "StreamPrompt: Learnable Prompt-guided Data Selection for Efficient Stream Learning"
+  image: xx.png
+  description: 
+  authors: Tongjun Shi, Shuhao Zhang
+  url: https://arxiv.org/abs/2406.07590
+  venue: arxiv
+  highlight: 0
+  news2: 
   
 - title: "A Modular and Self-Optimizing Algorithm for Data Stream Clustering"
   image: xx.png
@@ -33,16 +42,7 @@
   venue: arxiv
   highlight: 0
   news2: 
-  
-- title: "CStream: Parallel Data Stream Compression on Multicore Edge Devices"
-  image: xx.png
-  description: 
-  authors: Xianzhi Zeng and Zhang, Shuhao
-  url: https://arxiv.org/pdf/2306.10228.pdf
-  venue: arxiv
-  highlight: 0
-  news2: 
-  
+    
 - title: "MorphStream: Scalable Processing of Transactions over Streams on Multicores"
   image: xx.png
   description: 

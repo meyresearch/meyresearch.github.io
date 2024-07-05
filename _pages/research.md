@@ -5,7 +5,42 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research[^1]
+## Project Highlights
+
+{% for project in site.data.highlighted_projects %}
+### {{ project.project_title }}
+
+<div class="image-container">
+  ![Project Image]({{ site.url }}{{ site.baseurl }}/images/pubpic/{{ project.image }}){: .project-image }
+</div>
+
+#### Project Description
+{{ project.description | markdownify }}
+
+#### Publications
+{% if project.publications %}
+<ul>
+  {% for publication in project.publications %}
+    <li>{{ publication.title }} - {{ publication.authors }} ({{ publication.year }})</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+#### Project News
+{% if project.news %}
+<ul>
+  {% for news_item in project.news %}
+    <li>
+      <p>{{ news_item.title }} (<a href="{{ news_item.url }}">{{ news_item.url }}</a>)</p>      
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<hr>
+{% endfor %}
+
+## Research Grants[^1]
 
 - 2023 - 2026 (PI. $100,000) "Parallelized Stateful Coreset Selection in Continuous Data Streams for Enhanced Stream Learning". Funding from T1 Seed Grant. 
 - 2023 - 2026 (PI. $150,000) "Parallel Data Management in Retrieval-based Language Models". Funding from NTU Start-Up Grants. 
@@ -22,42 +57,5 @@ Machine Learning for Edges. Funding from National Research Foundation, Singapore
 
 
 [^1]: Some grants are transferred or terminated due to PI's move from SUTD to NTU in 2023.
-
-## Project Highlights
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.url }}">{{ publi.venue }} {{ publi.year }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 <p> &nbsp; </p>

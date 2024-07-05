@@ -1,3 +1,6 @@
+- date: 14/June/2024
+  headline: "Our Sesame Python API package has been released to pypi: <a href='https://pypi.org/project/pysame'>https://pypi.org/project/pysame</a>. Sesame is scalable stream mining library on modern hardware written in C++ By now Sesame contains several representative real-world stream clustering algorithms and synthetic algorithms. <a href='https://dl.acm.org/doi/abs/10.1145/3589307'>Sesame was first announced in SIGMOD 2023.</a>"
+
 - date: 15/Apr/2024
   headline: "A collaborate work <b>Low-Latency Video Conferencing via Optimized Packet Routing and Reordering </b> is accepted to IEEE IWQoS 2024! Congrats to Prof.Amelie Chi Zhou"
   
