@@ -1,3 +1,14 @@
+- title: ""
+  image: xx.png
+  description: Option piece on the future of teaching digital skills in chemistry degrees
+  authors: A. McCluskey, M. Rivera, A. S.J.S. Mey
+  link:
+    url: https://doi.org/10.26434/chemrxiv-2024-c61xt
+    display: chemRxiv 2024.c61xt
+  highlight: 0
+  new2: 
+
+
 - title: "mRNA interactions with disordered regions control protein activity"
   image: xx.png
   description: Invesitation of reguatlion of MYC interaction in cytosol and TIS granuals
