@@ -21,18 +21,23 @@ permalink: /
 Our group focuses on the design and optimization of high-performance stream processing systems. We are dedicated to advancing the state of the art in various domains, including streaming databases, stream machine learning, stream data mining, and stream IoT. By leveraging cutting-edge techniques in concurrency control, adaptive scheduling, and data compression, we aim to address the scalability and efficiency challenges posed by real-time data streams. Our research contributions have been recognized in top-tier conferences and journals, reflecting our commitment to innovation and excellence in the field of stream data processing. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
 
 ## Streaming Database
+
+### Stream Window Join
 - [SIGMOD'25] [Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality]()
 - [SIGMOD'24] [PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation](https://doi.org/10.1145/3639268)
 - [ICDE'23] [Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB](https://ieeexplore.ieee.org/document/10184828)
-- [ICDE'23] [CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression](https://ieeexplore.ieee.org/document/10184565)
 - [SIGMOD'21] [Parallelizing Intra-Window Join on Multicores: An Experimental Study](https://doi.org/10.1145/3448016.3452793)
+
+### Stream Processing Engine
+- [ICDE'23] [CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression](https://ieeexplore.ieee.org/document/10184565)
 - [TPDS'21] [Fine-Grained Multi-Query Stream Processing on Integrated Architectures](https://ieeexplore.ieee.org/document/9380479)
+- [ATC'20] [FineStream: Fine-Grained Window-Based Stream Processing on CPU-GPU Integrated Architectures](https://www.usenix.org/system/files/atc20-zhang-feng.pdf)
 - [SIGMOD Record'20] [Hardware-Conscious Stream Processing: A Survey](https://doi.org/10.1145/3385658.3385662)
 - [SIGMOD'19] [Briskstream: Scaling Data Stream Processing on Multicore Architectures](https://doi.acm.org/10.1145/3299869.3300067)
 - [ICDE'17] [Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors](https://doi.org/10.1109/ICDE.2017.119)
 - [ICDE'17] [Multi-Query Optimization for Complex Event Processing in SAP ESP](https://ieeexplore.ieee.org/document/7930061/)
 
-## Stream Transactions
+### Stream Transactions
 - [arXiv'24] [TransNFV: Scalable State Management in NFV with Adaptive Transactional Concurrency Control](http://arxiv.org/abs/2312.01066)
 - [ICDE'24] [Fast Parallel Recovery for Transactional Stream Processing on Multicores](https://intellistream.github.io/downloads/papers/ICDE24_MorphStreamR.pdf)
 - [VLDBJ'23] [A Survey on Transactional Stream Processing](https://rdcu.be/dncBQ)
@@ -57,7 +62,7 @@ Our group focuses on the design and optimization of high-performance stream proc
 - [DEBS'23] [A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)](https://doi.org/10.1145/3583678.3596885)
 - [VLIoT'20] [NebulaStream: Complex Analytics Beyond the Cloud](https://www.ronpub.com/ojiot/OJIOT_2020v6i1n07_Zeuch.html)
 
-<span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary topics or preprints</span>
+<span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
  - [SIGMOD'24] [Predictive and Near-Optimal Sampling for View Materialization in Video Databases](https://doi.org/10.1145/3639274)
  - [IWQoS'24] [Low-Latency Video Conferencing via Optimized Packet Routing and Reordering](http://arxiv.org/abs/2310.05054)
