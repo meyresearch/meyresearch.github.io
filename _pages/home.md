@@ -22,12 +22,6 @@ Our group focuses on the design and optimization of high-performance stream proc
 
 ## Streaming Database
 
-### Stream Window Join
-- [SIGMOD'25] [Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality]()
-- [SIGMOD'24] [PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation](https://doi.org/10.1145/3639268)
-- [ICDE'23] [Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB](https://ieeexplore.ieee.org/document/10184828)
-- [SIGMOD'21] [Parallelizing Intra-Window Join on Multicores: An Experimental Study](https://doi.org/10.1145/3448016.3452793)
-
 ### Stream Processing Engine
 - [ICDE'23] [CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression](https://ieeexplore.ieee.org/document/10184565)
 - [TPDS'21] [Fine-Grained Multi-Query Stream Processing on Integrated Architectures](https://ieeexplore.ieee.org/document/9380479)
@@ -36,6 +30,12 @@ Our group focuses on the design and optimization of high-performance stream proc
 - [SIGMOD'19] [Briskstream: Scaling Data Stream Processing on Multicore Architectures](https://doi.acm.org/10.1145/3299869.3300067)
 - [ICDE'17] [Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors](https://doi.org/10.1109/ICDE.2017.119)
 - [ICDE'17] [Multi-Query Optimization for Complex Event Processing in SAP ESP](https://ieeexplore.ieee.org/document/7930061/)
+
+### Stream Window Join
+- [SIGMOD'25] [Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality]()
+- [SIGMOD'24] [PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation](https://doi.org/10.1145/3639268)
+- [ICDE'23] [Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB](https://ieeexplore.ieee.org/document/10184828)
+- [SIGMOD'21] [Parallelizing Intra-Window Join on Multicores: An Experimental Study](https://doi.org/10.1145/3448016.3452793)
 
 ### Stream Transactions
 - [arXiv'24] [TransNFV: Scalable State Management in NFV with Adaptive Transactional Concurrency Control](http://arxiv.org/abs/2312.01066)
