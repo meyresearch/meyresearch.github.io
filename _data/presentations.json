@@ -317,5 +317,16 @@
     "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
     "notes": "",
     "categories": ["Deep Reinforcement Learning", "Data Stream Processing"]
+  },
+  {
+    "presenter": "Zhang Shuhao",
+    "paper": "Towards Updatability of Large Language Models",
+    "date": "2024-07-12",
+    "day": "Friday",
+    "time": "3:00PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
+    "notes": "",
+    "categories": ["Large Language Models"]
   }
 ]
