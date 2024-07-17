@@ -39,6 +39,7 @@ Our group focuses on the design and optimization of high-performance stream proc
 
 #### Stream Transactions
 - **[arXiv'24]** [TransNFV: Scalable State Management in NFV with Adaptive Transactional Concurrency Control](http://arxiv.org/abs/2312.01066)
+- **[ICDE'24]** [MorphStream: Scalable Processing of Transactions over Streams](https://intellistream.github.io/downloads/papers/ICDE24_Demo_MorphStream.pdf)
 - **[ICDE'24]** [Fast Parallel Recovery for Transactional Stream Processing on Multicores](https://intellistream.github.io/downloads/papers/ICDE24_MorphStreamR.pdf)
 - **[VLDBJ'23]** [A Survey on Transactional Stream Processing](https://rdcu.be/dncBQ)
 - **[SIGMOD'23]** [MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores](https://doi.org/10.1145/3588913)
