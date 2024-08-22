@@ -328,5 +328,27 @@
     "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
     "notes": "",
     "categories": ["Large Language Models"]
+  },
+  {
+    "presenter": "Yang Zhonghao",
+    "paper": "Cross-flow State Management in Network Function Virtualization via Transactional Concurrency Control",
+    "date": "2024-08-09",
+    "day": "Friday",
+    "time": "4:00PM-4:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
+    "notes": "",
+    "categories": ["Network Function Virtualization", "Concurrency Control"]
+  },
+  {
+    "presenter": "Chen Xinghe",
+    "paper": "DSRAG: Benchmarking Knowledge Base Data Selection in Retrieval-Augmented Generation",
+    "date": "2024-08-09",
+    "day": "Friday",
+    "time": "4:30PM-5:00PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
+    "notes": "",
+    "categories": ["Retrieval-Augmented Generation"]
   }
 ]
