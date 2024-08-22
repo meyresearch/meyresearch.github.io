@@ -20,7 +20,7 @@ permalink: /
 
 Our group focuses on the design and optimization of high-performance stream processing systems. We are dedicated to advancing the state of the art in various domains, including streaming databases, stream machine learning, stream data mining, and stream IoT. By leveraging cutting-edge techniques in concurrency control, adaptive scheduling, and data compression, we aim to address the scalability and efficiency challenges posed by real-time data streams. Our research contributions have been recognized in top-tier conferences and journals, reflecting our commitment to innovation and excellence in the field of stream data processing. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
 
-[New] We have one joint PhD scholarship available (NTU and Shanghai Jiaotong University). Details can be found at the [link](https://www.ntu.edu.sg/docs/librariesprovider65/default-document-library/shanghai-jiao-tong-university367ae55a-eaf3-4aa6-810b-4f2bb3cf8bab.pdf?sfvrsn=a75d086c_3#page=7.15). If you are interested, please drop me an email with your CV and publications if any.
+[New] The PI, Dr. Zhang, will join the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST) as a Professor in November 2024. We continue to welcome talented students to join our research team.
 
 ## Streaming Database
 
