@@ -1,3 +1,13 @@
+- title: "Digital skills in chemical education"
+  image: xx.png
+  description: Option piece on the future of teaching digital skills in chemistry degrees
+  authors: A. R. McCluskey, M. Rivera, A. S.J.S. Mey
+  link:
+    url: https://doi.org/10.1038/s41557-024-01613-x
+    display: Nat. Chem.
+  highlight: 0
+  new2:
+
 - title: "Sire: An Interoperability Engine for Prototyping Algorithms and Exchanging Information Between Molecular Simulation Programs"
   image: xx.png
   description: Software paper for Sire
