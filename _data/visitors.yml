@@ -26,20 +26,6 @@
   number_educ: 2
   education1: B.Sc. in Computer Science, Nanjing University of Aeronautics and Astronautics
   education2: MEng. in Computer Science, National University of Singapore
-
-- name: Xinjing Hu
-  photo: user.png
-  info: Visiting Student
-  email: 
-  number_educ: 1
-  education1: B.Sc. in in Computer Science, Huazhong University of Science and Technology
-
-- name: Chenghao Xu
-  photo: user.png
-  info: Visiting Student
-  email: 
-  number_educ: 1
-  education1: B.Sc. in in Computer Science, Huazhong University of Science and Technology
   
 - name: <a href='https://yancanmao.github.io/'>Yancan Mao</a>
   photo: user.png
