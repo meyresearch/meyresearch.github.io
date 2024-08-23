@@ -336,7 +336,7 @@
     "day": "Friday",
     "time": "4:00PM-4:30PM (Singapore Time)",
     "slides": "",
-    "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
+    "link": "https://ntu-sg.zoom.us/j/89265052203?pwd=vcr3cH2PeacWKSAGbKMRhHgMv9iiZq.1",
     "notes": "",
     "categories": ["Network Function Virtualization", "Concurrency Control"]
   },
@@ -347,8 +347,30 @@
     "day": "Friday",
     "time": "4:30PM-5:00PM (Singapore Time)",
     "slides": "",
-    "link": "https://ntu-sg.zoom.us/j/9126020373?pwd=S01CZjZjak9QWldQSVBnMDFmdk5VQT09",
+    "link": "https://ntu-sg.zoom.us/j/89265052203?pwd=vcr3cH2PeacWKSAGbKMRhHgMv9iiZq.1",
     "notes": "",
     "categories": ["Retrieval-Augmented Generation"]
+  },
+  {
+    "presenter": "Zeng Xianzhi",
+    "paper": "YYDS AKNN: Decouple the Yin and Yang of Data and Similarity for Dynamic Updating in Billions-Scale AKNN",
+    "date": "2024-08-23",
+    "day": "Friday",
+    "time": "4:00PM-4:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/89265052203?pwd=vcr3cH2PeacWKSAGbKMRhHgMv9iiZq.1",
+    "notes": "",
+    "categories": ["Vector Database", "Approximate KNN Search"]
+  },
+  {
+    "presenter": "Hu Yihua",
+    "paper": "Efficient Out-of-Memory High-Dimensional Vector Joins on GPUs",
+    "date": "2024-08-23",
+    "day": "Friday",
+    "time": "4:30PM-5:00PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/89265052203?pwd=vcr3cH2PeacWKSAGbKMRhHgMv9iiZq.1",
+    "notes": "",
+    "categories": ["Vector Database", "Vector Join", "GPU Acceleration"]
   }
 ]
