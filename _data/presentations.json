@@ -372,5 +372,16 @@
     "link": "https://ntu-sg.zoom.us/j/89265052203?pwd=vcr3cH2PeacWKSAGbKMRhHgMv9iiZq.1",
     "notes": "",
     "categories": ["Vector Database", "Vector Join", "GPU Acceleration"]
+  },
+  {
+    "presenter": "Zhao Dandan",
+    "paper": "工业大数据下的复杂过程故障诊断研究",
+    "date": "2024-09-06",
+    "day": "Friday",
+    "time": "4:30PM-5:00PM (Singapore Time)",
+    "slides": "",
+    "link": "https://ntu-sg.zoom.us/j/89265052203?pwd=vcr3cH2PeacWKSAGbKMRhHgMv9iiZq.1",
+    "notes": "",
+    "categories": ["Fault Diagnosis", "Industrial Big Data"]
   }
 ]
