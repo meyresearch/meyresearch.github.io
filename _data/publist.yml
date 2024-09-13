@@ -1,3 +1,13 @@
+- title: "MOStream: A Modular and Self-Optimizing Data Stream Clustering Algorithm"
+  image: 
+  description: 
+  authors: Zhengru Wang, Xin Wang, Shuhao Zhang
+  url: https://arxiv.org/abs/2309.04799
+  venue: ICDM
+  display: International Conference on Data Mining (ICDM)
+  year: 2024
+  highlight: 0
+
 - title: "MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
   image: morphstream.png
   description: |

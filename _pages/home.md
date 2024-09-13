@@ -55,7 +55,7 @@ Our group focuses on the design and optimization of high-performance stream proc
 - **[EMNLP'23]** [SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams](https://aclanthology.org/2023.emnlp-main.380)
 
 ## Stream Data Mining
-- **[arXiv'24]** [MOStream: A Modular and Self-Optimizing Data Stream Clustering Algorithm](http://arxiv.org/abs/2309.04799)
+- **[ICDM'24]** [MOStream: A Modular and Self-Optimizing Data Stream Clustering Algorithm](http://arxiv.org/abs/2309.04799)
 - **[SIGMOD'23]** [Data Stream Clustering: An In-depth Empirical Study](https://doi.org/10.1145/3589307)
 - **[BigMM'19]** [TraV: an Interactive Trajectory Exploration System for Massive Data Sets](https://ieeexplore.ieee.org/document/8919445)
 
