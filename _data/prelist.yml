@@ -1,3 +1,13 @@
+- title: "Protocols for metallo- and serine-β-lactamase free energy predictions: insights from cross-class inhibitors"
+  image: xx.png
+  description: Exploration of how to use alchemical free energy methods for metalloproteins
+  authors: J. J. Güven, M. Hanževački, P. Kalita, A. J.Mulholland, A. S.J.S. Mey
+  link:
+    url: https://doi.org/10.26434/chemrxiv-2024-9ksxr
+    display: chemRxiv 2024-9ksxr
+  highlight: 0
+  new2:
+
 - title: "Comparison of Methodologies for Absolute Binding Free Energy Calculations of Ligands to Intrinsically Disordered Proteins"
   image: xx.png
   description: Free energies from Markov State modelling and absolute binding free energy calculations
@@ -7,16 +17,6 @@
     display: bioRxiv 2024.07.19.604182
   highlight: 0
   new2: 
-
-- title: "Dirac--Bianconi Graph Neural Networks -- Enabling Non-Diffusive Long-Range Graph Predictions"
-  image: xx.png
-  description: New Graph Neural Network layer for long range interactions
-  authors: C. Nauck, R. Gorantla, M. Lindner, K. Schürholt, A. S.J.S. Mey, F. Hellmann
-  link:
-    url: https://doi.org/10.48550/arXiv.2407.12419
-    display: arXiv:2407.12419 
-  highlight: 0
-  new2:
 
 - title: "mRNA interactions with disordered regions control protein activity"
   image: xx.png

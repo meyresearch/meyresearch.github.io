@@ -8,6 +8,16 @@
   highlight: 0
   new2:
 
+- title: "Dirac--Bianconi Graph Neural Networks -- Enabling Non-Diffusive Long-Range Graph Predictions"
+  image: xx.png
+  description: New Graph Neural Network layer for long range interactions
+  authors: C. Nauck, R. Gorantla, M. Lindner, K. Schürholt, A. S.J.S. Mey, F. Hellmann
+  link:
+    url: https://doi.org/10.48550/arXiv.2407.12419
+    display: ICML workshop paper 
+  highlight: 0
+  new2:
+
 - title: "Sire: An Interoperability Engine for Prototyping Algorithms and Exchanging Information Between Molecular Simulation Programs"
   image: xx.png
   description: Software paper for Sire
@@ -28,7 +38,7 @@
   highlight: 1 
   news2: The paper was featured in <a href='https://practicalcheminformatics.blogspot.com/?m=1'>Practical Cheminformatics</a>
 
-- title: "Markove State Models: to optimize or not to optimize"
+- title: "Markov State Models: to optimize or not to optimize"
   image: MSM_optimize.jpg
   description: We provide a set of recommendations for how to (not) optimize Markov State Model building
   authors: R. Arbon, Y. Zhu, A. S.J.S. Mey
