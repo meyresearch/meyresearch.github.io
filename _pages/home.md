@@ -22,24 +22,21 @@ permalink: /
 
 The PI, Dr. Zhang, will join the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST) as a Professor in November 2024. We welcome talented students to join our research endeavors. Our team concentrates on three core research directions:
 
-### 1. **Novel Vector Database with Streaming Capabilities**  
+### 1. **Vector Database with Streaming Capabilities**  
 We are pioneering a novel vector database system designed to handle both high-throughput streaming data and complex similarity searches. This system supports continuous vector data ingestion and real-time processing, addressing the scalability challenges inherent in dynamic and evolving datasets. Our research focuses on optimizing retrieval efficiency for applications demanding rapid vector updates and queries in a streaming context.
-
-#### Relevant Papers:  
+ 
 - **[arXiv'24]** [CANDY: A Benchmark for Continuous Approximate Nearest Neighbor Search with Dynamic Data Ingestion](https://arxiv.org/pdf/2406.19651)
 - **[NIPS'24]** [LibAMM: Empirical Insights into Approximate Computing for Accelerating Matrix Multiplication]()
 
-### 2. **Retrieval-Augmented Generation (RAG) Powered by the Vector Database**  
-We are building a next-generation RAG system that leverages our cutting-edge vector database. By fusing retrieval and generative models, this system enhances both the accuracy and relevance of generated content. The integration with our vector database provides a high-performance foundation for large-scale retrieval tasks, facilitating dynamic data ingestion and updating while improving the retrieval quality in RAG applications.
+### 2. **Retrieval-Augmented Generation (RAG)**  
+We are building a next-generation RAG system that leverages our cutting-edge vector database. The integration with our vector database provides a high-performance foundation for large-scale retrieval tasks, facilitating dynamic data ingestion and updating while improving the retrieval quality in RAG applications.
 
-#### Relevant Papers:  
 - **[arXiv'24]** [Online Continual Knowledge Learning for Language Models](http://arxiv.org/abs/2311.09632)
 - **[arXiv'24]** [StreamPrompt: Learnable Prompt-guided Data Selection for Efficient Stream Learning](http://arxiv.org/abs/2406.07590)
 
 ### 3. **Stream Processing System**  
-Although we have ceased active research in this area, our extensive work on stream processing systems has resulted in significant technological advancements. These systems are now robust enough for industrial application, and we are open to collaborations for real-world deployments. Our innovations in stream processing techniques include concurrency control, adaptive scheduling, and fine-grained optimizations for handling high-velocity data streams.
+Our extensive work on stream processing systems has resulted in significant technological advancements. We are open to collaborations for real-world deployments. Our innovations in stream processing techniques include concurrency control, adaptive scheduling, and fine-grained optimizations for handling high-velocity (out-of-order) data streams.
 
-#### Relevant Papers:  
 ##### **Stream Learning**
 - **[arXiv'24]** [SRTFD: Scalable Real-Time Fault Diagnosis through Online Continual Learning](https://arxiv.org/abs/2408.05681v1)
 - **[EMNLP'23]** [SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams](https://aclanthology.org/2023.emnlp-main.380)
