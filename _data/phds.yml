@@ -1,20 +1,48 @@
 - name: "<a href='https://tonyskyzeng.github.io/'>Xianzhi Zeng</a> (co-sup with Cong Gao)"
   photo: xianzhi.jpg
-  info: "Started in Sep 2022 (2021-2022 as visiting student) - Published 2x ICDE, 1x DEBS, 1x SIGMOD, 1x TKDE"
+  info: "Started in Sep 2024 at NTU (2021-2022 as visiting student) - Published 2x ICDE, 1x DEBS, 1x SIGMOD, 1x TKDE"
   email: 
   number_educ: 1  
-  education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China (2021)
+  education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China (电科)
 
 - name: Zhonghao Yang (co-sup with Long Cheng)
   photo: zhonghao.jpg
-  info: "Started in Jan 2023 - Published 1x ICDE (Demo), Submitted 1x TKDE"
+  info: "Started in Sep 2024 at NTU - Published 1x ICDE (Demo), Submitted 1x TKDE"
   email: 
   number_educ: 1
-  education1: B.Sc. in Computer Science, Singapore University of Technology and Design (2022)
+  education1: B.Sc. in Computer Science, Singapore University of Technology and Design (新科大)
   
 - name: Junyao Dong (co-sup with Long Cheng)
   photo: user.png
-  info: "(M.Eng) Started in Aug 2024"
+  info: "(M.Eng) Started in Sep 2024 at NTU"
   email: 
   number_educ: 1
-  education1: B.Sc. in Computer Science, Guangdong University of Foreign Studies (2021)
+  education1: B.Sc. in Computer Science, Guangdong University of Foreign Studies (广外)
+  
+- name: Ziao Wang (co-sup with Long Zheng)
+  photo: user.png
+  info: "(M.Sc) Started in Sep 2024 at HUST"
+  email: 
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Beijing Institute of Technology (北理)
+  
+- name: Ruicheng Zhang (co-sup with Haikun Liu)
+  photo: user.png
+  info: "(M.Sc) Started in Sep 2024 at HUST"
+  email: 
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Chongqing University of Posts and Telecommunications(重邮)
+  
+- name: Jun Liu
+  photo: user.png
+  info: "Starting in Sep 2025 at HUST"
+  email: 
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Wuhan University of Technology (武理)
+
+- name: Yuanyuan Zhang
+  photo: user.png
+  info: "(M.Sc) Starting in Sep 2025 at HUST"
+  email: 
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Anhui University (安徽大学)  

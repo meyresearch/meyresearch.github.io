@@ -18,60 +18,62 @@ permalink: /
   }
 </script>
 
-Our group focuses on the design and optimization of high-performance stream processing systems. We are dedicated to advancing the state of the art in various domains, including streaming databases, stream machine learning, stream data mining, and stream IoT. By leveraging cutting-edge techniques in concurrency control, adaptive scheduling, and data compression, we aim to address the scalability and efficiency challenges posed by real-time data streams. Our research contributions have been recognized in top-tier conferences and journals, reflecting our commitment to innovation and excellence in the field of stream data processing. If you like to join our team, please first answer a few questions in <a href='https://forms.office.com/r/NrLZxYjrhg'>questionnaire</a>.
+**Our Research Focus**
 
-[New] The PI, Dr. Zhang, will join the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST) as a Professor in November 2024. We continue to welcome talented students to join our research team.
+The PI, Dr. Zhang, will join the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST) as a Professor in November 2024. We welcome talented students to join our research endeavors. Our team concentrates on three core research directions:
 
-## Streaming Database
+### 1. **Novel Vector Database with Streaming Capabilities**  
+We are pioneering a novel vector database system designed to handle both high-throughput streaming data and complex similarity searches. This system supports continuous vector data ingestion and real-time processing, addressing the scalability challenges inherent in dynamic and evolving datasets. Our research focuses on optimizing retrieval efficiency for applications demanding rapid vector updates and queries in a streaming context.
 
-#### Stream Processing Engine
+#### Relevant Papers:  
+- **[arXiv'24]** [CANDY: A Benchmark for Continuous Approximate Nearest Neighbor Search with Dynamic Data Ingestion](https://arxiv.org/pdf/2406.19651)
+- **[NIPS'24]** [LibAMM: Empirical Insights into Approximate Computing for Accelerating Matrix Multiplication]()
+
+### 2. **Retrieval-Augmented Generation (RAG) Powered by the Vector Database**  
+We are building a next-generation RAG system that leverages our cutting-edge vector database. By fusing retrieval and generative models, this system enhances both the accuracy and relevance of generated content. The integration with our vector database provides a high-performance foundation for large-scale retrieval tasks, facilitating dynamic data ingestion and updating while improving the retrieval quality in RAG applications.
+
+#### Relevant Papers:  
+- **[arXiv'24]** [Online Continual Knowledge Learning for Language Models](http://arxiv.org/abs/2311.09632)
+- **[arXiv'24]** [StreamPrompt: Learnable Prompt-guided Data Selection for Efficient Stream Learning](http://arxiv.org/abs/2406.07590)
+
+### 3. **Stream Processing System**  
+Although we have ceased active research in this area, our extensive work on stream processing systems has resulted in significant technological advancements. These systems are now robust enough for industrial application, and we are open to collaborations for real-world deployments. Our innovations in stream processing techniques include concurrency control, adaptive scheduling, and fine-grained optimizations for handling high-velocity data streams.
+
+#### Relevant Papers:  
+##### **Stream Learning**
+- **[arXiv'24]** [SRTFD: Scalable Real-Time Fault Diagnosis through Online Continual Learning](https://arxiv.org/abs/2408.05681v1)
+- **[EMNLP'23]** [SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams](https://aclanthology.org/2023.emnlp-main.380)
+
+##### **Transactional Stream Processing**
+- **[ICDE'24]** [Fast Parallel Recovery for Transactional Stream Processing on Multicores](https://intellistream.github.io/downloads/papers/ICDE24_MorphStreamR.pdf)
+- **[ICDE'24]** [MorphStream: Scalable Processing of Transactions over Streams](https://intellistream.github.io/downloads/papers/ICDE24_Demo_MorphStream.pdf)
+- **[arXiv'24]** [TransNFV: Scalable State Management in NFV with Adaptive Transactional Concurrency Control](http://arxiv.org/abs/2312.01066)
+- **[VLDBJ'23]** [A Survey on Transactional Stream Processing](https://rdcu.be/dncBQ)
+
+##### **Stream Compression**
+- **[TKDE'24]** [CStream: Parallel Data Stream Compression on Multicore Edge Devices](https://ieeexplore.ieee.org/document/10506068)
 - **[ICDE'23]** [CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression](https://ieeexplore.ieee.org/document/10184565)
-- **[TPDS'21]** [Fine-Grained Multi-Query Stream Processing on Integrated Architectures](https://ieeexplore.ieee.org/document/9380479)
-- **[ATC'20]** [FineStream: Fine-Grained Window-Based Stream Processing on CPU-GPU Integrated Architectures](https://www.usenix.org/system/files/atc20-zhang-feng.pdf)
-- **[SIGMOD Record'20]** [Hardware-Conscious Stream Processing: A Survey](https://doi.org/10.1145/3385658.3385662)
-- **[SIGMOD'19]** [Briskstream: Scaling Data Stream Processing on Multicore Architectures](https://doi.acm.org/10.1145/3299869.3300067)
-- **[ICDE'17]** [Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors](https://doi.org/10.1109/ICDE.2017.119)
-- **[ICDE'17]** [Multi-Query Optimization for Complex Event Processing in SAP ESP](https://ieeexplore.ieee.org/document/7930061/)
+- **[ICDE'23]** [Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores](https://ieeexplore.ieee.org/document/10184703)
+- **[DEBS'23]** [A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)](https://doi.org/10.1145/3583678.3596885)
 
-#### Stream Window Join
+##### **Stream Window Join**
 - **[SIGMOD'25]** [Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality]()
 - **[SIGMOD'24]** [PECJ: Stream Window Join on Disorder Data Streams with Proactive Error Compensation](https://doi.org/10.1145/3639268)
 - **[ICDE'23]** [Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB](https://ieeexplore.ieee.org/document/10184828)
 - **[SIGMOD'21]** [Parallelizing Intra-Window Join on Multicores: An Experimental Study](https://doi.org/10.1145/3448016.3452793)
 
-#### Stream Transactions
-- **[arXiv'24]** [TransNFV: Scalable State Management in NFV with Adaptive Transactional Concurrency Control](http://arxiv.org/abs/2312.01066)
-- **[ICDE'24]** [MorphStream: Scalable Processing of Transactions over Streams](https://intellistream.github.io/downloads/papers/ICDE24_Demo_MorphStream.pdf)
-- **[ICDE'24]** [Fast Parallel Recovery for Transactional Stream Processing on Multicores](https://intellistream.github.io/downloads/papers/ICDE24_MorphStreamR.pdf)
-- **[VLDBJ'23]** [A Survey on Transactional Stream Processing](https://rdcu.be/dncBQ)
-- **[SIGMOD'23]** [MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores](https://doi.org/10.1145/3588913)
-- **[ICDE'20]** [Towards Concurrent Stateful Stream Processing on Multicore Processors](https://doi.org/10.1109/ICDE48307.2020.00136)
-
-## Stream Machine Learning/LLM, RAG
-- **[arXiv'24]** [StreamPrompt: Learnable Prompt-guided Data Selection for Efficient Stream Learning](http://arxiv.org/abs/2406.07590)
-- **[arXiv'24]** [CANDY: A Benchmark for Continuous Approximate Nearest Neighbor Search with Dynamic Data Ingestion](https://arxiv.org/pdf/2406.19651)
-- **[arXiv'24]** [LibAMM: Empirical Insights into Approximate Computing for Accelerating Matrix Multiplication](https://arxiv.org/abs/2406.19651)
-- **[arXiv'24]** [Online Continual Knowledge Learning for Language Models](http://arxiv.org/abs/2311.09632)
-- **[EMNLP'23]** [SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams](https://aclanthology.org/2023.emnlp-main.380)
-
-## Stream Data Mining
-- **[ICDM'24]** [MOStream: A Modular and Self-Optimizing Data Stream Clustering Algorithm](http://arxiv.org/abs/2309.04799)
-- **[SIGMOD'23]** [Data Stream Clustering: An In-depth Empirical Study](https://doi.org/10.1145/3589307)
-- **[BigMM'19]** [TraV: an Interactive Trajectory Exploration System for Massive Data Sets](https://ieeexplore.ieee.org/document/8919445)
-
-## Stream IoT
-- **[TKDE'24]** [CStream: Parallel Data Stream Compression on Multicore Edge Devices](https://ieeexplore.ieee.org/document/10506068)
-- **[ICDE'23]** [Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores](https://ieeexplore.ieee.org/document/10184703)
-- **[DEBS'23]** [A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)](https://doi.org/10.1145/3583678.3596885)
+##### **Stream Processing Systems**
+- **[TPDS'21]** [Fine-Grained Multi-Query Stream Processing on Integrated Architectures](https://ieeexplore.ieee.org/document/9380479)
+- **[SIGMOD Record'20]** [Hardware-Conscious Stream Processing: A Survey](https://doi.org/10.1145/3385658.3385662)
 - **[VLIoT'20]** [NebulaStream: Complex Analytics Beyond the Cloud](https://www.ronpub.com/ojiot/OJIOT_2020v6i1n07_Zeuch.html)
+- **[ATC'20]** [FineStream: Fine-Grained Window-Based Stream Processing on CPU-GPU Integrated Architectures](https://www.usenix.org/system/files/atc20-zhang-feng.pdf)
+- **[SIGMOD'19]** [Briskstream: Scaling Data Stream Processing on Multicore Architectures](https://doi.acm.org/10.1145/3299869.3300067)
+- **[ICDE'17]** [Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors](https://doi.org/10.1109/ICDE.2017.119)
 
 <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">click to see our other ancillary topics</span>
 <div id="ancillaryTopics" style="display:none; margin-left: 20px;">
  - **[SIGMOD'24]** [Predictive and Near-Optimal Sampling for View Materialization in Video Databases](https://doi.org/10.1145/3639274)
- - **[IWQoS'24]** [Low-Latency Video Conferencing via Optimized Packet Routing and Reordering](http://arxiv.org/abs/2310.05054)
- - **[VLDBJ'22]** [Payment behavior prediction on shared parking lots with TR-GCN](https://doi.org/10.1007/s00778-021-00722-0)
- - **[TKDE'22]** [Periodic Weather-Aware LSTM With Event Mechanism for Parking Behavior Prediction](https://ieeexplore.ieee.org/document/9392279)
- - **[IJCAI'20]** [PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction](https://www.ijcai.org/proceedings/2020/610)
+ - **[IWQoS'24]** [Low-Latency Video Conferencing via Optimized Packet Routing and Reordering](http://arxiv.org/abs/2310.05054) 
  - **[TPDS'17]** [Understanding Co-Running Behaviors on Integrated CPU/GPU Architectures](https://ieeexplore.ieee.org/document/7501903)
  - **[SC'16]** [Elastic Multi-resource Fairness: Balancing Fairness and Efficiency in Coupled CPU-GPU Architectures](https://ieeexplore.ieee.org/document/7877153)
  - **[TPDS'16]** [Melia: A MapReduce Framework on OpenCL-Based FPGAs](https://ieeexplore.ieee.org/document/7425227)

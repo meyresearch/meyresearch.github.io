@@ -1,3 +1,13 @@
+- title: "LibAMM: Empirical Insights into Approximate Computing for Accelerating Matrix Multiplication"
+  image: 
+  description: 
+  authors: Xianzhi Zeng Wenchao Jiang Shuhao Zhang
+  url: 
+  venue: Neurips
+  display: Conference on Neural Information Processing Systems
+  year: 2024
+  highlight: 0
+  
 - title: "MOStream: A Modular and Self-Optimizing Data Stream Clustering Algorithm"
   image: 
   description: 
