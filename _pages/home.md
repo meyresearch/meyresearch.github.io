@@ -41,11 +41,18 @@ Our extensive work on stream processing systems has resulted in significant tech
 - **[arXiv'24]** [SRTFD: Scalable Real-Time Fault Diagnosis through Online Continual Learning](https://arxiv.org/abs/2408.05681v1)
 - **[EMNLP'23]** [SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams](https://aclanthology.org/2023.emnlp-main.380)
 
+##### Stream Data Mining
+- **[ICDM'24]** [MOStream: A Modular and Self-Optimizing Data Stream Clustering Algorithm](http://arxiv.org/abs/2309.04799)
+- **[SIGMOD'23]** [Data Stream Clustering: An In-depth Empirical Study](https://doi.org/10.1145/3589307)
+- **[BigMM'19]** [TraV: an Interactive Trajectory Exploration System for Massive Data Sets](https://ieeexplore.ieee.org/document/8919445)
+
 ##### **Transactional Stream Processing**
 - **[ICDE'24]** [Fast Parallel Recovery for Transactional Stream Processing on Multicores](https://intellistream.github.io/downloads/papers/ICDE24_MorphStreamR.pdf)
 - **[ICDE'24]** [MorphStream: Scalable Processing of Transactions over Streams](https://intellistream.github.io/downloads/papers/ICDE24_Demo_MorphStream.pdf)
 - **[arXiv'24]** [TransNFV: Scalable State Management in NFV with Adaptive Transactional Concurrency Control](http://arxiv.org/abs/2312.01066)
+- **[SIGMOD'23]** [MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores](https://doi.org/10.1145/3588913)
 - **[VLDBJ'23]** [A Survey on Transactional Stream Processing](https://rdcu.be/dncBQ)
+- **[ICDE'20]** [Towards Concurrent Stateful Stream Processing on Multicore Processors](https://doi.org/10.1109/ICDE48307.2020.00136)
 
 ##### **Stream Compression**
 - **[TKDE'24]** [CStream: Parallel Data Stream Compression on Multicore Edge Devices](https://ieeexplore.ieee.org/document/10506068)
