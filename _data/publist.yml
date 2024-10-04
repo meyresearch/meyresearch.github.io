@@ -1,7 +1,18 @@
+
+- title: "A Framework of Knowledge Graph-Enhanced Large Language Model Based on Question Decomposition and Atomic Retrieval"
+  image: 
+  description: 
+  authors: Yading Li, Dandan Song, Changzhi Zhou, Yuhang Tian, Hao Wang, Ziyi Yang, Shuhao Zhang
+  url: 
+  venue: EMNLP
+  display: Empirical Methods in Natural Language Processing (long paper, Findings)
+  year: 2024
+  highlight: 0
+
 - title: "LibAMM: Empirical Insights into Approximate Computing for Accelerating Matrix Multiplication"
   image: 
   description: 
-  authors: Xianzhi Zeng Wenchao Jiang Shuhao Zhang
+  authors: Xianzhi Zeng, Wenchao Jiang, Shuhao Zhang
   url: 
   venue: Neurips
   display: Conference on Neural Information Processing Systems
