@@ -1,20 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body class="bg-cover bg-center bg-no-repeat" style="background-image: url('/assets/images/bg.jpeg'); background-size: cover; background-attachment: fixed; background-position: center; margin: 0; padding: 0; width: 100vw; overflow-x: hidden;">
 
-    {% include header.html %}
+{% include header.html %}
 
-    <div class="container-fluid">
-      <div class="row">
-        {{ content }}
-      </div>
-    </div>
+<div class="container mx-auto px-0">
+  <div class="row justify-content-center">
+    {{ content }}
+  </div>
+</div>
 
-    {% include footer.html %}
+{% include footer.html %}
 
-  </body>
-
+</body>
 </html>

@@ -1,9 +1,65 @@
 ---
 layout: default
+title: "Home"
 ---
-<div id="homeid" class="col-sm-8">       
-  {{ content }}
-</div>
-<div id="newsid" class="col-sm-4" >
-  {% include news.html %}
-</div>
+
+<section id="hero" class="flex flex-col items-center justify-center bg-cover bg-center bg-no-repeat" style="background-image: url('/assets/images/bg.jpeg'); height: 100vh;">
+  <div class="container mx-auto text-center py-40">
+    {{ content }}  <!-- This will pull content from the markdown file -->
+  </div>
+
+  <div class="container mx-auto mt-12">
+    <div class="grid grid-cols-3 gap-8 justify-center"> <!-- Adjusted grid to ensure it is centered -->
+
+      <div class="text-center">
+        <a href="https://github.com/intellistream/MorphStream" target="_blank">
+          <img src="/assets/images/research/stream.jpg" alt="Feature 1" class="w-[150px] h-[150px] object-cover mx-auto">
+        </a>
+        <p class="text-white mt-4 text-3xl">High Performance Data Stream Processing Engine</p>
+        <!-- GitHub Star Button -->
+        <a class="github-button" href="https://github.com/intellistream/MorphStream" data-icon="octicon-star" data-size="large" aria-label="Star intellistream/MorphStream on GitHub">Star</a>
+      </div>
+
+      <div class="text-center">
+        <a href="https://github.com/intellistream/Sesame" target="_blank">
+          <img src="/assets/images/research/sesame.jpg" alt="Feature 2" class="w-[150px] h-[150px] object-cover mx-auto">
+        </a>
+        <p class="text-white mt-4 text-3xl">High Performance Data Stream Mining Engine</p>
+        <!-- GitHub Star Button -->
+        <a class="github-button" href="https://github.com/intellistream/Sesame" data-icon="octicon-star" data-size="large" aria-label="Star intellistream/Sesame on GitHub">Star</a>
+      </div>
+
+      <div class="text-center">
+        <a href="https://github.com/intellistream/CANDY" target="_blank">
+          <img src="/assets/images/research/candy.png" alt="Feature 3" class="w-[150px] h-[150px] object-cover mx-auto">
+        </a>
+        <p class="text-white mt-4 text-3xl">High Performance Streaming ANNS Engine (working)</p>
+        <!-- GitHub Star Button -->
+        <a class="github-button" href="https://github.com/intellistream/CANDY" data-icon="octicon-star" data-size="large" aria-label="Star intellistream/CANDY on GitHub">Star</a>
+      </div>
+
+    </div>
+  </div>
+  <div class="container mx-auto text-center">
+    <h2 class="text-4xl font-bold mb-8">Join Our Community</h2>
+    <p class="text-xl text-gray-600 mb-6">
+      Star our GitHub repositories and be a part of the IntelliStream community.
+      Join our Slack channel for discussions, collaboration, and updates on the latest research projects.
+    </p>
+    <div class="flex justify-center items-center space-x-16"> <!-- Increased horizontal space between links -->
+      <!-- GitHub Link -->
+      <a href="https://github.com/intellistream" target="_blank" class="flex items-center space-x-2 text-blue-600 hover:text-blue-800 text-xl">
+        <img src="/assets/icons/github.png" alt="GitHub" style="width: 1em; height: 1em;" class="inline-block mr-2">
+        <span>Star Us on GitHub</span>
+      </a>
+      <!-- Slack Link -->
+      <a href="https://join.slack.com/t/intellistream/shared_invite/zt-2qayp8bs7-v4F71ge0RkO_rn34hBDWQg" target="_blank" class="flex items-center space-x-2 text-blue-600 hover:text-blue-800 text-xl">
+        <img src="/assets/icons/slack.png" alt="Slack" style="width: 1em; height: 1em;" class="inline-block mr-2">
+        <span>Join Our Slack Channel</span>
+      </a>
+    </div>
+  </div>
+  <!-- GitHub Button Script -->
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+</section>
+

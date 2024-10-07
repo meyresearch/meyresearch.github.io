@@ -19,9 +19,6 @@ permalink: /publications/
   <button class="filter-button" onclick="filterByVenue('ICDE')"> ICDE ({{ icde_pubs | size }})</button>  
 </div>
 
-# Publications
-Author notations: * denotes the author is a student advised by Dr.Shuhao Zhang. # denotes the author is a staff advised by Dr.Shuhao Zhang.
-
 <style>
   .filter-button {
     cursor: pointer;
@@ -73,6 +70,9 @@ Author notations: * denotes the author is a student advised by Dr.Shuhao Zhang. 
     });
   }
 </script>
+
+# Publications
+Author notations: * denotes the author is a student advised by Dr.Shuhao Zhang. # denotes the author is a staff advised by Dr.Shuhao Zhang.
 
 {% assign pub_years = site.data.publist | map: 'year' | uniq | sort | reverse %}
 {% for year in pub_years %}
