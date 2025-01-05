@@ -1,3 +1,16 @@
+- name: "Yihan Guo"
+  photo: user.png
+  info: MSc student
+  number_educ: 1
+  education1: MSc Anaytical Chemistry, expected completion September 2024
+
+- name: "Ian Yang"
+  photo: ian.jpg
+  info: MSc student
+  email:
+  number_educ: 1
+  education1: MSc Bioinformatics, University of Edinburgh, expected completion September 2024
+
 - name: "Crystal Wong"
   photo: Crystal.jpg
   info: MChem student

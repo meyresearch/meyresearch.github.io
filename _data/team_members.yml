@@ -41,12 +41,6 @@
   number_educ: 1
   education1: BSc Biochemistry, University of Edinburgh
 
-- name: Katerina Karoni
-  photo: Katerina_Karoni.jpg
-  info: PhD student, started Sep 2020, MAG-MICS IBM funded project, main supervisor Ben Leimkuhler
-  number_educ: 1
-  education1: MSc Computational Fluid Mechanics, National Technical University of Athens
-
 - name: Dominic Phillips
   photo: Dom.jpg
   info: PhD student, started Sep 2022, Biomedical AI CDT IBM funded project, joint supervision with Ben Leimkuhler
