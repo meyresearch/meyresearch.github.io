@@ -1,3 +1,11 @@
+- name: "Ameya Sadhav"
+  photo: user.png
+  info: See the joining the group section for more info!
+  email: antonia.mey@ed.ac.uk
+  number_educ: 1
+  education1: MSc in Data Science
+
+
 - name: "This could be you !"
   photo: user.png
   info: See the joining the group section for more info!

@@ -1,3 +1,9 @@
+- name: Rohan Gorantla
+  photo: rohan.jpg
+  info: PhD student, started Sep 2021, Biomedical AI CDT Exscientia funded project
+  number_educ: 1
+  education1: Bachelor of Technology in Computer Science and Engineering, Shiv Nadar University
+
 - name: Katerina Karoni
   photo: Katerina_Karoni.jpg
   info: PhD student, started Sep 2020, MAG-MICS IBM funded project, main supervisor Ben Leimkuhler
@@ -11,6 +17,13 @@
   education1: PhD in Precision Medicine, University of Edinburgh
   education2: MSc in Artifical Intelligence, University of Edinburgh
   education3: B.Eng. Electrical and Electronics Engineering, University of Malta
+
+- name: Esra Nur Soysal
+  photo: esra.jpg
+  info: PhD student, started Sep 2021
+  number_educ: 2
+  education1: BSc in Chemistry, Bogazici University
+  education2: MSc Chemical Research, University College London
 
 - name: Rob Arbon
   photo: rob.jpg

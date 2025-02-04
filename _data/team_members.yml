@@ -4,19 +4,6 @@
   number_educ: 1
   education1: MPhys Physics, University of Manchester
 
-- name: Rohan Gorantla
-  photo: rohan.jpg
-  info: PhD student, started Sep 2021, Biomedical AI CDT Exscientia funded project
-  number_educ: 1
-  education1: Bachelor of Technology in Computer Science and Engineering, Shiv Nadar University
-
-- name: Esra Nur Soysal
-  photo: esra.jpg
-  info: PhD student, started Sep 2021
-  number_educ: 2
-  education1: BSc in Chemistry, Bogazici University
-  education2: MSc Chemical Research, University College London
-
 - name: Ryan Zhu
   photo: ryan.jpg
   info: PhD student, started Sep 2022
@@ -66,3 +53,7 @@
   number_educ: 1
   education1: MPhys Physics, University of Edinburgh
 
+- name: Satya Srivastava
+  photo: satya.jpeg
+  info: PhD student, started Sep 2023, main supervisor Rajeev Kumar @ SNU, India  number_educ: 0
+  education1: xx
