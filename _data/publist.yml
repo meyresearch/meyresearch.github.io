@@ -1,3 +1,27 @@
+- title: "Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality"
+  image: 
+  description: 
+  authors: Xilin Tang, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du
+  url: 
+  venue: SIGMOD
+  display: International Conference on Management of Data (SIGMOD)
+  year: 2025
+  tag: DB
+  highlight: 0
+  news2: 
+
+- title: "MAST: Towards Efficient Analytical Query Processing on Point Cloud Data"
+  image: 
+  description: 
+  authors: Jiangneng Li, Haitao Yuan, Gao Cong, Han Mao Kiah, Shuhao Zhang
+  url: 
+  venue: SIGMOD
+  display: International Conference on Management of Data (SIGMOD)
+  year: 2025
+  tag: DB
+  highlight: 0
+  news2: 
+  
 - title: "MatSwarm: Trusted Swarm Transfer Learning Driven Materials Computation for Secure Big Data Sharing"
   image: 
   description: 
@@ -93,18 +117,6 @@
   tag: AI4DB
   highlight: 0
   
-- title: "Enabling Adaptive Sampling for Intra-Window Join: Simultaneously Optimizing Quantity and Quality"
-  image: 
-  description: 
-  authors: Xilin Tang, Feng Zhang, Shuhao Zhang, Yani Liu, Bingsheng He, Xiaoyong Du
-  url: 
-  venue: SIGMOD
-  display: International Conference on Management of Data (SIGMOD)
-  year: 2025
-  tag: DB
-  highlight: 0
-  news2: 
-
 - title: "PREACT: Predictive Resource Allocation for Bursty Workloads in a Co-located Data Center"
   image: 
   description: 
