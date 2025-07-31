@@ -1,3 +1,23 @@
+- title: "Protocols for metallo- and serine-β-lactamase free energy predictions: insights from cross-class inhibitors"
+  image: xx.png
+  description: Exploration of how to use alchemical free energy methods for metalloproteins
+  authors: J. J. Güven, M. Hanževački, P. Kalita, A. J.Mulholland, A. S.J.S. Mey
+  link:
+    url: https://doi.org/10.26434/chemrxiv-2024-9ksxr
+    display: chemRxiv 2024-9ksxr
+  highlight: 0
+  new2:
+
+- title: "Comparison of Methodologies for Absolute Binding Free Energy Calculations of Ligands to Intrinsically Disordered Proteins"
+  image: xx.png
+  description: Free energies from Markov State modelling and absolute binding free energy calculations
+  authors: M. Papadourakis, Z. Cournia, A. S.J.S. Mey, J. Michel
+  link:
+    url: https://doi.org/10.1101/2024.07.19.604182
+    display: bioRxiv 2024.07.19.604182
+  highlight: 0
+  new2:
+
 - title: "Digital skills in chemical education"
   image: xx.png
   description: Option piece on the future of teaching digital skills in chemistry degrees
