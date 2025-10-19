@@ -1,3 +1,9 @@
+- name: Jasmin Güven
+  photo: jasmin.jpg
+  info: PhD student, started Sep 2021
+  number_educ: 1
+  education1: MPhys Physics, University of Manchester
+
 - name: Rohan Gorantla
   photo: rohan.jpg
   info: PhD student, started Sep 2021, Biomedical AI CDT Exscientia funded project
