@@ -8,7 +8,7 @@ permalink: /team/
 
 # The group
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group_photo.jpg" width="50%" style="float: center" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group_aug_25.JPG" width="50%" style="float: center" />
 
 
 ## Team Lead
