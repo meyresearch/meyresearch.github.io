@@ -160,16 +160,12 @@ permalink: /team/
 
 ### Open Positions
 
-We have a few open positions in the group:
-
-- [New Methods for Metalloenzyme Modelling](https://www.findaphd.com/phds/project/new-methods-for-metalloenzyme-modelling-to-combat-antimicrobial-resistance/?p180105) (Deadline 17/Jan/2025)
-- [Integration of Property Predictions with Molecule Generation using Reinforcement Learning](https://www.ai4biomed.io/research/projects-2025/#accordion-675b166c3f2a3) (Deadline 20/Jan/2025)
+We currently have no open positions please check back around October/November 2025.
 
 
-And joint with other groups:
-
-- [Design and synthesis of chemical probes to understand the role of glucokinase in pancreatic β-cell function](https://www.findaphd.com/phds/project/eastbio-dtp-design-and-synthesis-of-chemical-probes-to-understand-the-role-of-glucokinase-in-pancreatic-cell-function/?p180041) (Deadline 17/Jan2025 - joint with Chris Coxon's group).  
-- [Data-driven Catalyst Optimization for CO2 Utilization Reactions](https://www.findaphd.com/phds/project/e5-dtp-data-driven-catalyst-optimization-for-co2-utilization-reactions/?p180199) (Deadline 06/Jan/2025 joint with Ephrath Solel's group)
+We currently have a joint opening with the group of Ephrath Solel Moroskho:
+ 
+- [Data-driven Catalyst Optimization for CO2 Utilization Reactions]({{ site.url }}{{ site.baseurl }}/E5_advert_2025.pdf) (Deadline 14/Dec/2025 midday GMT joint with Ephrath Solel's group)
 
 **Expression of interest:** Please send an email to [Antonia Mey](mailto:antonia.mey@ed.ac.uk) with the specific title of the project you are interested in. Please attach a brief CV to your email. 
 
@@ -179,7 +175,7 @@ If you want to apply for a prize studentship you will need to register on Euclid
 
 
 ### Applications for PhD and Postdoc positions
-Are you interested in working on exiting challenges around anticmicrobial resistance looking at ways to combine machine learning and molecular simulations? 
+Are you interested in working on exiting challenges around antimicrobial resistance looking at ways to combine machine learning and molecular simulations? 
 
 Please get in touch by [email](mailto:antonia.mey@ed.ac.uk) to discuss different opportunities to join the group, or take a look at some of these PhD and Postdoc funding opportunities: 
 
