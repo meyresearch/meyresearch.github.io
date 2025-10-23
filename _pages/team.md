@@ -165,7 +165,7 @@ We currently have no open positions please check back around October/November 20
 
 We currently have a joint opening with the group of Ephrath Solel Moroskho:
  
-- [Data-driven Catalyst Optimization for CO2 Utilization Reactions]({{ site.url }}{{ site.baseurl }}/E5_advert_2025.pdf) (Deadline 14/Dec/2025 midday GMT joint with Ephrath Solel's group)
+- [Data-driven Catalyst Optimization for CO2 Utilization Reactions](https://www.findaphd.com/phds/project/data-driven-catalyst-optimization-for-co2-utilization-reactions/?p188593)
 
 **Expression of interest:** Please send an email to [Antonia Mey](mailto:antonia.mey@ed.ac.uk) with the specific title of the project you are interested in. Please attach a brief CV to your email. 
 
