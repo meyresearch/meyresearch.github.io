@@ -1,7 +1,7 @@
 - title: "Explainable Active Learning Framework for Ligand Binding Affinity Prediction"
- image: xx.png
+  image: xx.png
   description: How ML models should be evaluate in terms of how good they are at predicting protein ligand binding properties
-  authors: S.P. Srivastava, R. Gorantla , S. Krishna Chundru , C.J.R. Winkelman , A.S.J.S. Mey and R. Kumar Singh
+  authors: S.P. Srivastava, R. Gorantla, S. Krishna Chundru, C.J.R. Winkelman, A.S.J.S. Mey and R. Kumar Singh
   link:
     url: https://doi.org/10.1039/D5DD00436E
     display: Digital Discoveries (2025)
