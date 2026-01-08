@@ -1,10 +1,50 @@
+- title: "Explainable Active Learning Framework for Ligand Binding Affinity Prediction"
+ image: xx.png
+  description: How ML models should be evaluate in terms of how good they are at predicting protein ligand binding properties
+  authors: S.P. Srivastava, R. Gorantla , S. Krishna Chundru , C.J.R. Winkelman , A.S.J.S. Mey and R. Kumar Singh
+  link:
+    url: https://doi.org/10.1039/D5DD00436E
+    display: Digital Discoveries (2025)
+  highlight: 0
+  new2:
+
+- title: "Learning Binding Affinities via Fine-Tuning of Protein and Ligand Language Models"
+  image: xx.png
+  description: How ML models should be evaluate in terms of how good they are at predicting protein ligand binding properties 
+  authors: R. Gorantla, A.P. Gema, I.X. Yang, A. Serrano-Morras, B. Suutari, J. Juarez-Jimenez, A.S.J.S. Mey
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.jcim.5c02063
+    display: J. Chem. Inf. Model., 65, 12279 (2025)
+  highlight: 0
+  new2:
+
+- title: "IR spectroscopy: from experimental spectra to high-resolution structural analysis by integrating simulations and machine learning"
+  image: xx.png
+  description: Comparison of different techniques to accurately capture IR spectrosocopy for small molecules
+  authors: M. Scherlo, D. Phillips, R. Künne, E. Ippoliti, K. Gerwert, C. Kötting, P. Carloni, A.S.J.S. Mey, and T. Rudack
+  link:
+    url: https://doi.org/10.1021/acs.jpcb.5c04866
+    display: J. Phys. Chem. B, 129, 11652 (2025)
+  highlight: 0
+  new2:
+
+- title: "All Roads Lead to Carbinolamine: QM/MM Study of Enzymatic C-N Bond Cleavage in Anaerobic Glycyl Radical Enzyme Choline Trime-thylamine-Lyase (CutC)"
+  image: xx.png
+  description: Understanding how the bond cleavage in Anaerobic Clycl Radical Choline Trimethylamine-Lyase
+  authors: M. Hanzevacki, J.J. Güven, P. Hinchliffe, J. Shaw, A.S.J.S. Mey, N. Fey, J. Spencer, and A.J. Mulholland
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.jpcb.5c04023
+    display: J. Phys. Chem. B, 129, 9322 (2025)
+  highlight: 0
+  new2:
+
 - title: "Protocols for metallo- and serine-β-lactamase free energy predictions: insights from cross-class inhibitors"
   image: xx.png
   description: Exploration of how to use alchemical free energy methods for metalloproteins
   authors: J. J. Güven, M. Hanževački, P. Kalita, A. J.Mulholland, A. S.J.S. Mey
   link:
-    url: https://doi.org/10.26434/chemrxiv-2024-9ksxr
-    display: chemRxiv 2024-9ksxr
+    url: https://pubs.acs.org/doi/10.1021/acs.jpcb.4c06379 
+    display: J. Phys. Chem. B, 128, 12416 (2024) 
   highlight: 0
   new2:
 
@@ -13,8 +53,8 @@
   description: Free energies from Markov State modelling and absolute binding free energy calculations
   authors: M. Papadourakis, Z. Cournia, A. S.J.S. Mey, J. Michel
   link:
-    url: https://doi.org/10.1101/2024.07.19.604182
-    display: bioRxiv 2024.07.19.604182
+    url: https://pubs.acs.org/doi/10.1021/acs.jctc.4c00942
+    display: J. Chem. Theory Comput., 20, 9699–9707 (2024)
   highlight: 0
   new2:
 
@@ -24,7 +64,7 @@
   authors: A. R. McCluskey, M. Rivera, A. S.J.S. Mey
   link:
     url: https://doi.org/10.1038/s41557-024-01613-x
-    display: Nat. Chem.
+    display: Nat. Chem. 16, 1383-1384 (2024)
   highlight: 0
   new2:
 
