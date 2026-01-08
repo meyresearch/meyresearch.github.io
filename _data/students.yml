@@ -1,9 +1,14 @@
-- name: "Ameya Sadhav"
-  photo: ameya.jpeg 
-  info: See the joining the group section for more info!
-  email: antonia.mey@ed.ac.uk
+- name: "Annika Niemann"
+  photo: user.png
+  info: Visiting PhD student from February 2026
   number_educ: 1
-  education1: MSc in Data Science
+  education1: Visiting PhD student Uni Bremen
+
+- name: "Juliane Aldag"
+  photo: user.png
+  info: Visiting MSc student from March 2026
+  number_educ: 1
+  education1: MSc ETH Zurich, expected summer 2026
 
 
 - name: "This could be you !"

@@ -12,7 +12,7 @@
 
 - name: Emma Tomlinson
   photo: emma.jpg
-  info: PhD student, started September 2023
+  info: PhD student, started September 2023 joint with Davide Michieletto
   number_educ: 1
   education1: MPhys Physics, University of Manchester
 
@@ -21,6 +21,18 @@
   info: PhD student, started May 2024, Biomedical AI CDT
   number_educ: 1
   education1: BSc Biochemistry, University of Edinburgh
+
+- name: Hattie Barber
+  photo: hattie.jpg
+  info: PhD student, started Sep 2025, Ada Lovelace funded student joint with STFC and Diamond
+  number_educ: 1
+  education1: MSc Biochemistry, University of Bristol
+
+- name: Nada Alhumaid 
+  photo: user.png
+  info: PhD student, started Jan 2026, joint with Chris Coxon
+  number_educ: 1 
+  education1: MSc Universiy College London
 
 - name: Dominic Phillips
   photo: Dom.jpg
@@ -53,8 +65,3 @@
   number_educ: 0
   education1: xx
 
-- name: Hattie Barber
-  photo: hattie.jpg
-  info: PhD student, started Sep 2025, Ada Lovelace funded student joint with STFC and Diamond
-  number_educ: 1
-  education1: MSc Biochemistry, University of Bristol

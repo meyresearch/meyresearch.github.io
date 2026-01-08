@@ -1,3 +1,9 @@
+- name: "Ameya Sadhav"
+  photo: ameya.jpeg 
+  info: MSc student 
+  number_educ: 1
+  education1: MSc in Data Science
+
 - name: "Yihan Guo"
   photo: user.png
   info: MSc student
