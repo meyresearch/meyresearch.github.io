@@ -1,3 +1,13 @@
+- title: "Accurate and Robust Analysis of Molecular Kinetics with Random Features"
+  image: xx.png
+  description: Using random fourier features to capture molecular kinetics 
+  authors: H. Sprink, Y. Zhu, A.S.J.S. Mey, and F. Nüske
+  link:
+    url: https://doi.org/10.26434/chemrxiv-2025-fz7rt
+    display: ChemRxiv 2025-fz7rt
+  highlight: 0
+  new2:
+
 - title: "A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data"
   image: xx.png
   description: Community prediction challege run by Polaris for Pan-coronavirus Drug Discovery
@@ -7,27 +17,6 @@
     display: chemrxiv-2025-zd9mr
   highlight: 0
   new2:
-
-
-- title: "IR spectroscopy: from experimental spectra to high-resolution structural analysis by integrating simulations and machine learning"
-  image: xx.png
-  description: Comparison of different techniques to accurately capture IR spectrosocopy for small molecules
-  authors: M. Scherlo, D. Phillips, R. Künne, E. Ippoliti, K. Gerwert, C. Kötting, P. Carloni, A.S.J.S. Mey, and T. Rudack
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2025.07.23.665767v1
-    display: bioRxiv 2025.07.23.665767v1
-  highlight: 0
-  new2:
-
-- title: "All Roads Lead to Carbinolamine: QM/MM Study of Enzymatic C-N Bond Cleavage in Anaerobic Glycyl Radical Enzyme Choline Trime-thylamine-Lyase (CutC)"
-  image: xx.png
-  description: Understanding how the bond cleavage in Anaerobic Clycl Radical Choline Trimethylamine-Lyase
-  authors: M. Hanzevacki, J.J. Güven, P. Hinchliffe, J. Shaw, A.S.J.S. Mey, N. Fey, J. Spencer, and A.J. Mulholland
-  link:
-    url: https://doi.org/10.26434/chemrxiv-2025-4x2pb
-    display: chemRxiv 2024.07.19.604182
-  highlight: 0
-  new2: 
 
 - title: "mRNA interactions with disordered regions control protein activity"
   image: xx.png
