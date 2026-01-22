@@ -29,10 +29,11 @@
   education1: MSc Biochemistry, University of Bristol
 
 - name: Nada Alhumaid 
-  photo: user.png
+  photo: nada.jpg
   info: PhD student, started Jan 2026, joint with Chris Coxon
-  number_educ: 1 
-  education1: MSc Universiy College London
+  number_educ: 2 
+  education1: BSc in Pharmaceutical Sciences, King Saud University, 2017
+  education2: MSc in Drug Design, UCL, 2021
 
 - name: Dominic Phillips
   photo: Dom.jpg
