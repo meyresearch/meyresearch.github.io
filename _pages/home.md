@@ -49,9 +49,6 @@ We are a research group based at the [University of Edinburgh in the School of C
 
 **We are looking for more people to join the group!**
 
-We currently have no openings in the group, please check back in October/November 2025
-
-
 We have an opening for a PhD position: 
 
 - [Learning design rules for substrate affinity in metalloenzymes](https://www.findaphd.com/phds/project/learning-design-rules-for-substrate-affinity-in-metalloenzymes/?p195032) **Deadline 16/Mar/2026**  
