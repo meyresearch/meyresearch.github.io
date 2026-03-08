@@ -52,15 +52,11 @@ We are a research group based at the [University of Edinburgh in the School of C
 We currently have no openings in the group, please check back in October/November 2025
 
 
-We have an opening joint with other groups:
+We have an opening for a PhD position: 
 
-- [Data-driven Catalyst Optimization for CO2 Utilization Reactions](https://www.findaphd.com/phds/project/data-driven-catalyst-optimization-for-co2-utilization-reactions/?p188593) (Deadline 14/Dec/2025 midday GMT joint with Ephrath Solel's group)
+- [Learning design rules for substrate affinity in metalloenzymes](https://www.findaphd.com/phds/project/learning-design-rules-for-substrate-affinity-in-metalloenzymes/?p195032) **Deadline 16/Mar/2026**  
 
 **Expression of interest:** Please send an email to [Antonia Mey](mailto:antonia.mey@ed.ac.uk) with the specific title of the project you are interested in. Please attach a brief CV to your email.
-
-If you want to apply for a prize studentship you will need to register on Euclid prior to 16/12/2024. Please get in touch via email if you are interested as soon as possible. More details are found here:
-
-[Prize Studentships at Edinburgh](https://chem.ed.ac.uk/studying/phd/studentships/prize-phd-scholarships)
 
 
 Otherwise, for more information and other opportunities on how to join take a look [here]({{ site.url }}{{ site.baseurl }}/team)!
