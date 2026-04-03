@@ -49,7 +49,7 @@ The practical workshop material can be found on GitHub:
 * [Neural Networks](https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_NN_04.ipynb)
 
 #### 2019
-In 2019 I ran an introductory workshop on alchemical free energy calculations using BioSimSpace and Markov Modelling with pyEmmma.
+In 2019 I ran an introductory workshop on alchemical free energy calculations using BioSimSpace and Markov Modelling with PyEMMA.
 
 Slides are available here:   
  
@@ -69,7 +69,7 @@ If you are interested in getting started with Python, Bash, and git, checkout th
 * [Data Carpentry -- Apr 2020](https://edcarp.github.io/2020-04-16-sfc-online/)
 * [Software Carpentry -- Jan 2020](https://edcarp.github.io/2020-01-29-edinburgh-geo-swc/)
 * [Python for Chemists -- Sep 2019](https://edcarp.github.io/2019-09-26-edinburgh-swc/)
-* [Sofware Carpentry -- Sep 2019](https://edcarp.github.io/2019-09-04-edinburgh-swc/)
+* [Software Carpentry -- Sep 2019](https://edcarp.github.io/2019-09-04-edinburgh-swc/)
 
 ## Tutorials and Best Practices
 ### Introduction to best practices in molecular simulations

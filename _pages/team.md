@@ -1,7 +1,7 @@
 ---
-title: "Mey Research group - team"
+title: "Mey Research Group - team"
 layout: gridlay
-excerpt: "Mey Research group: Team members"
+excerpt: "Mey Research Group: Team Members"
 sitemap: false
 permalink: /team/
 ---
@@ -175,15 +175,15 @@ If you want to apply for a prize studentship you will need to register on Euclid
 
 
 ### Applications for PhD and Postdoc positions
-Are you interested in working on exiting challenges around antimicrobial resistance looking at ways to combine machine learning and molecular simulations? 
+Are you interested in working on exciting challenges around antimicrobial resistance looking at ways to combine machine learning and molecular simulations? 
 
 Please get in touch by [email](mailto:antonia.mey@ed.ac.uk) to discuss different opportunities to join the group, or take a look at some of these PhD and Postdoc funding opportunities: 
 
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:antonia.mey@ed.ac.uk). 
-If there is no specific opening advertise take a look at some of the following opportunities for PhD students:   
+If there is no specific opening advertised take a look at some of the following opportunities for PhD students:   
 * [University of Edinburgh Scholarship and Student Funding Services](https://www.ed.ac.uk/student-funding)   
 * [Commonwealth Scholarships](http://cscuk.dfid.gov.uk)    
-* [Fullbright Scholarships](http://us.fulbrightonline.org/home.html)       
+* [Fulbright Scholarships](http://us.fulbrightonline.org/home.html)       
 * [Marshall Scholarships](http://www.marshallscholarship.org)     
 * [Chevening scholarships](https://www.chevening.org/scholarships/)       
 * [Scottish Overseas Research Students Awards Scheme](https://www.gov.uk/government/organisations/foreign-commonwealth-office/about#our-funding-programmes)   
@@ -194,7 +194,7 @@ And for Postdocs:
 * [Newton Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)   
 * [Leverhulme fellowship](https://www.leverhulme.ac.uk)   
 
-Generally if you are looking for postdoc funding, there is a great resource for fellowships/fundinding opportunities around the world:
+Generally if you are looking for postdoc funding, there is a great resource for fellowships/funding opportunities around the world:
 [postdoc funding schemes](https://asntech.github.io/postdoc-funding-schemes/)
 
    
@@ -204,7 +204,7 @@ The group is happy to accommodate students from various disciplines, not just Ch
 ### Summer student projects
 Please send me an [email](mailto:antonia.mey@ed.ac.uk) if you are interested in doing a summer research project to discuss possible available options. 
 
-Deadlines for summer projects are usually quite early in the year (end of January). Here is a none exhaustive list of funding sources:
+Deadlines for summer projects are usually quite early in the year (end of January). Here is a non-exhaustive list of funding sources:
 
 * [Royal Society of Chemistry](https://www.rsc.org/ScienceAndTechnology/Funding/undergraduate-bursary.asp)
 * [Carnegie Trust](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/)

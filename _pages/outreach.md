@@ -1,7 +1,7 @@
 ---
 title: "Mey Research Group - Outreach"
 layout: gridlay
-excerpt: "Mey Resaerch -- Outreach"
+excerpt: "Mey Research -- Outreach"
 permalink: /outreach/
 ---
 

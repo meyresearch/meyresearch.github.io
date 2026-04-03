@@ -11,9 +11,9 @@ permalink: /imaginary
 
 [IMAGINARY](imaginary.org) is an open source platform for mathematics communication resources. It is a non-profit organisation that started as the mathematics outreach project of the Mathematische Forschungsinstitut Oberwolfach (MFO). I still work as a freelance project manager for them. Please get in contact by [email](mailto:antonia.mey@imaginary.org) if you are interested in any kind of mathematics related outreach activities, such as organising an exhibition or school visit etc. 
 
-I currently manage their 'Snapshots of modern mathematics', which aims to make modern mathematical research more accessible. Take a look at this Snapshot on xxx for example, or just browse the content on the [imaginary website.](https://imaginary.org/snapshots)
+I currently manage their 'Snapshots of modern mathematics', which aims to make modern mathematical research more accessible. Take a look at the content on the [imaginary website.](https://imaginary.org/snapshots)
  
-My interest in outreach was sparked with an exhibit competition, for which a team consinsting of myself, Guiallaume Juvet and Chantalle Landry submitted a film on the mathematics behind glacial movement. Take a look here (it was awarded the 3rd price):
+My interest in outreach was sparked with an exhibit competition, for which a team consisting of myself, Guillaume Jouvet and Chantalle Landry submitted a film on the mathematics behind glacial movement. Take a look here (it was awarded the 3rd prize):
 <p></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eJNIr_0zOyk" frameborder="0" allowfullscreen></iframe>
 <p></p>
