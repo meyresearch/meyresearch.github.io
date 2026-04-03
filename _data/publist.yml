@@ -1,87 +1,87 @@
 - title: "Explainable Active Learning Framework for Ligand Binding Affinity Prediction"
   image: xx.png
-  description: How ML models should be evaluate in terms of how good they are at predicting protein ligand binding properties
+  description: How ML models should be evaluated in terms of how good they are at predicting protein ligand binding properties
   authors: S.P. Srivastava, R. Gorantla, S. Krishna Chundru, C.J.R. Winkelman, A.S.J.S. Mey and R. Kumar Singh
   link:
     url: https://doi.org/10.1039/D5DD00436E
     display: Digital Discoveries (2025)
   highlight: 0
-  new2:
+  news2:
 
 - title: "Learning Binding Affinities via Fine-Tuning of Protein and Ligand Language Models"
   image: xx.png
-  description: How ML models should be evaluate in terms of how good they are at predicting protein ligand binding properties 
+  description: How ML models should be evaluated in terms of how good they are at predicting protein ligand binding properties
   authors: R. Gorantla, A.P. Gema, I.X. Yang, A. Serrano-Morras, B. Suutari, J. Juarez-Jimenez, A.S.J.S. Mey
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jcim.5c02063
     display: J. Chem. Inf. Model., 65, 12279 (2025)
   highlight: 0
-  new2:
+  news2:
 
 - title: "IR spectroscopy: from experimental spectra to high-resolution structural analysis by integrating simulations and machine learning"
   image: xx.png
-  description: Comparison of different techniques to accurately capture IR spectrosocopy for small molecules
+  description: Comparison of different techniques to accurately capture IR spectroscopy for small molecules
   authors: M. Scherlo, D. Phillips, R. Künne, E. Ippoliti, K. Gerwert, C. Kötting, P. Carloni, A.S.J.S. Mey, and T. Rudack
   link:
     url: https://doi.org/10.1021/acs.jpcb.5c04866
     display: J. Phys. Chem. B, 129, 11652 (2025)
   highlight: 0
-  new2:
+  news2:
 
-- title: "All Roads Lead to Carbinolamine: QM/MM Study of Enzymatic C-N Bond Cleavage in Anaerobic Glycyl Radical Enzyme Choline Trime-thylamine-Lyase (CutC)"
+- title: "All Roads Lead to Carbinolamine: QM/MM Study of Enzymatic C-N Bond Cleavage in Anaerobic Glycyl Radical Enzyme Choline Trimethylamine-Lyase (CutC)"
   image: xx.png
-  description: Understanding how the bond cleavage in Anaerobic Clycl Radical Choline Trimethylamine-Lyase
+  description: Understanding how the bond cleavage in Anaerobic Glycyl Radical Choline Trimethylamine-Lyase
   authors: M. Hanzevacki, J.J. Güven, P. Hinchliffe, J. Shaw, A.S.J.S. Mey, N. Fey, J. Spencer, and A.J. Mulholland
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jpcb.5c04023
     display: J. Phys. Chem. B, 129, 9322 (2025)
   highlight: 0
-  new2:
+  news2:
 
 - title: "Protocols for metallo- and serine-β-lactamase free energy predictions: insights from cross-class inhibitors"
   image: xx.png
   description: Exploration of how to use alchemical free energy methods for metalloproteins
-  authors: J. J. Güven, M. Hanževački, P. Kalita, A. J.Mulholland, A. S.J.S. Mey
+  authors: J.J. Güven, M. Hanževački, P. Kalita, A.J. Mulholland, A.S.J.S. Mey
   link:
-    url: https://pubs.acs.org/doi/10.1021/acs.jpcb.4c06379 
-    display: J. Phys. Chem. B, 128, 12416 (2024) 
+    url: https://pubs.acs.org/doi/10.1021/acs.jpcb.4c06379
+    display: J. Phys. Chem. B, 128, 12416 (2024)
   highlight: 0
-  new2:
+  news2:
 
 - title: "Comparison of Methodologies for Absolute Binding Free Energy Calculations of Ligands to Intrinsically Disordered Proteins"
   image: xx.png
   description: Free energies from Markov State modelling and absolute binding free energy calculations
-  authors: M. Papadourakis, Z. Cournia, A. S.J.S. Mey, J. Michel
+  authors: M. Papadourakis, Z. Cournia, A.S.J.S. Mey, J. Michel
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jctc.4c00942
     display: J. Chem. Theory Comput., 20, 9699–9707 (2024)
   highlight: 0
-  new2:
+  news2:
 
 - title: "Digital skills in chemical education"
   image: xx.png
-  description: Option piece on the future of teaching digital skills in chemistry degrees
-  authors: A. R. McCluskey, M. Rivera, A. S.J.S. Mey
+  description: Opinion piece on the future of teaching digital skills in chemistry degrees
+  authors: A.R. McCluskey, M. Rivera, A.S.J.S. Mey
   link:
     url: https://doi.org/10.1038/s41557-024-01613-x
     display: Nat. Chem. 16, 1383-1384 (2024)
   highlight: 0
-  new2:
+  news2:
 
 - title: "Dirac--Bianconi Graph Neural Networks -- Enabling Non-Diffusive Long-Range Graph Predictions"
   image: xx.png
   description: New Graph Neural Network layer for long range interactions
-  authors: C. Nauck, R. Gorantla, M. Lindner, K. Schürholt, A. S.J.S. Mey, F. Hellmann
+  authors: C. Nauck, R. Gorantla, M. Lindner, K. Schürholt, A.S.J.S. Mey, F. Hellmann
   link:
     url: https://doi.org/10.48550/arXiv.2407.12419
-    display: ICML workshop paper 
+    display: ICML workshop paper
   highlight: 0
-  new2:
+  news2:
 
 - title: "Sire: An Interoperability Engine for Prototyping Algorithms and Exchanging Information Between Molecular Simulation Programs"
   image: xx.png
   description: Software paper for Sire
-  authors: C. Woods, L. Hedges, A. J. Mulholland, M. Malaisree, P. Tosco, H. Loeffler, M. Suruzhon, M. Burman, S. Bariami, S. Bosisio, G. Calabro, F. Clark, A. S.J.S. Mey, J. Michel
+  authors: C. Woods, L. Hedges, A.J. Mulholland, M. Malaisree, P. Tosco, H. Loeffler, M. Suruzhon, M. Burman, S. Bariami, S. Bosisio, G. Calabro, F. Clark, A.S.J.S. Mey, J. Michel
   link:
     url: https://doi.org/10.1063/5.0200458
     display: J. Chem. Phys. 160, 202503 (2024)
@@ -90,18 +90,18 @@
 
 - title: "Benchmarking active learning protocols for ligand binding affinity prediction"
   image: al.png
-  description: Benchmarking active learning trategies for best performance on labelling data for binding affinities
-  authors: R. Gorantla, A. Kubincova, B. Suutari, B. P. Cossins, A. S.J.S. Mey
+  description: Benchmarking active learning strategies for best performance on labelling data for binding affinities
+  authors: R. Gorantla, A. Kubincova, B. Suutari, B.P. Cossins, A.S.J.S. Mey
   link:
-    url: https://doi.org/10.1021/acs.jcim.4c00220 
+    url: https://doi.org/10.1021/acs.jcim.4c00220
     display: J. Chem. Inf. Model. (2024)
-  highlight: 1 
+  highlight: 1
   news2: The paper was featured in <a href='https://practicalcheminformatics.blogspot.com/?m=1'>Practical Cheminformatics</a>
 
 - title: "Markov State Models: to optimize or not to optimize"
   image: MSM_optimize.jpg
   description: We provide a set of recommendations for how to (not) optimize Markov State Model building
-  authors: R. Arbon, Y. Zhu, A. S.J.S. Mey
+  authors: R. Arbon, Y. Zhu, A.S.J.S. Mey
   link:
     url: https://doi.org/10.1021/acs.jctc.3c01134
     display: J. Chem. Theory Comput. 20, 977–988 (2024)
@@ -110,8 +110,8 @@
 
 - title: "A suite of tutorials for the BioSimSpace framework for interoperable biomolecular simulation"
   image: xx.png
-  description: A tutorial suite for the biomolecualr software BioSimSpace
-  authors: L. O. Hedges, S. Bariami, M. Burman, F. Clark, B. P. Cossins, A. Hardie, A. M. Herz, D. Lukauskis, A. S.J.S. Mey, J. Michel, J. Scheen, M. Suruzhon, C. J. Woods, Z. Wu
+  description: A tutorial suite for the biomolecular software BioSimSpace
+  authors: L.O. Hedges, S. Bariami, M. Burman, F. Clark, B.P. Cossins, A. Hardie, A.M. Herz, D. Lukauskis, A.S.J.S. Mey, J. Michel, J. Scheen, M. Suruzhon, C.J. Woods, Z. Wu
   link:
     url: https://github.com/michellab/BioSimSpaceTutorials/tree/main/LIVECOMS
     display: Living Journal of Computational Molecular Science 5 (1), 2375-2375 (2023)
@@ -132,15 +132,15 @@
   image: SILVR.png
   description: SILVR is a method for conditioning a pre-trained equivariant diffusion model to generate new molecules from X-ray fragements.
   authors: Nicholas T. Runcie, Antonia S.J.S. Mey
-  link: 
+  link:
     url: https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00667
     display: J. Chem. Inf. Model. 63, 19, 5996–6005 (2023)
-  highlight: 1 
+  highlight: 1
   news2: The paper was selected as an Editor's Choice article
 
 - title: "Course Materials for an Introduction to Data-Driven Chemistry"
   image: xx.png
-  description: Material for Data-driven chemsitry a second year UG course
+  description: Material for Data-driven chemistry a second year UG course
   authors: James Cumby, Valentina Erastova, Matteo T. Degiacomi, J. Jasmin Güven, Claire L. Hobday, Antonia S.J.S. Mey, Hannah Pollak, Rafal Szabla
   link:
     url: https://jose.theoj.org/papers/10.21105/jose.00192
@@ -161,7 +161,7 @@
 - title: "Efficient Purification of Cowpea Chlorotic Mottle Virus by a Novel Peptide Aptamer"
   image: xx.png
   description: A new purification protocol for Cowpea Chlorotic Mottle Virus without the need for expensive centrifugation
-  authors: G. Tscheuschner, M. Ponader, C. Raab, P. S. Weider,  R. Hartfiel, J. O. Kaufmann, J. L. Völzke, G. Bosc-Bierne, C. Prinz, T. Schwaar, P. Andrle, H. Bäßler, K. Nguyen, Y. Zhu, A.S.J.S. Mey, A. Mostafa, I. Bald, M. G. Weller
+  authors: G. Tscheuschner, M. Ponader, C. Raab, P.S. Weider, R. Hartfiel, J.O. Kaufmann, J.L. Völzke, G. Bosc-Bierne, C. Prinz, T. Schwaar, P. Andrle, H. Bäßler, K. Nguyen, Y. Zhu, A.S.J.S. Mey, A. Mostafa, I. Bald, M.G. Weller
   link:
     url: https://doi.org/10.3390/v15030697
     display: Viruses, 15(3), 697 (2023)
@@ -180,18 +180,18 @@
 
 - title: "Best practices for constructing, preparing, and evaluating protein-ligand binding affinity benchmarks"
   image: xx.png
-  description: Benchmark dataset for predicting protein ligand binding affinities 
-  authors: D.F. Hahn, C.I. Bayly, H.E. Bruce Macdonald, J.D. Chodera, A.S.J.S. Mey, D.L. Mobley, L. Perez Benito, C.E. M. Schindler, G.Tresadern, G.L. Warren
+  description: Benchmark dataset for predicting protein ligand binding affinities
+  authors: D.F. Hahn, C.I. Bayly, H.E. Bruce Macdonald, J.D. Chodera, A.S.J.S. Mey, D.L. Mobley, L. Perez Benito, C.E.M. Schindler, G. Tresadern, G.L. Warren
   link:
     url: https://doi.org/10.33011/livecoms.4.1.1497
-    display: Living J. Comp. Mol. Sci. 4(1), 1497 (2022) 
+    display: Living J. Comp. Mol. Sci. 4(1), 1497 (2022)
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Dynamic Profiling of β-Coronavirus 3CL Mpro Protease Ligand-Binding Sites"
   image: xx.png
   description: Study of binding site stability of different coronavirus main proteases
-  authors:   E. Cho, M. Rosa, R. Anjum, S. Mehmood, M. Soban, M. Mujtaba, K. Bux, S. C. Dantu, A. Pandini, J. Yin, H. Ma, A. Ramanathan, B. Islam, A.S.J.S. Mey, D. Bhowmik, S. Haider
+  authors: E. Cho, M. Rosa, R. Anjum, S. Mehmood, M. Soban, M. Mujtaba, K. Bux, S.C. Dantu, A. Pandini, J. Yin, H. Ma, A. Ramanathan, B. Islam, A.S.J.S. Mey, D. Bhowmik, S. Haider
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00449
     display: J. Chem. Inf. Model. 61, 6, 3058–3073 (2021)
@@ -200,48 +200,48 @@
 
 - title: "Implementation of the QUBE Force Field in SOMD for High-Throughput Alchemical Free-Energy Calculations"
   image: xx.png
-  description: Implementation of QUBE in BioSimSpace for alchemical free energy calculations. 
-  authors:   L. Nelson, S. Bariami, C. Ringrose, J. Horton, V. Kurdekar, A.S.J.S. Mey, J. Michel, D. Cole
+  description: Implementation of QUBE in BioSimSpace for alchemical free energy calculations.
+  authors: L. Nelson, S. Bariami, C. Ringrose, J. Horton, V. Kurdekar, A.S.J.S. Mey, J. Michel, D. Cole
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00328
     display: J. Chem. Inf. Model. 61, 5, 2124–2130 (2021)
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Best Practices for Alchemical Free Energy Calculations"
   image: xx.png
-  description: A guide to get you started on how to run alchemical free energy calculations effectively. 
-  authors:   A.S.J.S. Mey, B. Allen, H.E. Bruce Macdonald, J.D. Chodera, D. Hahn, M. Kuhn, J. Michel, D.L. Mobley, L.N. Naden, S. Prasad, A. Rizzi, J. Scheen, M.R. Shirts, G. Tresadern, H. Xu
+  description: A guide to get you started on how to run alchemical free energy calculations effectively.
+  authors: A.S.J.S. Mey, B. Allen, H.E. Bruce Macdonald, J.D. Chodera, D. Hahn, M. Kuhn, J. Michel, D.L. Mobley, L.N. Naden, S. Prasad, A. Rizzi, J. Scheen, M.R. Shirts, G. Tresadern, H. Xu
   link:
     url: https://doi.org/10.33011/livecoms.2.1.18378
     display: Living J. Comp. Mol. Sci. 2 (1), 18378 (2020)
   highlight: 0
-  news2: 
+  news2:
 
 - title: "A Hybrid Alchemical Free Energy and Machine Learning Methodology for the Calculation of Absolute Hydration Free Energies of Small Molecules"
   image: xx.png
-  description: Alchemical free energy simulation are now availabe with Flare GUI
-  authors:   J. Scheen, W. Wu, A.S.J.S. Mey, P. Tosco, M. Mackey, J. Michel
+  description: Alchemical free energy simulations are now available with Flare GUI
+  authors: J. Scheen, W. Wu, A.S.J.S. Mey, P. Tosco, M. Mackey, J. Michel
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jcim.0c00600
     display: J. Chem. Inf. Model. 60, 11, 5331–5339 (2020)
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Assessment of Binding Affinity via Alchemical Free-Energy Calculations"
   image: xx.png
-  description: Alchemical free energy simulation are now availabe with Flare GUI
-  authors:  M. Kuhn, S. Firth-Clark, P. Tosco, A.S.J.S. Mey, M. Mackey, J. Michel
+  description: Alchemical free energy simulations are now available with Flare GUI
+  authors: M. Kuhn, S. Firth-Clark, P. Tosco, A.S.J.S. Mey, M. Mackey, J. Michel
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jcim.0c00165
     display: J. Chem. Inf. Model. 60, 6, 3120–3130 (2020)
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Self-organized emergence of folded protein-like network structures from geometric constraints"
   image: xx.png
-  description: A simple nextowrk model reveals protein like packing.
-  authors:  N. Molkenthin, S. Mühle, A.S.J.S. Mey, M. Timme
+  description: A simple network model reveals protein like packing.
+  authors: N. Molkenthin, S. Mühle, A.S.J.S. Mey, M. Timme
   link:
     url: https://doi.org/10.1371/journal.pone.0229230
     display: PLoS ONE 15(2), e0229230 (2020)
@@ -250,7 +250,7 @@
 
 - title: "Dynamic design: manipulation of millisecond timescale motions on the energy landscape of Cyclophilin A"
   image: xx.png
-  description: 
+  description:
   authors: J. Juárez-Jiménez, A. Gupta, G. Karunanithy, A.S.J.S. Mey, et al.
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc04696h#!divAbstract
@@ -260,7 +260,7 @@
 
 - title: "BioSimSpace: An interoperable Python framework for biomolecular simulation"
   image:
-  description: An interoperale molecular software framework for running complex alchemical free energy simulations as well as metadynamics simulations. 
+  description: An interoperable molecular software framework for running complex alchemical free energy simulations as well as metadynamics simulations.
   authors: L.O. Hedges, A.S.J.S. Mey, C.A. Laughton, et al.
   link:
     url: https://joss.theoj.org/papers/10.21105/joss.01831
@@ -270,18 +270,18 @@
 
 - title: "Allosteric effects in a catalytically impaired variant of the enzyme Cyclophilin A may be explained by changes in nano-microsecond time scale motions"
   image: cyclophilin.png
-  description:  Molecular simulations can give an alternative explanation for the reduced catalytic rate of different Cyclophilin A mutants that is experimentally testable. 
+  description: Molecular simulations can give an alternative explanation for the reduced catalytic rate of different Cyclophilin A mutants that is experimentally testable.
   authors: P. Wapeesittipan, A.S.J.S. Mey, M. Walkinshaw, J. Michel
   link:
     url: https://doi.org/10.1038/s42004-019-0136-1
-    display:  Comms. Chem. 2 41 (2019)
+    display: Comms. Chem. 2 41 (2019)
   highlight: 1
   news2:
 
 - title: "Effect of automation on the accuracy of alchemical free energy calculation protocols over a set of ACK1 inhibitors"
   image: PbSpub.png
-  description: 
-  authors: J.M. Granadino-Roldan*, A.S.J.S. Mey*,  J.J. Perez, S. Bosisio, J. Rubio-Martinez, J. Michel
+  description:
+  authors: J.M. Granadino-Roldan*, A.S.J.S. Mey*, J.J. Perez, S. Bosisio, J. Rubio-Martinez, J. Michel
   link:
     url: https://doi.org/10.1371/journal.pone.0213217
     display: PloS One 14, e0213217 (2019)
@@ -291,16 +291,17 @@
 - title: "Impact of domain knowledge on blinded predictions of binding energies by alchemical free energy calculations"
   image: fxr.png
   description: Accounting for differently charged ligands can be difficult in simulations, a framework for charging corrections was tested as part of a blinded challenge.
-  authors:  A.S.J.S. Mey, J. Juárez-Jiménez, J. Michel
+  authors: A.S.J.S. Mey, J. Juárez-Jiménez, J. Michel
   link:
     url: https://link.springer.com/article/10.1007%2Fs10822-017-0083-9
-    display:  J. Comput. Aided. Mol. Des. 32, 199 (2018)
+    display: J. Comput. Aided. Mol. Des. 32, 199 (2018)
   highlight: 1
   news2:
 
 - title: "Blinded predictions of host-guest standard free energies of binding in the SAMPL5 challenge"
-  description: 
-  authors: S. Bosisio, A.S.J.S. Mey, J. Michel,
+  image:
+  description:
+  authors: S. Bosisio, A.S.J.S. Mey, J. Michel
   link:
     url: https://link.springer.com/article/10.1007/s10822-016-9933-0
     display: J. Comput. Aided. Mol. Des. 31, 61 (2017)
@@ -309,13 +310,13 @@
 
 - title: "Analytical methods for structural ensembles and dynamics of intrinsically disordered proteins"
   image: Pub_BCl.png
-  description: 
+  description:
   authors: M. Schor, A.S.J.S. Mey, C.E. MacPhee
   link:
     url: https://link.springer.com/article/10.1007/s12551-016-0234-6
     display: Biophys. Rev. 8, 429 (2016)
   highlight: 0
-  news1: 
+  news1:
 
 - title: "Blinded predictions of distribution coefficients in the SAMPL5 challenge"
   image: Fano.png
@@ -333,14 +334,14 @@
   authors: A.S.J.S. Mey*, J. Juárez-Jiménez*, A. Hennessy, J. Michel
   link:
     url: https://www.sciencedirect.com/science/article/pii/S096808961630551X?via%3Dihub
-    display: Bioorg. Med. Chem. 24, 4890 (2016) 
+    display: Bioorg. Med. Chem. 24, 4890 (2016)
   highlight: 1
   news2:
 
-- title: "Elucidation of Non-Additive Effects in Protein-Ligand Binding Energies: Thrombin as a Case Study,"
-  image: 
+- title: "Elucidation of Non-Additive Effects in Protein-Ligand Binding Energies: Thrombin as a Case Study"
+  image:
   description:
-  authors: G. Calabrò, C.J. Woods, F. Powlesland, A.S.J.S Mey, A.J. Mulholland, J. Michel
+  authors: G. Calabrò, C.J. Woods, F. Powlesland, A.S.J.S. Mey, A.J. Mulholland, J. Michel
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b03296
     display: J. Phys. Chem. B 120, 5340 (2016)
@@ -353,14 +354,14 @@
   authors: M. Schor, A.S.J.S. Mey, F. Noé, C.E. MacPhee
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jpclett.5b00330
-    display:  J. Phys. Chem. Lett. 6, 1076 (2015) 
-  highlight: 0 
+    display: J. Phys. Chem. Lett. 6, 1076 (2015)
+  highlight: 0
   news2:
 
 - title: "Dynamic Properties of Forcefields"
   image: speed.png
   description: Protein dynamics is highly dependent on the choice of molecular forcefield. The speed of different forcefields is assessed.
-  authors: F. Vitalini*, A.S.J.S. Mey*,  F. Noé and B.G. Keller
+  authors: F. Vitalini*, A.S.J.S. Mey*, F. Noé and B.G. Keller
   link:
     url: https://aip.scitation.org/doi/abs/10.1063/1.4909549?journalCode=jcp
     display: J. Chem. Phys. 142, 084101 (2015)
@@ -368,7 +369,7 @@
   news2: "Most read article of in JCP in 2015"
 
 - title: "Statistically optimal analysis of state-discretized trajectory data from multiple thermodynamic states"
-  image: 
+  image:
   description:
   authors: H. Wu, A.S.J.S. Mey, E. Rosta, F. Noé
   link:
@@ -380,27 +381,27 @@
 - title: "xTRAM: Estimating equilibrium expectations from time-correlated simulation data at multiple thermodynamic states"
   image: xtram.png
   description: A Bayesian estimator for enhanced molecular simulation to estimate both thermodynamic properties and dynamic properties.
-  authors:  A.S.J.S. Mey, H. Wu, and F. Noé
+  authors: A.S.J.S. Mey, H. Wu, and F. Noé
   link:
     url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.041018
     display: Phys. Rev. X 4, 041018 (2014)
-  highlight: 0 
+  highlight: 0
   news2:
 
 - title: "Rare-event trajectory ensemble analysis reveals metastable dynamical phases in lattice proteins"
-  image: 
+  image:
   description:
-  authors:  A.S.J.S. Mey, P.L. Geissler and J.P. Garrahan
+  authors: A.S.J.S. Mey, P.L. Geissler and J.P. Garrahan
   link:
     url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.89.032109
-    display: Phys. Rev. E  89, 032109 (2014)
+    display: Phys. Rev. E 89, 032109 (2014)
   highlight: 0
   news2:
 
 - title: "Variational approach to molecular kinetics"
-  image: 
+  image:
   description:
-  authors:  F. Nüske, B.G. Keller, G. Pérez-Hernández, A.S.J.S. Mey, F. Noé
+  authors: F. Nüske, B.G. Keller, G. Pérez-Hernández, A.S.J.S. Mey, F. Noé
   link:
     url: https://pubs.acs.org/doi/10.1021/ct4009156
     display: J. Chem. Theory Comput. 10, 1739 (2014)
@@ -408,7 +409,7 @@
   news2:
 
 - title: "EMMA - A software package for Markov model building and analysis"
-  image: 
+  image:
   description:
   authors: M. Senne, B. Trendelkamp-Schroer, A.S.J.S. Mey, C. Schütte, F. Noé
   link:
@@ -418,7 +419,7 @@
   news2:
 
 - title: "Thermodynamics of trajectories of the one-dimensional Ising model"
-  image: 
+  image:
   description:
   authors: E.S. Loscar, A.S.J.S. Mey, J.P. Garrahan
   link:
