@@ -1,23 +1,3 @@
-- title: "Accurate and Robust Analysis of Molecular Kinetics with Random Features"
-  image: xx.png
-  description: Using random fourier features to capture molecular kinetics 
-  authors: H. Sprink, Y. Zhu, A.S.J.S. Mey, and F. Nüske
-  link:
-    url: https://doi.org/10.26434/chemrxiv-2025-fz7rt
-    display: ChemRxiv 2025-fz7rt
-  highlight: 0
-  new2:
-
-- title: "A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data"
-  image: xx.png
-  description: Community prediction challege run by Polaris for Pan-coronavirus Drug Discovery
-  authors: H. MacDermott-Opeskin et al.
-  link:
-    url: https://doi.org/10.26434/chemrxiv-2025-zd9mr
-    display: chemrxiv-2025-zd9mr
-  highlight: 0
-  new2:
-
 - title: "mRNA interactions with disordered regions control protein activity"
   image: xx.png
   description: Invesitation of reguatlion of MYC interaction in cytosol and TIS granuals

@@ -1,3 +1,33 @@
+- title: "Conformational isomerism tunes barocaloric potential of MIL-53(Ga)-fum frameworks"
+  image: xx.png
+  description: How conformational isomerism tunes the barocaloric potential of MIL-53(Ga)-fum frameworks
+  authors: C.C. Hong, W.L.W. Leung, C. Wilson, M.J. Liddle, R.S. Forgan, J.J.B. Levinsky, A.S.J.S. Mey, C.L. Hobday
+  link:
+    url: https://doi.org/10.1039/D5TA08920D
+    display: J. Mater. Chem. A (2026)
+  highlight: 0
+  news2:
+
+- title: "Accurate and Robust Analysis of Molecular Kinetics with Random Features"
+  image: xx.png
+  description: Using random Fourier features to capture molecular kinetics
+  authors: H. Sprink, Y. Zhu, A.S.J.S. Mey, F. Nüske
+  link:
+    url: https://doi.org/10.1063/5.0317585
+    display: J. Chem. Phys. 164, 114115 (2026)
+  highlight: 0
+  news2:
+
+- title: "A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data"
+  image: xx.png
+  description: Community prediction challenge run by Polaris for pan-coronavirus drug discovery
+  authors: H. MacDermott-Opeskin et al.
+  link:
+    url: https://doi.org/10.1021/acs.jcim.5c02106
+    display: J. Chem. Inf. Model. 66, 3129-3149 (2026)
+  highlight: 0
+  news2:
+
 - title: "Explainable Active Learning Framework for Ligand Binding Affinity Prediction"
   image: xx.png
   description: How ML models should be evaluated in terms of how good they are at predicting protein ligand binding properties
