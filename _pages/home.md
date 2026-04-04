@@ -47,19 +47,13 @@ We are a research group based at the [University of Edinburgh in the School of C
 </div>
 
 
-**We are looking for more people to join the group!**
-
-We have an opening for a PhD position: 
-
-- [Learning design rules for substrate affinity in metalloenzymes](https://www.findaphd.com/phds/project/learning-design-rules-for-substrate-affinity-in-metalloenzymes/?p195032) **Deadline 16/Mar/2026**  
+**We currently have no open positions**  
 
 **Expression of interest:** Please send an email to [Antonia Mey](mailto:antonia.mey@ed.ac.uk) with the specific title of the project you are interested in. Please attach a brief CV to your email.
 
 
 Otherwise, for more information and other opportunities on how to join take a look [here]({{ site.url }}{{ site.baseurl }}/team)!
 
-
-We are grateful for funding from [Royal Society of Chemistry](https://www.rsc.org) for the Outreach project Chemistry in Focus.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/edinburgh_logo.jpg" style="width: 110px">

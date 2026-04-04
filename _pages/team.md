@@ -162,13 +162,6 @@ permalink: /team/
 
 We currently have no open positions please check back around October/November 2025.
 
-
-We currently have a joint opening with the group of Ephrath Solel Moroskho:
- 
-- [Data-driven Catalyst Optimization for CO2 Utilization Reactions](https://www.findaphd.com/phds/project/data-driven-catalyst-optimization-for-co2-utilization-reactions/?p188593)
-
-**Expression of interest:** Please send an email to [Antonia Mey](mailto:antonia.mey@ed.ac.uk) with the specific title of the project you are interested in. Please attach a brief CV to your email. 
-
 If you want to apply for a prize studentship you will need to register on Euclid prior to 16/12/2024. Please get in touch via email if you are interested as soon as possible. More details are found here:
 
 [Prize Studentships at Edinburgh](https://chem.ed.ac.uk/studying/phd/studentships/prize-phd-scholarships)
