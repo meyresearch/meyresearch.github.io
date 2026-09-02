@@ -1,3 +1,4 @@
+
 - title: "Conformational isomerism tunes barocaloric potential of MIL-53(Ga)-fum frameworks"
   image: xx.png
   description: How conformational isomerism tunes the barocaloric potential of MIL-53(Ga)-fum frameworks
@@ -34,7 +35,7 @@
   authors: S.P. Srivastava, R. Gorantla, S. Krishna Chundru, C.J.R. Winkelman, A.S.J.S. Mey and R. Kumar Singh
   link:
     url: https://doi.org/10.1039/D5DD00436E
-    display: Digital Discoveries (2025)
+    display: Digital Discovery, 5, 769 (2026)
   highlight: 0
   news2:
 
@@ -55,6 +56,16 @@
   link:
     url: https://doi.org/10.1021/acs.jpcb.5c04866
     display: J. Phys. Chem. B, 129, 11652 (2025)
+  highlight: 0
+  news2:
+
+- title: "A course on the setup, running, and analysis of biomolecular simulations"
+  image: xx.png
+  description: A graduate course on setting up, running and analysing biomolecular simulations, developed for the CCP5 Summer School.
+  authors: M.T. Degiacomi, R.J. Gowers, M. Matta, A.S.J.S. Mey
+  link:
+    url: https://doi.org/10.21105/jose.00265
+    display: J. Open Source Educ., 8(87), 265 (2025)
   highlight: 0
   news2:
 

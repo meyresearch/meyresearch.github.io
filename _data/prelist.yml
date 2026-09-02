@@ -1,3 +1,23 @@
+- title: "Tyrosine kinases sample unique activation ensembles"
+  image: xx.png
+  description: Markov state models from millisecond-scale MD show that ABL1, EGFR and MET reach similar structural states via distinct activation pathways.
+  authors: Y. Zhu, M.T. Degiacomi, A.S.J.S. Mey, S. Singh
+  link:
+    url: https://doi.org/10.64898/2026.06.26.734786
+    display: bioRxiv (2026)
+  highlight: 0
+  news2:
+
+- title: "Protein Dynamics Beyond Structure Prediction"
+  image: xx.png
+  description: A perspective on moving beyond static structure prediction towards understanding protein folding and conformational dynamics in living systems.
+  authors: J. Griffié et al., incl. A.S.J.S. Mey
+  link:
+    url: https://arxiv.org/abs/2606.08647
+    display: arXiv:2606.08647 (2026)
+  highlight: 0
+  news2:
+
 - title: "mRNA interactions with disordered regions control protein activity"
   image: xx.png
   description: Investigation of regulation of MYC interaction in cytosol and TIS granules
