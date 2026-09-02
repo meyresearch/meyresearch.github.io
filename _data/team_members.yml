@@ -35,6 +35,19 @@
   education1: BSc in Pharmaceutical Sciences, King Saud University, 2017
   education2: MSc in Drug Design, UCL, 2021
 
+- name: Chengcheng Xu
+  photo: cXu.jpg
+  info: PhD student, started Sep 2026
+  number_educ: 2
+  education1: MSc in Medicinal Big Data and Artificial Intelligence, Jiangsu University, 2025
+  education2: BSc in Pharmacy, Fujian University, 2022
+
+- name: Juan Lopez-Rios De Castro
+  photo: user.png
+  info: PhD student, started Sep 2026, AI4BI CDT
+  number_educ: 1
+  education1: MPhys Physics, UCL, 2025
+
 - name: Cecilia Hong
   photo: Cecilia.jpg
   info: PhD student, started Sep 2022, main supervisor Claire Hobday
@@ -59,3 +72,8 @@
   number_educ: 0
   education1: xx
 
+- name: Kinno Lewis Lewis
+  photo: user.png
+  info: PhD student, started Sep 2026, main supervisor Dominic Campopiano
+  number_educ: 0
+  education1: MChem Chemistry, University of Bristol, 2026

@@ -1,15 +1,26 @@
-- name: "Annika Niemann"
+- name: "Raya Stoyanova"
   photo: user.png
-  info: Visiting PhD student from February 2026
+  info: MSc by Research in Chemistry
   number_educ: 1
-  education1: Visiting PhD student Uni Bremen
+  education1: BSc Medicinal and Biological Chemistry July 2026
 
-- name: "Juliane Aldag"
-  photo: juliane.jpeg
-  info: Visiting MSc student from March 2026
+- name: "Haofeng Gu"
+  photo: user.png
+  info: BSc student in Chemistry
   number_educ: 1
-  education1: MSc in Biochemistry, ETH Zurich, expected summer 2026
+  education1: expected BSc in Medicinal and Biological Chemistry July 2027
 
+- name: "Rocio Bussolini"
+  photo: user.png
+  info: Visiting PhD student from Oct 2026
+  number_educ: 1
+  education1: MSc in Biochemistry University of Buenos Aires, 2024
+
+- name: "Tugce Gokdemir"
+  photo: user.png
+  info: Visiting PhD student from Nov 2026 
+  number_educ: 1
+  education1: MSc in Bioengineering Adana Alparslan Turkes Science and Technology University, 2022
 
 - name: "This could be you !"
   photo: user.png

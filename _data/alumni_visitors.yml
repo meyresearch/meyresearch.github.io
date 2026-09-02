@@ -1,3 +1,15 @@
+- name: "Annika Niemann"
+  photo: user.png
+  info: Visiting PhD student from February 2026
+  number_educ: 1
+  education1: Visiting PhD student Uni Bremen
+
+- name: "Juliane Aldag"
+  photo: juliane.jpeg
+  info: Visiting MSc student from March 2026
+  number_educ: 1
+  education1: MSc in Biochemistry, ETH Zurich, expected summer 2026
+
 - name: Marta Chronowska
   photo: marta.jpg
   info: Medicinal and Biological Chemistry (MChem)
