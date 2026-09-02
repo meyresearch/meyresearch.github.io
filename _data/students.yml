@@ -1,26 +1,29 @@
 - name: "Raya Stoyanova"
   photo: user.png
   info: MSc by Research in Chemistry
-  number_educ: 1
-  education1: BSc Medicinal and Biological Chemistry July 2026
+  number_educ: 2 
+  education1: MSc by Research in Chemistry, expected summer 2027
+  education2: BSc Medicinal and Biological Chemistry July 2026
 
 - name: "Haofeng Gu"
   photo: user.png
   info: BSc student in Chemistry
   number_educ: 1
-  education1: expected BSc in Medicinal and Biological Chemistry July 2027
+  education1: BSc in Medicinal and Biological Chemistry, expected July 2027
 
 - name: "Rocio Bussolini"
   photo: BussoliniLizundiaR.jpg 
   info: Visiting PhD student from Oct 2026
-  number_educ: 1
-  education1: MSc in Biochemistry University of Buenos Aires, 2024
+  number_educ: 2
+  education1: Visiting PhD student from Oct 2026
+  education2: MSc in Biochemistry University of Buenos Aires, 2024
 
 - name: "Tugce Gokdemir"
   photo: user.png
   info: Visiting PhD student from Nov 2026 
-  number_educ: 1
-  education1: MSc in Bioengineering Adana Alparslan Turkes Science and Technology University, 2022
+  number_educ: 2
+  education1: Visiting PhD student from Nov 2026
+  education2: MSc in Bioengineering Adana Alparslan Turkes Science and Technology University, 2022
 
 - name: "This could be you !"
   photo: user.png
